@@ -1,0 +1,8595 @@
+[
+  {
+    "slug": "3m",
+    "name_en": "3M",
+    "ticker": "",
+    "aliases": [
+      "3M"
+    ],
+    "labels": {
+      "en": "3M",
+      "zh-hans": "3M",
+      "zh-hant": "3M",
+      "ja": "3M",
+      "es": "3M",
+      "pt": "3M",
+      "ru": "3M",
+      "tr": "3M",
+      "id": "3M",
+      "ms": "3M",
+      "vi": "3M"
+    }
+  },
+  {
+    "slug": "abbott",
+    "name_en": "Abbott",
+    "ticker": "",
+    "aliases": [
+      "雅培"
+    ],
+    "labels": {
+      "en": "Abbott",
+      "zh-hans": "雅培",
+      "zh-hant": "亞培",
+      "ja": "アボット",
+      "es": "Abbott",
+      "pt": "Abbott",
+      "ru": "Abbott",
+      "tr": "Abbott",
+      "id": "Abbott",
+      "ms": "Abbott",
+      "vi": "Abbott"
+    }
+  },
+  {
+    "slug": "abbvie",
+    "name_en": "AbbVie",
+    "ticker": "",
+    "aliases": [
+      "AbbVie"
+    ],
+    "labels": {
+      "en": "AbbVie",
+      "zh-hans": "AbbVie",
+      "zh-hant": "AbbVie",
+      "ja": "アッヴィ",
+      "es": "AbbVie",
+      "pt": "AbbVie",
+      "ru": "AbbVie",
+      "tr": "AbbVie",
+      "id": "AbbVie",
+      "ms": "AbbVie",
+      "vi": "AbbVie"
+    }
+  },
+  {
+    "slug": "accelevation",
+    "name_en": "Accelevation",
+    "ticker": "",
+    "aliases": [
+      "Accelevation"
+    ],
+    "labels": {
+      "en": "Accelevation",
+      "zh-hans": "Accelevation",
+      "zh-hant": "Accelevation",
+      "ja": "Accelevation",
+      "es": "Accelevation",
+      "pt": "Accelevation",
+      "ru": "Accelevation",
+      "tr": "Accelevation",
+      "id": "Accelevation",
+      "ms": "Accelevation",
+      "vi": "Accelevation"
+    }
+  },
+  {
+    "slug": "accelink-technologies",
+    "name_en": "Accelink Technologies",
+    "ticker": "",
+    "aliases": [
+      "光迅科技"
+    ],
+    "labels": {
+      "en": "Accelink Technologies",
+      "zh-hans": "光迅科技",
+      "zh-hant": "光迅科技",
+      "ja": "光迅科技",
+      "es": "Accelink Technologies",
+      "pt": "Accelink Technologies",
+      "ru": "Accelink Technologies",
+      "tr": "Accelink Technologies",
+      "id": "Accelink Technologies",
+      "ms": "Accelink Technologies",
+      "vi": "Accelink Technologies"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/accelink-technologies"
+  },
+  {
+    "slug": "accton",
+    "name_en": "Accton",
+    "ticker": "",
+    "aliases": [
+      "Accton"
+    ],
+    "labels": {
+      "en": "Accton",
+      "zh-hans": "Accton",
+      "zh-hant": "智邦科技",
+      "ja": "Accton",
+      "es": "Accton",
+      "pt": "Accton",
+      "ru": "Accton",
+      "tr": "Accton",
+      "id": "Accton",
+      "ms": "Accton",
+      "vi": "Accton"
+    }
+  },
+  {
+    "slug": "acm-research",
+    "name_en": "ACM Research",
+    "ticker": "",
+    "aliases": [
+      "ACM Research"
+    ],
+    "labels": {
+      "en": "ACM Research",
+      "zh-hans": "ACM Research",
+      "zh-hant": "ACM Research",
+      "ja": "ACM Research",
+      "es": "ACM Research",
+      "pt": "ACM Research",
+      "ru": "ACM Research",
+      "tr": "ACM Research",
+      "id": "ACM Research",
+      "ms": "ACM Research",
+      "vi": "ACM Research"
+    }
+  },
+  {
+    "slug": "acuity",
+    "name_en": "Acuity",
+    "ticker": "",
+    "aliases": [
+      "Acuity"
+    ],
+    "labels": {
+      "en": "Acuity",
+      "zh-hans": "Acuity",
+      "zh-hant": "Acuity",
+      "ja": "Acuity",
+      "es": "Acuity",
+      "pt": "Acuity",
+      "ru": "Acuity",
+      "tr": "Acuity",
+      "id": "Acuity",
+      "ms": "Acuity",
+      "vi": "Acuity"
+    }
+  },
+  {
+    "slug": "adarx-pharmaceuticals",
+    "name_en": "ADARx Pharmaceuticals",
+    "ticker": "",
+    "aliases": [
+      "ADARx Pharmaceuticals"
+    ],
+    "labels": {
+      "en": "ADARx Pharmaceuticals",
+      "zh-hans": "ADARx Pharmaceuticals",
+      "zh-hant": "ADARx Pharmaceuticals",
+      "ja": "ADARx Pharmaceuticals",
+      "es": "ADARx Pharmaceuticals",
+      "pt": "ADARx Pharmaceuticals",
+      "ru": "ADARx Pharmaceuticals",
+      "tr": "ADARx Pharmaceuticals",
+      "id": "ADARx Pharmaceuticals",
+      "ms": "ADARx Pharmaceuticals",
+      "vi": "ADARx Pharmaceuticals"
+    }
+  },
+  {
+    "slug": "advanced-energy",
+    "name_en": "Advanced Energy",
+    "ticker": "",
+    "aliases": [
+      "Advanced Energy"
+    ],
+    "labels": {
+      "en": "Advanced Energy",
+      "zh-hans": "Advanced Energy",
+      "zh-hant": "Advanced Energy",
+      "ja": "Advanced Energy",
+      "es": "Advanced Energy",
+      "pt": "Advanced Energy",
+      "ru": "Advanced Energy",
+      "tr": "Advanced Energy",
+      "id": "Advanced Energy",
+      "ms": "Advanced Energy",
+      "vi": "Advanced Energy"
+    }
+  },
+  {
+    "slug": "air-products",
+    "name_en": "Air Products",
+    "ticker": "",
+    "aliases": [
+      "Air Products"
+    ],
+    "labels": {
+      "en": "Air Products",
+      "zh-hans": "Air Products",
+      "zh-hant": "Air Products",
+      "ja": "エア・プロダクツ",
+      "es": "Air Products",
+      "pt": "Air Products",
+      "ru": "Air Products",
+      "tr": "Air Products",
+      "id": "Air Products",
+      "ms": "Air Products",
+      "vi": "Air Products"
+    }
+  },
+  {
+    "slug": "airtac",
+    "name_en": "Airtac",
+    "ticker": "",
+    "aliases": [
+      "亚德客"
+    ],
+    "labels": {
+      "en": "Airtac",
+      "zh-hans": "亚德客",
+      "zh-hant": "亞德客",
+      "ja": "Airtac",
+      "es": "Airtac",
+      "pt": "Airtac",
+      "ru": "Airtac",
+      "tr": "Airtac",
+      "id": "Airtac",
+      "ms": "Airtac",
+      "vi": "Airtac"
+    }
+  },
+  {
+    "slug": "akeso",
+    "name_en": "Akeso",
+    "ticker": "",
+    "aliases": [
+      "康方生物"
+    ],
+    "labels": {
+      "en": "Akeso",
+      "zh-hans": "康方生物",
+      "zh-hant": "康方生物",
+      "ja": "Akeso",
+      "es": "Akeso",
+      "pt": "Akeso",
+      "ru": "Akeso",
+      "tr": "Akeso",
+      "id": "Akeso",
+      "ms": "Akeso",
+      "vi": "Akeso"
+    }
+  },
+  {
+    "slug": "alibaba",
+    "name_en": "Alibaba",
+    "ticker": "",
+    "aliases": [
+      "阿里巴巴"
+    ],
+    "labels": {
+      "en": "Alibaba",
+      "zh-hans": "阿里巴巴",
+      "zh-hant": "阿里巴巴",
+      "ja": "アリババ",
+      "es": "Alibaba",
+      "pt": "Alibaba",
+      "ru": "Alibaba",
+      "tr": "Alibaba",
+      "id": "Alibaba",
+      "ms": "Alibaba",
+      "vi": "Alibaba"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/alibaba"
+  },
+  {
+    "slug": "alphabet",
+    "name_en": "Alphabet",
+    "ticker": "",
+    "aliases": [
+      "Alphabet"
+    ],
+    "labels": {
+      "en": "Alphabet",
+      "zh-hans": "Alphabet",
+      "zh-hant": "Alphabet",
+      "ja": "アルファベット",
+      "es": "Alphabet",
+      "pt": "Alphabet",
+      "ru": "Alphabet",
+      "tr": "Alphabet",
+      "id": "Alphabet",
+      "ms": "Alphabet",
+      "vi": "Alphabet"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/alphabet"
+  },
+  {
+    "slug": "amazon",
+    "name_en": "Amazon",
+    "ticker": "",
+    "aliases": [
+      "亚马逊"
+    ],
+    "labels": {
+      "en": "Amazon",
+      "zh-hans": "亚马逊",
+      "zh-hant": "亞馬遜",
+      "ja": "アマゾン",
+      "es": "Amazon",
+      "pt": "Amazon",
+      "ru": "Amazon",
+      "tr": "Amazon",
+      "id": "Amazon",
+      "ms": "Amazon",
+      "vi": "Amazon"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/amazon"
+  },
+  {
+    "slug": "amd",
+    "name_en": "AMD",
+    "ticker": "",
+    "aliases": [
+      "AMD"
+    ],
+    "labels": {
+      "en": "AMD",
+      "zh-hans": "AMD",
+      "zh-hant": "AMD",
+      "ja": "AMD",
+      "es": "AMD",
+      "pt": "AMD",
+      "ru": "AMD",
+      "tr": "AMD",
+      "id": "AMD",
+      "ms": "AMD",
+      "vi": "AMD"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/amd"
+  },
+  {
+    "slug": "ameresco",
+    "name_en": "Ameresco",
+    "ticker": "",
+    "aliases": [
+      "Ameresco"
+    ],
+    "labels": {
+      "en": "Ameresco",
+      "zh-hans": "Ameresco",
+      "zh-hant": "Ameresco",
+      "ja": "Ameresco",
+      "es": "Ameresco",
+      "pt": "Ameresco",
+      "ru": "Ameresco",
+      "tr": "Ameresco",
+      "id": "Ameresco",
+      "ms": "Ameresco",
+      "vi": "Ameresco"
+    }
+  },
+  {
+    "slug": "american-tower",
+    "name_en": "American Tower",
+    "ticker": "",
+    "aliases": [
+      "美国铁塔"
+    ],
+    "labels": {
+      "en": "American Tower",
+      "zh-hans": "美国铁塔",
+      "zh-hant": "American Tower",
+      "ja": "アメリカン・タワー",
+      "es": "American Tower",
+      "pt": "American Tower",
+      "ru": "American Tower",
+      "tr": "American Tower",
+      "id": "American Tower",
+      "ms": "American Tower",
+      "vi": "American Tower"
+    }
+  },
+  {
+    "slug": "amgen",
+    "name_en": "Amgen",
+    "ticker": "",
+    "aliases": [
+      "安进"
+    ],
+    "labels": {
+      "en": "Amgen",
+      "zh-hans": "安进",
+      "zh-hant": "安進",
+      "ja": "アムジェン",
+      "es": "Amgen",
+      "pt": "Amgen",
+      "ru": "Amgen",
+      "tr": "Amgen",
+      "id": "Amgen",
+      "ms": "Amgen",
+      "vi": "Amgen"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/amgen"
+  },
+  {
+    "slug": "amkor",
+    "name_en": "Amkor",
+    "ticker": "",
+    "aliases": [
+      "Amkor"
+    ],
+    "labels": {
+      "en": "Amkor",
+      "zh-hans": "Amkor",
+      "zh-hant": "Amkor",
+      "ja": "アムコー",
+      "es": "Amkor",
+      "pt": "Amkor",
+      "ru": "Amkor",
+      "tr": "Amkor",
+      "id": "Amkor",
+      "ms": "Amkor",
+      "vi": "Amkor"
+    }
+  },
+  {
+    "slug": "amoydx",
+    "name_en": "AmoyDx",
+    "ticker": "",
+    "aliases": [
+      "AmoyDx"
+    ],
+    "labels": {
+      "en": "AmoyDx",
+      "zh-hans": "AmoyDx",
+      "zh-hant": "AmoyDx",
+      "ja": "AmoyDx",
+      "es": "AmoyDx",
+      "pt": "AmoyDx",
+      "ru": "AmoyDx",
+      "tr": "AmoyDx",
+      "id": "AmoyDx",
+      "ms": "AmoyDx",
+      "vi": "AmoyDx"
+    }
+  },
+  {
+    "slug": "ampron",
+    "name_en": "Ampron",
+    "ticker": "",
+    "aliases": [
+      "安培龙"
+    ],
+    "labels": {
+      "en": "Ampron",
+      "zh-hans": "安培龙",
+      "zh-hant": "安培龍",
+      "ja": "安培竜",
+      "es": "Ampron",
+      "pt": "Ampron",
+      "ru": "Ampron",
+      "tr": "Ampron",
+      "id": "Ampron",
+      "ms": "Ampron",
+      "vi": "Ampron"
+    }
+  },
+  {
+    "slug": "anglogold-ashanti",
+    "name_en": "AngloGold Ashanti",
+    "ticker": "",
+    "aliases": [
+      "AngloGold Ashanti"
+    ],
+    "labels": {
+      "en": "AngloGold Ashanti",
+      "zh-hans": "AngloGold Ashanti",
+      "zh-hant": "AngloGold Ashanti",
+      "ja": "AngloGold Ashanti",
+      "es": "AngloGold Ashanti",
+      "pt": "AngloGold Ashanti",
+      "ru": "AngloGold Ashanti",
+      "tr": "AngloGold Ashanti",
+      "id": "AngloGold Ashanti",
+      "ms": "AngloGold Ashanti",
+      "vi": "AngloGold Ashanti"
+    }
+  },
+  {
+    "slug": "anta-sports",
+    "name_en": "ANTA Sports",
+    "ticker": "",
+    "aliases": [
+      "安踏体育"
+    ],
+    "labels": {
+      "en": "ANTA Sports",
+      "zh-hans": "安踏体育",
+      "zh-hant": "安踏體育",
+      "ja": "アンタ・スポーツ",
+      "es": "ANTA Sports",
+      "pt": "ANTA Sports",
+      "ru": "ANTA Sports",
+      "tr": "ANTA Sports",
+      "id": "ANTA Sports",
+      "ms": "ANTA Sports",
+      "vi": "ANTA Sports"
+    }
+  },
+  {
+    "slug": "anthropic",
+    "name_en": "Anthropic",
+    "ticker": "",
+    "aliases": [
+      "Anthropic"
+    ],
+    "labels": {
+      "en": "Anthropic",
+      "zh-hans": "Anthropic",
+      "zh-hant": "Anthropic",
+      "ja": "アンソロピック",
+      "es": "Anthropic",
+      "pt": "Anthropic",
+      "ru": "Anthropic",
+      "tr": "Anthropic",
+      "id": "Anthropic",
+      "ms": "Anthropic",
+      "vi": "Anthropic"
+    }
+  },
+  {
+    "slug": "apple",
+    "name_en": "Apple",
+    "ticker": "",
+    "aliases": [
+      "苹果"
+    ],
+    "labels": {
+      "en": "Apple",
+      "zh-hans": "苹果",
+      "zh-hant": "蘋果",
+      "ja": "アップル",
+      "es": "Apple",
+      "pt": "Apple",
+      "ru": "Apple",
+      "tr": "Apple",
+      "id": "Apple",
+      "ms": "Apple",
+      "vi": "Apple"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/apple"
+  },
+  {
+    "slug": "arcus-biosciences",
+    "name_en": "Arcus Biosciences",
+    "ticker": "",
+    "aliases": [
+      "Arcus Biosciences"
+    ],
+    "labels": {
+      "en": "Arcus Biosciences",
+      "zh-hans": "Arcus Biosciences",
+      "zh-hant": "Arcus Biosciences",
+      "ja": "Arcus Biosciences",
+      "es": "Arcus Biosciences",
+      "pt": "Arcus Biosciences",
+      "ru": "Arcus Biosciences",
+      "tr": "Arcus Biosciences",
+      "id": "Arcus Biosciences",
+      "ms": "Arcus Biosciences",
+      "vi": "Arcus Biosciences"
+    }
+  },
+  {
+    "slug": "arista",
+    "name_en": "Arista",
+    "ticker": "",
+    "aliases": [
+      "Arista"
+    ],
+    "labels": {
+      "en": "Arista",
+      "zh-hans": "Arista",
+      "zh-hant": "Arista",
+      "ja": "アリスタ",
+      "es": "Arista",
+      "pt": "Arista",
+      "ru": "Arista",
+      "tr": "Arista",
+      "id": "Arista",
+      "ms": "Arista",
+      "vi": "Arista"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/arista"
+  },
+  {
+    "slug": "asia-commercial-bank",
+    "name_en": "Asia Commercial Bank",
+    "ticker": "",
+    "aliases": [
+      "Asia Commercial Bank"
+    ],
+    "labels": {
+      "en": "Asia Commercial Bank",
+      "zh-hans": "Asia Commercial Bank",
+      "zh-hant": "亞洲商業銀行",
+      "ja": "Asia Commercial Bank",
+      "es": "Asia Commercial Bank",
+      "pt": "Asia Commercial Bank",
+      "ru": "Asia Commercial Bank",
+      "tr": "Asia Commercial Bank",
+      "id": "Asia Commercial Bank",
+      "ms": "Asia Commercial Bank",
+      "vi": "Asia Commercial Bank"
+    }
+  },
+  {
+    "slug": "asia-vital-components",
+    "name_en": "Asia Vital Components",
+    "ticker": "",
+    "aliases": [
+      "奇鋐"
+    ],
+    "labels": {
+      "en": "Asia Vital Components",
+      "zh-hans": "奇鋐",
+      "zh-hant": "奇鋐",
+      "ja": "Asia Vital Components",
+      "es": "Asia Vital Components",
+      "pt": "Asia Vital Components",
+      "ru": "Asia Vital Components",
+      "tr": "Asia Vital Components",
+      "id": "Asia Vital Components",
+      "ms": "Asia Vital Components",
+      "vi": "Asia Vital Components"
+    }
+  },
+  {
+    "slug": "asia-pacific-mechanical-and-electronic",
+    "name_en": "Asia-Pacific Mechanical & Electronic",
+    "ticker": "",
+    "aliases": [
+      "亚太股份"
+    ],
+    "labels": {
+      "en": "Asia-Pacific Mechanical & Electronic",
+      "zh-hans": "亚太股份",
+      "zh-hant": "亞太股份",
+      "ja": "亜太股份",
+      "es": "Asia-Pacific Mechanical & Electronic",
+      "pt": "Asia-Pacific Mechanical & Electronic",
+      "ru": "Asia-Pacific Mechanical & Electronic",
+      "tr": "Asia-Pacific Mechanical & Electronic",
+      "id": "Asia-Pacific Mechanical & Electronic",
+      "ms": "Asia-Pacific Mechanical & Electronic",
+      "vi": "Asia-Pacific Mechanical & Electronic"
+    }
+  },
+  {
+    "slug": "asmpt",
+    "name_en": "ASMPT",
+    "ticker": "",
+    "aliases": [
+      "ASMPT"
+    ],
+    "labels": {
+      "en": "ASMPT",
+      "zh-hans": "ASMPT",
+      "zh-hant": "ASMPT",
+      "ja": "ASMPT",
+      "es": "ASMPT",
+      "pt": "ASMPT",
+      "ru": "ASMPT",
+      "tr": "ASMPT",
+      "id": "ASMPT",
+      "ms": "ASMPT",
+      "vi": "ASMPT"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/asmpt"
+  },
+  {
+    "slug": "asymchem",
+    "name_en": "Asymchem",
+    "ticker": "",
+    "aliases": [
+      "凯莱英"
+    ],
+    "labels": {
+      "en": "Asymchem",
+      "zh-hans": "凯莱英",
+      "zh-hant": "凱萊英",
+      "ja": "Asymchem",
+      "es": "Asymchem",
+      "pt": "Asymchem",
+      "ru": "Asymchem",
+      "tr": "Asymchem",
+      "id": "Asymchem",
+      "ms": "Asymchem",
+      "vi": "Asymchem"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/asymchem"
+  },
+  {
+    "slug": "at-and-t",
+    "name_en": "AT&T",
+    "ticker": "",
+    "aliases": [
+      "AT&T"
+    ],
+    "labels": {
+      "en": "AT&T",
+      "zh-hans": "AT&T",
+      "zh-hant": "AT&T",
+      "ja": "AT&T",
+      "es": "AT&T",
+      "pt": "AT&T",
+      "ru": "AT&T",
+      "tr": "AT&T",
+      "id": "AT&T",
+      "ms": "AT&T",
+      "vi": "AT&T"
+    }
+  },
+  {
+    "slug": "ategrity",
+    "name_en": "Ategrity",
+    "ticker": "",
+    "aliases": [
+      "Ategrity"
+    ],
+    "labels": {
+      "en": "Ategrity",
+      "zh-hans": "Ategrity",
+      "zh-hant": "Ategrity",
+      "ja": "Ategrity",
+      "es": "Ategrity",
+      "pt": "Ategrity",
+      "ru": "Ategrity",
+      "tr": "Ategrity",
+      "id": "Ategrity",
+      "ms": "Ategrity",
+      "vi": "Ategrity"
+    }
+  },
+  {
+    "slug": "badger-meter",
+    "name_en": "Badger Meter",
+    "ticker": "",
+    "aliases": [
+      "Badger Meter"
+    ],
+    "labels": {
+      "en": "Badger Meter",
+      "zh-hans": "Badger Meter",
+      "zh-hant": "Badger Meter",
+      "ja": "Badger Meter",
+      "es": "Badger Meter",
+      "pt": "Badger Meter",
+      "ru": "Badger Meter",
+      "tr": "Badger Meter",
+      "id": "Badger Meter",
+      "ms": "Badger Meter",
+      "vi": "Badger Meter"
+    }
+  },
+  {
+    "slug": "baidu",
+    "name_en": "Baidu",
+    "ticker": "",
+    "aliases": [
+      "百度"
+    ],
+    "labels": {
+      "en": "Baidu",
+      "zh-hans": "百度",
+      "zh-hant": "百度",
+      "ja": "百度",
+      "es": "Baidu",
+      "pt": "Baidu",
+      "ru": "Baidu",
+      "tr": "Baidu",
+      "id": "Baidu",
+      "ms": "Baidu",
+      "vi": "Baidu"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/baidu"
+  },
+  {
+    "slug": "bairun",
+    "name_en": "Bairun",
+    "ticker": "",
+    "aliases": [
+      "百润股份"
+    ],
+    "labels": {
+      "en": "Bairun",
+      "zh-hans": "百润股份",
+      "zh-hant": "百潤股份",
+      "ja": "百潤股份",
+      "es": "Bairun",
+      "pt": "Bairun",
+      "ru": "Bairun",
+      "tr": "Bairun",
+      "id": "Bairun",
+      "ms": "Bairun",
+      "vi": "Bairun"
+    }
+  },
+  {
+    "slug": "bank-of-china",
+    "name_en": "Bank of China",
+    "ticker": "",
+    "aliases": [
+      "中国银行"
+    ],
+    "labels": {
+      "en": "Bank of China",
+      "zh-hans": "中国银行",
+      "zh-hant": "中國銀行",
+      "ja": "中国銀行",
+      "es": "Bank of China",
+      "pt": "Bank of China",
+      "ru": "Bank of China",
+      "tr": "Bank of China",
+      "id": "Bank of China",
+      "ms": "Bank of China",
+      "vi": "Bank of China"
+    }
+  },
+  {
+    "slug": "baofeng-energy",
+    "name_en": "Baofeng Energy",
+    "ticker": "",
+    "aliases": [
+      "宝丰能源"
+    ],
+    "labels": {
+      "en": "Baofeng Energy",
+      "zh-hans": "宝丰能源",
+      "zh-hant": "寶豐能源",
+      "ja": "宝豊能源",
+      "es": "Baofeng Energy",
+      "pt": "Baofeng Energy",
+      "ru": "Baofeng Energy",
+      "tr": "Baofeng Energy",
+      "id": "Baofeng Energy",
+      "ms": "Baofeng Energy",
+      "vi": "Baofeng Energy"
+    }
+  },
+  {
+    "slug": "baoshan-iron-and-steel",
+    "name_en": "Baoshan Iron & Steel",
+    "ticker": "",
+    "aliases": [
+      "宝钢股份"
+    ],
+    "labels": {
+      "en": "Baoshan Iron & Steel",
+      "zh-hans": "宝钢股份",
+      "zh-hant": "寶鋼股份",
+      "ja": "宝山鋼鉄",
+      "es": "Baoshan Iron & Steel",
+      "pt": "Baoshan Iron & Steel",
+      "ru": "Baoshan Iron & Steel",
+      "tr": "Baoshan Iron & Steel",
+      "id": "Baoshan Iron & Steel",
+      "ms": "Baoshan Iron & Steel",
+      "vi": "Baoshan Iron & Steel"
+    }
+  },
+  {
+    "slug": "beijing-new-building-materials",
+    "name_en": "Beijing New Building Materials",
+    "ticker": "",
+    "aliases": [
+      "北新建材"
+    ],
+    "labels": {
+      "en": "Beijing New Building Materials",
+      "zh-hans": "北新建材",
+      "zh-hant": "北新建材",
+      "ja": "北新建材",
+      "es": "Beijing New Building Materials",
+      "pt": "Beijing New Building Materials",
+      "ru": "Beijing New Building Materials",
+      "tr": "Beijing New Building Materials",
+      "id": "Beijing New Building Materials",
+      "ms": "Beijing New Building Materials",
+      "vi": "Beijing New Building Materials"
+    }
+  },
+  {
+    "slug": "beone",
+    "name_en": "BeOne",
+    "ticker": "",
+    "aliases": [
+      "BeOne"
+    ],
+    "labels": {
+      "en": "BeOne",
+      "zh-hans": "BeOne",
+      "zh-hant": "BeOne",
+      "ja": "BeOne",
+      "es": "BeOne",
+      "pt": "BeOne",
+      "ru": "BeOne",
+      "tr": "BeOne",
+      "id": "BeOne",
+      "ms": "BeOne",
+      "vi": "BeOne"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/beone"
+  },
+  {
+    "slug": "besi",
+    "name_en": "Besi",
+    "ticker": "",
+    "aliases": [
+      "Besi"
+    ],
+    "labels": {
+      "en": "Besi",
+      "zh-hans": "Besi",
+      "zh-hant": "Besi",
+      "ja": "Besi",
+      "es": "Besi",
+      "pt": "Besi",
+      "ru": "Besi",
+      "tr": "Besi",
+      "id": "Besi",
+      "ms": "Besi",
+      "vi": "Besi"
+    }
+  },
+  {
+    "slug": "best",
+    "name_en": "Best",
+    "ticker": "",
+    "aliases": [
+      "Best"
+    ],
+    "labels": {
+      "en": "Best",
+      "zh-hans": "Best",
+      "zh-hant": "Best",
+      "ja": "Best",
+      "es": "Best",
+      "pt": "Best",
+      "ru": "Best",
+      "tr": "Best",
+      "id": "Best",
+      "ms": "Best",
+      "vi": "Best"
+    }
+  },
+  {
+    "slug": "bilibili",
+    "name_en": "Bilibili",
+    "ticker": "",
+    "aliases": [
+      "哔哩哔哩"
+    ],
+    "labels": {
+      "en": "Bilibili",
+      "zh-hans": "哔哩哔哩",
+      "zh-hant": "嗶哩嗶哩",
+      "ja": "ビリビリ",
+      "es": "Bilibili",
+      "pt": "Bilibili",
+      "ru": "Bilibili",
+      "tr": "Bilibili",
+      "id": "Bilibili",
+      "ms": "Bilibili",
+      "vi": "Bilibili"
+    }
+  },
+  {
+    "slug": "biontech",
+    "name_en": "BioNTech",
+    "ticker": "",
+    "aliases": [
+      "BioNTech"
+    ],
+    "labels": {
+      "en": "BioNTech",
+      "zh-hans": "BioNTech",
+      "zh-hant": "BioNTech",
+      "ja": "BioNTech",
+      "es": "BioNTech",
+      "pt": "BioNTech",
+      "ru": "BioNTech",
+      "tr": "BioNTech",
+      "id": "BioNTech",
+      "ms": "BioNTech",
+      "vi": "BioNTech"
+    }
+  },
+  {
+    "slug": "biren",
+    "name_en": "Biren",
+    "ticker": "",
+    "aliases": [
+      "Biren"
+    ],
+    "labels": {
+      "en": "Biren",
+      "zh-hans": "Biren",
+      "zh-hant": "Biren",
+      "ja": "Biren",
+      "es": "Biren",
+      "pt": "Biren",
+      "ru": "Biren",
+      "tr": "Biren",
+      "id": "Biren",
+      "ms": "Biren",
+      "vi": "Biren"
+    }
+  },
+  {
+    "slug": "bj-s-restaurants",
+    "name_en": "BJ’s Restaurants",
+    "ticker": "",
+    "aliases": [
+      "BJ’s Restaurants"
+    ],
+    "labels": {
+      "en": "BJ’s Restaurants",
+      "zh-hans": "BJ’s Restaurants",
+      "zh-hant": "BJ’s Restaurants",
+      "ja": "BJ’s Restaurants",
+      "es": "BJ’s Restaurants",
+      "pt": "BJ’s Restaurants",
+      "ru": "BJ’s Restaurants",
+      "tr": "BJ’s Restaurants",
+      "id": "BJ’s Restaurants",
+      "ms": "BJ’s Restaurants",
+      "vi": "BJ’s Restaurants"
+    }
+  },
+  {
+    "slug": "blackrock",
+    "name_en": "BlackRock",
+    "ticker": "",
+    "aliases": [
+      "贝莱德"
+    ],
+    "labels": {
+      "en": "BlackRock",
+      "zh-hans": "贝莱德",
+      "zh-hant": "貝萊德",
+      "ja": "ブラックロック",
+      "es": "BlackRock",
+      "pt": "BlackRock",
+      "ru": "BlackRock",
+      "tr": "BlackRock",
+      "id": "BlackRock",
+      "ms": "BlackRock",
+      "vi": "BlackRock"
+    }
+  },
+  {
+    "slug": "blackstone",
+    "name_en": "Blackstone",
+    "ticker": "",
+    "aliases": [
+      "黑石"
+    ],
+    "labels": {
+      "en": "Blackstone",
+      "zh-hans": "黑石",
+      "zh-hant": "黑石集團",
+      "ja": "ブラックストーン",
+      "es": "Blackstone",
+      "pt": "Blackstone",
+      "ru": "Blackstone",
+      "tr": "Blackstone",
+      "id": "Blackstone",
+      "ms": "Blackstone",
+      "vi": "Blackstone"
+    }
+  },
+  {
+    "slug": "block",
+    "name_en": "Block",
+    "ticker": "",
+    "aliases": [
+      "Block"
+    ],
+    "labels": {
+      "en": "Block",
+      "zh-hans": "Block",
+      "zh-hant": "Block",
+      "ja": "Block",
+      "es": "Block",
+      "pt": "Block",
+      "ru": "Block",
+      "tr": "Block",
+      "id": "Block",
+      "ms": "Block",
+      "vi": "Block"
+    }
+  },
+  {
+    "slug": "bloks",
+    "name_en": "Bloks",
+    "ticker": "",
+    "aliases": [
+      "布鲁可"
+    ],
+    "labels": {
+      "en": "Bloks",
+      "zh-hans": "布鲁可",
+      "zh-hant": "布魯可",
+      "ja": "Bloks",
+      "es": "Bloks",
+      "pt": "Bloks",
+      "ru": "Bloks",
+      "tr": "Bloks",
+      "id": "Bloks",
+      "ms": "Bloks",
+      "vi": "Bloks"
+    }
+  },
+  {
+    "slug": "bloom-energy",
+    "name_en": "Bloom Energy",
+    "ticker": "",
+    "aliases": [
+      "Bloom Energy"
+    ],
+    "labels": {
+      "en": "Bloom Energy",
+      "zh-hans": "Bloom Energy",
+      "zh-hant": "Bloom Energy",
+      "ja": "Bloom Energy",
+      "es": "Bloom Energy",
+      "pt": "Bloom Energy",
+      "ru": "Bloom Energy",
+      "tr": "Bloom Energy",
+      "id": "Bloom Energy",
+      "ms": "Bloom Energy",
+      "vi": "Bloom Energy"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/bloom-energy"
+  },
+  {
+    "slug": "bluescope-steel",
+    "name_en": "BlueScope Steel",
+    "ticker": "",
+    "aliases": [
+      "BlueScope Steel"
+    ],
+    "labels": {
+      "en": "BlueScope Steel",
+      "zh-hans": "BlueScope Steel",
+      "zh-hant": "BlueScope Steel",
+      "ja": "BlueScope Steel",
+      "es": "BlueScope Steel",
+      "pt": "BlueScope Steel",
+      "ru": "BlueScope Steel",
+      "tr": "BlueScope Steel",
+      "id": "BlueScope Steel",
+      "ms": "BlueScope Steel",
+      "vi": "BlueScope Steel"
+    }
+  },
+  {
+    "slug": "boeing",
+    "name_en": "Boeing",
+    "ticker": "",
+    "aliases": [
+      "波音"
+    ],
+    "labels": {
+      "en": "Boeing",
+      "zh-hans": "波音",
+      "zh-hant": "波音",
+      "ja": "ボーイング",
+      "es": "Boeing",
+      "pt": "Boeing",
+      "ru": "Boeing",
+      "tr": "Boeing",
+      "id": "Boeing",
+      "ms": "Boeing",
+      "vi": "Boeing"
+    }
+  },
+  {
+    "slug": "boot-barn",
+    "name_en": "Boot Barn",
+    "ticker": "",
+    "aliases": [
+      "Boot Barn"
+    ],
+    "labels": {
+      "en": "Boot Barn",
+      "zh-hans": "Boot Barn",
+      "zh-hant": "Boot Barn",
+      "ja": "Boot Barn",
+      "es": "Boot Barn",
+      "pt": "Boot Barn",
+      "ru": "Boot Barn",
+      "tr": "Boot Barn",
+      "id": "Boot Barn",
+      "ms": "Boot Barn",
+      "vi": "Boot Barn"
+    }
+  },
+  {
+    "slug": "boston-beer-company",
+    "name_en": "Boston Beer Company",
+    "ticker": "",
+    "aliases": [
+      "波士顿啤酒"
+    ],
+    "labels": {
+      "en": "Boston Beer Company",
+      "zh-hans": "波士顿啤酒",
+      "zh-hant": "波士頓啤酒",
+      "ja": "ボストン・ビール",
+      "es": "Boston Beer Company",
+      "pt": "Boston Beer Company",
+      "ru": "Boston Beer Company",
+      "tr": "Boston Beer Company",
+      "id": "Boston Beer Company",
+      "ms": "Boston Beer Company",
+      "vi": "Boston Beer Company"
+    }
+  },
+  {
+    "slug": "boyd-gaming",
+    "name_en": "Boyd Gaming",
+    "ticker": "",
+    "aliases": [
+      "Boyd Gaming"
+    ],
+    "labels": {
+      "en": "Boyd Gaming",
+      "zh-hans": "Boyd Gaming",
+      "zh-hant": "Boyd Gaming",
+      "ja": "Boyd Gaming",
+      "es": "Boyd Gaming",
+      "pt": "Boyd Gaming",
+      "ru": "Boyd Gaming",
+      "tr": "Boyd Gaming",
+      "id": "Boyd Gaming",
+      "ms": "Boyd Gaming",
+      "vi": "Boyd Gaming"
+    }
+  },
+  {
+    "slug": "bozhon-precision-industry-technology",
+    "name_en": "Bozhon Precision Industry Technology",
+    "ticker": "",
+    "aliases": [
+      "博众精工"
+    ],
+    "labels": {
+      "en": "Bozhon Precision Industry Technology",
+      "zh-hans": "博众精工",
+      "zh-hant": "博眾精工",
+      "ja": "博衆精工",
+      "es": "Bozhon Precision Industry Technology",
+      "pt": "Bozhon Precision Industry Technology",
+      "ru": "Bozhon Precision Industry Technology",
+      "tr": "Bozhon Precision Industry Technology",
+      "id": "Bozhon Precision Industry Technology",
+      "ms": "Bozhon Precision Industry Technology",
+      "vi": "Bozhon Precision Industry Technology"
+    }
+  },
+  {
+    "slug": "brixmor-property-group",
+    "name_en": "Brixmor Property Group",
+    "ticker": "",
+    "aliases": [
+      "Brixmor Property Group"
+    ],
+    "labels": {
+      "en": "Brixmor Property Group",
+      "zh-hans": "Brixmor Property Group",
+      "zh-hant": "Brixmor Property Group",
+      "ja": "Brixmor Property Group",
+      "es": "Brixmor Property Group",
+      "pt": "Brixmor Property Group",
+      "ru": "Brixmor Property Group",
+      "tr": "Brixmor Property Group",
+      "id": "Brixmor Property Group",
+      "ms": "Brixmor Property Group",
+      "vi": "Brixmor Property Group"
+    }
+  },
+  {
+    "slug": "broadcom",
+    "name_en": "Broadcom",
+    "ticker": "",
+    "aliases": [
+      "博通"
+    ],
+    "labels": {
+      "en": "Broadcom",
+      "zh-hans": "博通",
+      "zh-hant": "博通",
+      "ja": "ブロードコム",
+      "es": "Broadcom",
+      "pt": "Broadcom",
+      "ru": "Broadcom",
+      "tr": "Broadcom",
+      "id": "Broadcom",
+      "ms": "Broadcom",
+      "vi": "Broadcom"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/broadcom"
+  },
+  {
+    "slug": "caci-international",
+    "name_en": "CACI International",
+    "ticker": "",
+    "aliases": [
+      "CACI International"
+    ],
+    "labels": {
+      "en": "CACI International",
+      "zh-hans": "CACI International",
+      "zh-hant": "CACI International",
+      "ja": "CACI International",
+      "es": "CACI International",
+      "pt": "CACI International",
+      "ru": "CACI International",
+      "tr": "CACI International",
+      "id": "CACI International",
+      "ms": "CACI International",
+      "vi": "CACI International"
+    }
+  },
+  {
+    "slug": "cadence",
+    "name_en": "Cadence",
+    "ticker": "",
+    "aliases": [
+      "Cadence"
+    ],
+    "labels": {
+      "en": "Cadence",
+      "zh-hans": "Cadence",
+      "zh-hant": "Cadence",
+      "ja": "ケイデンス",
+      "es": "Cadence",
+      "pt": "Cadence",
+      "ru": "Cadence",
+      "tr": "Cadence",
+      "id": "Cadence",
+      "ms": "Cadence",
+      "vi": "Cadence"
+    }
+  },
+  {
+    "slug": "cambricon",
+    "name_en": "Cambricon",
+    "ticker": "",
+    "aliases": [
+      "寒武纪"
+    ],
+    "labels": {
+      "en": "Cambricon",
+      "zh-hans": "寒武纪",
+      "zh-hant": "寒武紀",
+      "ja": "Cambricon",
+      "es": "Cambricon",
+      "pt": "Cambricon",
+      "ru": "Cambricon",
+      "tr": "Cambricon",
+      "id": "Cambricon",
+      "ms": "Cambricon",
+      "vi": "Cambricon"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/cambricon"
+  },
+  {
+    "slug": "catl",
+    "name_en": "CATL",
+    "ticker": "",
+    "aliases": [
+      "宁德时代"
+    ],
+    "labels": {
+      "en": "CATL",
+      "zh-hans": "宁德时代",
+      "zh-hant": "寧德時代",
+      "ja": "CATL",
+      "es": "CATL",
+      "pt": "CATL",
+      "ru": "CATL",
+      "tr": "CATL",
+      "id": "CATL",
+      "ms": "CATL",
+      "vi": "CATL"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/catl"
+  },
+  {
+    "slug": "celestica",
+    "name_en": "Celestica",
+    "ticker": "",
+    "aliases": [
+      "Celestica"
+    ],
+    "labels": {
+      "en": "Celestica",
+      "zh-hans": "Celestica",
+      "zh-hant": "Celestica",
+      "ja": "セレスティカ",
+      "es": "Celestica",
+      "pt": "Celestica",
+      "ru": "Celestica",
+      "tr": "Celestica",
+      "id": "Celestica",
+      "ms": "Celestica",
+      "vi": "Celestica"
+    }
+  },
+  {
+    "slug": "changyu-group",
+    "name_en": "Changyu Group",
+    "ticker": "",
+    "aliases": [
+      "长裕集团"
+    ],
+    "labels": {
+      "en": "Changyu Group",
+      "zh-hans": "长裕集团",
+      "zh-hant": "長裕集團",
+      "ja": "長裕集団",
+      "es": "Changyu Group",
+      "pt": "Changyu Group",
+      "ru": "Changyu Group",
+      "tr": "Changyu Group",
+      "id": "Changyu Group",
+      "ms": "Changyu Group",
+      "vi": "Changyu Group"
+    }
+  },
+  {
+    "slug": "china-jushi",
+    "name_en": "China Jushi",
+    "ticker": "",
+    "aliases": [
+      "中国巨石"
+    ],
+    "labels": {
+      "en": "China Jushi",
+      "zh-hans": "中国巨石",
+      "zh-hant": "中國巨石",
+      "ja": "中国巨石",
+      "es": "China Jushi",
+      "pt": "China Jushi",
+      "ru": "China Jushi",
+      "tr": "China Jushi",
+      "id": "China Jushi",
+      "ms": "China Jushi",
+      "vi": "China Jushi"
+    }
+  },
+  {
+    "slug": "china-merchants-bank",
+    "name_en": "China Merchants Bank",
+    "ticker": "",
+    "aliases": [
+      "招商银行"
+    ],
+    "labels": {
+      "en": "China Merchants Bank",
+      "zh-hans": "招商银行",
+      "zh-hant": "招商銀行",
+      "ja": "招商銀行",
+      "es": "China Merchants Bank",
+      "pt": "China Merchants Bank",
+      "ru": "China Merchants Bank",
+      "tr": "China Merchants Bank",
+      "id": "China Merchants Bank",
+      "ms": "China Merchants Bank",
+      "vi": "China Merchants Bank"
+    }
+  },
+  {
+    "slug": "china-merchants-securities",
+    "name_en": "China Merchants Securities",
+    "ticker": "",
+    "aliases": [
+      "招商证券"
+    ],
+    "labels": {
+      "en": "China Merchants Securities",
+      "zh-hans": "招商证券",
+      "zh-hant": "招商證券",
+      "ja": "招商証券",
+      "es": "China Merchants Securities",
+      "pt": "China Merchants Securities",
+      "ru": "China Merchants Securities",
+      "tr": "China Merchants Securities",
+      "id": "China Merchants Securities",
+      "ms": "China Merchants Securities",
+      "vi": "China Merchants Securities"
+    }
+  },
+  {
+    "slug": "china-mobile",
+    "name_en": "China Mobile",
+    "ticker": "",
+    "aliases": [
+      "中国移动"
+    ],
+    "labels": {
+      "en": "China Mobile",
+      "zh-hans": "中国移动",
+      "zh-hant": "中國移動",
+      "ja": "中国移動",
+      "es": "China Mobile",
+      "pt": "China Mobile",
+      "ru": "China Mobile",
+      "tr": "China Mobile",
+      "id": "China Mobile",
+      "ms": "China Mobile",
+      "vi": "China Mobile"
+    }
+  },
+  {
+    "slug": "china-national-building-material",
+    "name_en": "China National Building Material",
+    "ticker": "",
+    "aliases": [
+      "中国建材"
+    ],
+    "labels": {
+      "en": "China National Building Material",
+      "zh-hans": "中国建材",
+      "zh-hant": "中國建材",
+      "ja": "中国建材",
+      "es": "China National Building Material",
+      "pt": "China National Building Material",
+      "ru": "China National Building Material",
+      "tr": "China National Building Material",
+      "id": "China National Building Material",
+      "ms": "China National Building Material",
+      "vi": "China National Building Material"
+    }
+  },
+  {
+    "slug": "china-northern-rare-earth",
+    "name_en": "China Northern Rare Earth",
+    "ticker": "",
+    "aliases": [
+      "北方稀土"
+    ],
+    "labels": {
+      "en": "China Northern Rare Earth",
+      "zh-hans": "北方稀土",
+      "zh-hant": "北方稀土",
+      "ja": "China Northern Rare Earth",
+      "es": "China Northern Rare Earth",
+      "pt": "China Northern Rare Earth",
+      "ru": "China Northern Rare Earth",
+      "tr": "China Northern Rare Earth",
+      "id": "China Northern Rare Earth",
+      "ms": "China Northern Rare Earth",
+      "vi": "China Northern Rare Earth"
+    }
+  },
+  {
+    "slug": "china-oilfield-services",
+    "name_en": "China Oilfield Services",
+    "ticker": "",
+    "aliases": [
+      "中海油服"
+    ],
+    "labels": {
+      "en": "China Oilfield Services",
+      "zh-hans": "中海油服",
+      "zh-hant": "中海油服",
+      "ja": "中海油服",
+      "es": "China Oilfield Services",
+      "pt": "China Oilfield Services",
+      "ru": "China Oilfield Services",
+      "tr": "China Oilfield Services",
+      "id": "China Oilfield Services",
+      "ms": "China Oilfield Services",
+      "vi": "China Oilfield Services"
+    }
+  },
+  {
+    "slug": "china-pet-foods",
+    "name_en": "China Pet Foods",
+    "ticker": "",
+    "aliases": [
+      "中宠股份"
+    ],
+    "labels": {
+      "en": "China Pet Foods",
+      "zh-hans": "中宠股份",
+      "zh-hant": "中寵股份",
+      "ja": "中寵股份",
+      "es": "China Pet Foods",
+      "pt": "China Pet Foods",
+      "ru": "China Pet Foods",
+      "tr": "China Pet Foods",
+      "id": "China Pet Foods",
+      "ms": "China Pet Foods",
+      "vi": "China Pet Foods"
+    }
+  },
+  {
+    "slug": "china-rare-earth-resources-and-technology",
+    "name_en": "China Rare Earth Resources and Technology",
+    "ticker": "",
+    "aliases": [
+      "中国稀土"
+    ],
+    "labels": {
+      "en": "China Rare Earth Resources and Technology",
+      "zh-hans": "中国稀土",
+      "zh-hant": "中國稀土",
+      "ja": "中国稀土",
+      "es": "China Rare Earth Resources and Technology",
+      "pt": "China Rare Earth Resources and Technology",
+      "ru": "China Rare Earth Resources and Technology",
+      "tr": "China Rare Earth Resources and Technology",
+      "id": "China Rare Earth Resources and Technology",
+      "ms": "China Rare Earth Resources and Technology",
+      "vi": "China Rare Earth Resources and Technology"
+    }
+  },
+  {
+    "slug": "china-reinsurance",
+    "name_en": "China Reinsurance",
+    "ticker": "",
+    "aliases": [
+      "中国再保险"
+    ],
+    "labels": {
+      "en": "China Reinsurance",
+      "zh-hans": "中国再保险",
+      "zh-hant": "中國再保險",
+      "ja": "中国再保険",
+      "es": "China Reinsurance",
+      "pt": "China Reinsurance",
+      "ru": "China Reinsurance",
+      "tr": "China Reinsurance",
+      "id": "China Reinsurance",
+      "ms": "China Reinsurance",
+      "vi": "China Reinsurance"
+    }
+  },
+  {
+    "slug": "china-resources-building-materials",
+    "name_en": "China Resources Building Materials",
+    "ticker": "",
+    "aliases": [
+      "华润建材"
+    ],
+    "labels": {
+      "en": "China Resources Building Materials",
+      "zh-hans": "华润建材",
+      "zh-hant": "華潤建材",
+      "ja": "華潤建材",
+      "es": "China Resources Building Materials",
+      "pt": "China Resources Building Materials",
+      "ru": "China Resources Building Materials",
+      "tr": "China Resources Building Materials",
+      "id": "China Resources Building Materials",
+      "ms": "China Resources Building Materials",
+      "vi": "China Resources Building Materials"
+    }
+  },
+  {
+    "slug": "china-shenhua-energy",
+    "name_en": "China Shenhua Energy",
+    "ticker": "",
+    "aliases": [
+      "中国神华"
+    ],
+    "labels": {
+      "en": "China Shenhua Energy",
+      "zh-hans": "中国神华",
+      "zh-hant": "中國神華",
+      "ja": "中国神華",
+      "es": "China Shenhua Energy",
+      "pt": "China Shenhua Energy",
+      "ru": "China Shenhua Energy",
+      "tr": "China Shenhua Energy",
+      "id": "China Shenhua Energy",
+      "ms": "China Shenhua Energy",
+      "vi": "China Shenhua Energy"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/china-shenhua-energy"
+  },
+  {
+    "slug": "china-state-construction-international",
+    "name_en": "China State Construction International",
+    "ticker": "",
+    "aliases": [
+      "中国建筑国际"
+    ],
+    "labels": {
+      "en": "China State Construction International",
+      "zh-hans": "中国建筑国际",
+      "zh-hant": "中國建築國際",
+      "ja": "中国建築国際",
+      "es": "China State Construction International",
+      "pt": "China State Construction International",
+      "ru": "China State Construction International",
+      "tr": "China State Construction International",
+      "id": "China State Construction International",
+      "ms": "China State Construction International",
+      "vi": "China State Construction International"
+    }
+  },
+  {
+    "slug": "china-telecom",
+    "name_en": "China Telecom",
+    "ticker": "",
+    "aliases": [
+      "中国电信"
+    ],
+    "labels": {
+      "en": "China Telecom",
+      "zh-hans": "中国电信",
+      "zh-hant": "中國電信",
+      "ja": "中国電信",
+      "es": "China Telecom",
+      "pt": "China Telecom",
+      "ru": "China Telecom",
+      "tr": "China Telecom",
+      "id": "China Telecom",
+      "ms": "China Telecom",
+      "vi": "China Telecom"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/china-telecom"
+  },
+  {
+    "slug": "chipown",
+    "name_en": "Chipown",
+    "ticker": "",
+    "aliases": [
+      "芯朋微"
+    ],
+    "labels": {
+      "en": "Chipown",
+      "zh-hans": "芯朋微",
+      "zh-hant": "芯朋微",
+      "ja": "芯朋微",
+      "es": "Chipown",
+      "pt": "Chipown",
+      "ru": "Chipown",
+      "tr": "Chipown",
+      "id": "Chipown",
+      "ms": "Chipown",
+      "vi": "Chipown"
+    }
+  },
+  {
+    "slug": "chipsea-technologies",
+    "name_en": "Chipsea Technologies",
+    "ticker": "",
+    "aliases": [
+      "芯海科技"
+    ],
+    "labels": {
+      "en": "Chipsea Technologies",
+      "zh-hans": "芯海科技",
+      "zh-hant": "芯海科技",
+      "ja": "芯海科技",
+      "es": "Chipsea Technologies",
+      "pt": "Chipsea Technologies",
+      "ru": "Chipsea Technologies",
+      "tr": "Chipsea Technologies",
+      "id": "Chipsea Technologies",
+      "ms": "Chipsea Technologies",
+      "vi": "Chipsea Technologies"
+    }
+  },
+  {
+    "slug": "chroma",
+    "name_en": "Chroma",
+    "ticker": "",
+    "aliases": [
+      "Chroma"
+    ],
+    "labels": {
+      "en": "Chroma",
+      "zh-hans": "Chroma",
+      "zh-hant": "Chroma",
+      "ja": "Chroma",
+      "es": "Chroma",
+      "pt": "Chroma",
+      "ru": "Chroma",
+      "tr": "Chroma",
+      "id": "Chroma",
+      "ms": "Chroma",
+      "vi": "Chroma"
+    }
+  },
+  {
+    "slug": "cicc",
+    "name_en": "CICC",
+    "ticker": "",
+    "aliases": [
+      "中金公司"
+    ],
+    "labels": {
+      "en": "CICC",
+      "zh-hans": "中金公司",
+      "zh-hant": "中金公司",
+      "ja": "CICC",
+      "es": "CICC",
+      "pt": "CICC",
+      "ru": "CICC",
+      "tr": "CICC",
+      "id": "CICC",
+      "ms": "CICC",
+      "vi": "CICC"
+    }
+  },
+  {
+    "slug": "cimc-enric",
+    "name_en": "CIMC Enric",
+    "ticker": "",
+    "aliases": [
+      "中集安瑞科"
+    ],
+    "labels": {
+      "en": "CIMC Enric",
+      "zh-hans": "中集安瑞科",
+      "zh-hant": "中集安瑞科",
+      "ja": "CIMC Enric",
+      "es": "CIMC Enric",
+      "pt": "CIMC Enric",
+      "ru": "CIMC Enric",
+      "tr": "CIMC Enric",
+      "id": "CIMC Enric",
+      "ms": "CIMC Enric",
+      "vi": "CIMC Enric"
+    }
+  },
+  {
+    "slug": "cimc-raffles",
+    "name_en": "CIMC Raffles",
+    "ticker": "",
+    "aliases": [
+      "中集来福士"
+    ],
+    "labels": {
+      "en": "CIMC Raffles",
+      "zh-hans": "中集来福士",
+      "zh-hant": "中集來福士",
+      "ja": "CIMC Raffles",
+      "es": "CIMC Raffles",
+      "pt": "CIMC Raffles",
+      "ru": "CIMC Raffles",
+      "tr": "CIMC Raffles",
+      "id": "CIMC Raffles",
+      "ms": "CIMC Raffles",
+      "vi": "CIMC Raffles"
+    }
+  },
+  {
+    "slug": "circle",
+    "name_en": "Circle",
+    "ticker": "",
+    "aliases": [
+      "Circle"
+    ],
+    "labels": {
+      "en": "Circle",
+      "zh-hans": "Circle",
+      "zh-hant": "Circle",
+      "ja": "Circle",
+      "es": "Circle",
+      "pt": "Circle",
+      "ru": "Circle",
+      "tr": "Circle",
+      "id": "Circle",
+      "ms": "Circle",
+      "vi": "Circle"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/circle"
+  },
+  {
+    "slug": "citic-securities",
+    "name_en": "CITIC Securities",
+    "ticker": "",
+    "aliases": [
+      "中信证券"
+    ],
+    "labels": {
+      "en": "CITIC Securities",
+      "zh-hans": "中信证券",
+      "zh-hant": "中信證券",
+      "ja": "中信証券",
+      "es": "CITIC Securities",
+      "pt": "CITIC Securities",
+      "ru": "CITIC Securities",
+      "tr": "CITIC Securities",
+      "id": "CITIC Securities",
+      "ms": "CITIC Securities",
+      "vi": "CITIC Securities"
+    }
+  },
+  {
+    "slug": "cleveland-cliffs",
+    "name_en": "Cleveland-Cliffs",
+    "ticker": "",
+    "aliases": [
+      "Cleveland-Cliffs"
+    ],
+    "labels": {
+      "en": "Cleveland-Cliffs",
+      "zh-hans": "Cleveland-Cliffs",
+      "zh-hant": "Cleveland-Cliffs",
+      "ja": "Cleveland-Cliffs",
+      "es": "Cleveland-Cliffs",
+      "pt": "Cleveland-Cliffs",
+      "ru": "Cleveland-Cliffs",
+      "tr": "Cleveland-Cliffs",
+      "id": "Cleveland-Cliffs",
+      "ms": "Cleveland-Cliffs",
+      "vi": "Cleveland-Cliffs"
+    }
+  },
+  {
+    "slug": "cloudflare",
+    "name_en": "Cloudflare",
+    "ticker": "",
+    "aliases": [
+      "Cloudflare"
+    ],
+    "labels": {
+      "en": "Cloudflare",
+      "zh-hans": "Cloudflare",
+      "zh-hant": "Cloudflare",
+      "ja": "Cloudflare",
+      "es": "Cloudflare",
+      "pt": "Cloudflare",
+      "ru": "Cloudflare",
+      "tr": "Cloudflare",
+      "id": "Cloudflare",
+      "ms": "Cloudflare",
+      "vi": "Cloudflare"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/cloudflare"
+  },
+  {
+    "slug": "cmoc-group",
+    "name_en": "CMOC Group",
+    "ticker": "",
+    "aliases": [
+      "洛阳钼业"
+    ],
+    "labels": {
+      "en": "CMOC Group",
+      "zh-hans": "洛阳钼业",
+      "zh-hant": "洛陽鉬業",
+      "ja": "CMOC Group",
+      "es": "CMOC Group",
+      "pt": "CMOC Group",
+      "ru": "CMOC Group",
+      "tr": "CMOC Group",
+      "id": "CMOC Group",
+      "ms": "CMOC Group",
+      "vi": "CMOC Group"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/cmoc-group"
+  },
+  {
+    "slug": "coca-cola",
+    "name_en": "Coca-Cola",
+    "ticker": "",
+    "aliases": [
+      "可口可乐"
+    ],
+    "labels": {
+      "en": "Coca-Cola",
+      "zh-hans": "可口可乐",
+      "zh-hant": "可口可樂",
+      "ja": "コカ・コーラ",
+      "es": "Coca-Cola",
+      "pt": "Coca-Cola",
+      "ru": "Coca-Cola",
+      "tr": "Coca-Cola",
+      "id": "Coca-Cola",
+      "ms": "Coca-Cola",
+      "vi": "Coca-Cola"
+    }
+  },
+  {
+    "slug": "coherent",
+    "name_en": "Coherent",
+    "ticker": "",
+    "aliases": [
+      "Coherent"
+    ],
+    "labels": {
+      "en": "Coherent",
+      "zh-hans": "Coherent",
+      "zh-hant": "Coherent",
+      "ja": "コヒレント",
+      "es": "Coherent",
+      "pt": "Coherent",
+      "ru": "Coherent",
+      "tr": "Coherent",
+      "id": "Coherent",
+      "ms": "Coherent",
+      "vi": "Coherent"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/coherent"
+  },
+  {
+    "slug": "coinbase",
+    "name_en": "Coinbase",
+    "ticker": "",
+    "aliases": [
+      "Coinbase"
+    ],
+    "labels": {
+      "en": "Coinbase",
+      "zh-hans": "Coinbase",
+      "zh-hant": "Coinbase",
+      "ja": "Coinbase",
+      "es": "Coinbase",
+      "pt": "Coinbase",
+      "ru": "Coinbase",
+      "tr": "Coinbase",
+      "id": "Coinbase",
+      "ms": "Coinbase",
+      "vi": "Coinbase"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/coinbase"
+  },
+  {
+    "slug": "comfort-systems-usa",
+    "name_en": "Comfort Systems USA",
+    "ticker": "",
+    "aliases": [
+      "Comfort Systems USA"
+    ],
+    "labels": {
+      "en": "Comfort Systems USA",
+      "zh-hans": "Comfort Systems USA",
+      "zh-hant": "Comfort Systems USA",
+      "ja": "Comfort Systems USA",
+      "es": "Comfort Systems USA",
+      "pt": "Comfort Systems USA",
+      "ru": "Comfort Systems USA",
+      "tr": "Comfort Systems USA",
+      "id": "Comfort Systems USA",
+      "ms": "Comfort Systems USA",
+      "vi": "Comfort Systems USA"
+    }
+  },
+  {
+    "slug": "consolidated-edison",
+    "name_en": "Consolidated Edison",
+    "ticker": "",
+    "aliases": [
+      "Consolidated Edison"
+    ],
+    "labels": {
+      "en": "Consolidated Edison",
+      "zh-hans": "Consolidated Edison",
+      "zh-hant": "Consolidated Edison",
+      "ja": "Consolidated Edison",
+      "es": "Consolidated Edison",
+      "pt": "Consolidated Edison",
+      "ru": "Consolidated Edison",
+      "tr": "Consolidated Edison",
+      "id": "Consolidated Edison",
+      "ms": "Consolidated Edison",
+      "vi": "Consolidated Edison"
+    }
+  },
+  {
+    "slug": "coreweave",
+    "name_en": "CoreWeave",
+    "ticker": "",
+    "aliases": [
+      "CoreWeave"
+    ],
+    "labels": {
+      "en": "CoreWeave",
+      "zh-hans": "CoreWeave",
+      "zh-hant": "CoreWeave",
+      "ja": "CoreWeave",
+      "es": "CoreWeave",
+      "pt": "CoreWeave",
+      "ru": "CoreWeave",
+      "tr": "CoreWeave",
+      "id": "CoreWeave",
+      "ms": "CoreWeave",
+      "vi": "CoreWeave"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/coreweave"
+  },
+  {
+    "slug": "corning",
+    "name_en": "Corning",
+    "ticker": "",
+    "aliases": [
+      "康宁"
+    ],
+    "labels": {
+      "en": "Corning",
+      "zh-hans": "康宁",
+      "zh-hant": "康寧",
+      "ja": "コーニング",
+      "es": "Corning",
+      "pt": "Corning",
+      "ru": "Corning",
+      "tr": "Corning",
+      "id": "Corning",
+      "ms": "Corning",
+      "vi": "Corning"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/corning"
+  },
+  {
+    "slug": "cti",
+    "name_en": "CTI",
+    "ticker": "",
+    "aliases": [
+      "华测检测"
+    ],
+    "labels": {
+      "en": "CTI",
+      "zh-hans": "华测检测",
+      "zh-hant": "華測檢測",
+      "ja": "華測検測",
+      "es": "CTI",
+      "pt": "CTI",
+      "ru": "CTI",
+      "tr": "CTI",
+      "id": "CTI",
+      "ms": "CTI",
+      "vi": "CTI"
+    }
+  },
+  {
+    "slug": "cvte",
+    "name_en": "CVTE",
+    "ticker": "",
+    "aliases": [
+      "CVTE"
+    ],
+    "labels": {
+      "en": "CVTE",
+      "zh-hans": "CVTE",
+      "zh-hant": "CVTE",
+      "ja": "CVTE",
+      "es": "CVTE",
+      "pt": "CVTE",
+      "ru": "CVTE",
+      "tr": "CVTE",
+      "id": "CVTE",
+      "ms": "CVTE",
+      "vi": "CVTE"
+    }
+  },
+  {
+    "slug": "cxmt",
+    "name_en": "CXMT",
+    "ticker": "",
+    "aliases": [
+      "长鑫科技"
+    ],
+    "labels": {
+      "en": "CXMT",
+      "zh-hans": "长鑫科技",
+      "zh-hant": "CXMT",
+      "ja": "CXMT",
+      "es": "CXMT",
+      "pt": "CXMT",
+      "ru": "CXMT",
+      "tr": "CXMT",
+      "id": "CXMT",
+      "ms": "CXMT",
+      "vi": "CXMT"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/cxmt"
+  },
+  {
+    "slug": "dajin-heavy-industry",
+    "name_en": "Dajin Heavy Industry",
+    "ticker": "",
+    "aliases": [
+      "大金重工"
+    ],
+    "labels": {
+      "en": "Dajin Heavy Industry",
+      "zh-hans": "大金重工",
+      "zh-hant": "大金重工",
+      "ja": "大金重工",
+      "es": "Dajin Heavy Industry",
+      "pt": "Dajin Heavy Industry",
+      "ru": "Dajin Heavy Industry",
+      "tr": "Dajin Heavy Industry",
+      "id": "Dajin Heavy Industry",
+      "ms": "Dajin Heavy Industry",
+      "vi": "Dajin Heavy Industry"
+    }
+  },
+  {
+    "slug": "danaher",
+    "name_en": "Danaher",
+    "ticker": "",
+    "aliases": [
+      "丹纳赫"
+    ],
+    "labels": {
+      "en": "Danaher",
+      "zh-hans": "丹纳赫",
+      "zh-hant": "丹納赫",
+      "ja": "ダナハー",
+      "es": "Danaher",
+      "pt": "Danaher",
+      "ru": "Danaher",
+      "tr": "Danaher",
+      "id": "Danaher",
+      "ms": "Danaher",
+      "vi": "Danaher"
+    }
+  },
+  {
+    "slug": "daqo-new-energy",
+    "name_en": "Daqo New Energy",
+    "ticker": "",
+    "aliases": [
+      "大全新能源"
+    ],
+    "labels": {
+      "en": "Daqo New Energy",
+      "zh-hans": "大全新能源",
+      "zh-hant": "大全新能源",
+      "ja": "大全新能源",
+      "es": "Daqo New Energy",
+      "pt": "Daqo New Energy",
+      "ru": "Daqo New Energy",
+      "tr": "Daqo New Energy",
+      "id": "Daqo New Energy",
+      "ms": "Daqo New Energy",
+      "vi": "Daqo New Energy"
+    }
+  },
+  {
+    "slug": "deckers",
+    "name_en": "Deckers",
+    "ticker": "",
+    "aliases": [
+      "Deckers"
+    ],
+    "labels": {
+      "en": "Deckers",
+      "zh-hans": "Deckers",
+      "zh-hant": "Deckers",
+      "ja": "Deckers",
+      "es": "Deckers",
+      "pt": "Deckers",
+      "ru": "Deckers",
+      "tr": "Deckers",
+      "id": "Deckers",
+      "ms": "Deckers",
+      "vi": "Deckers"
+    }
+  },
+  {
+    "slug": "deepseek",
+    "name_en": "DeepSeek",
+    "ticker": "",
+    "aliases": [
+      "DeepSeek"
+    ],
+    "labels": {
+      "en": "DeepSeek",
+      "zh-hans": "DeepSeek",
+      "zh-hant": "DeepSeek",
+      "ja": "DeepSeek",
+      "es": "DeepSeek",
+      "pt": "DeepSeek",
+      "ru": "DeepSeek",
+      "tr": "DeepSeek",
+      "id": "DeepSeek",
+      "ms": "DeepSeek",
+      "vi": "DeepSeek"
+    }
+  },
+  {
+    "slug": "defu-technology",
+    "name_en": "Defu Technology",
+    "ticker": "",
+    "aliases": [
+      "德福科技"
+    ],
+    "labels": {
+      "en": "Defu Technology",
+      "zh-hans": "德福科技",
+      "zh-hant": "德福科技",
+      "ja": "徳福科技",
+      "es": "Defu Technology",
+      "pt": "Defu Technology",
+      "ru": "Defu Technology",
+      "tr": "Defu Technology",
+      "id": "Defu Technology",
+      "ms": "Defu Technology",
+      "vi": "Defu Technology"
+    }
+  },
+  {
+    "slug": "desay-sv",
+    "name_en": "Desay SV",
+    "ticker": "",
+    "aliases": [
+      "德赛西威"
+    ],
+    "labels": {
+      "en": "Desay SV",
+      "zh-hans": "德赛西威",
+      "zh-hant": "德賽西威",
+      "ja": "Desay SV",
+      "es": "Desay SV",
+      "pt": "Desay SV",
+      "ru": "Desay SV",
+      "tr": "Desay SV",
+      "id": "Desay SV",
+      "ms": "Desay SV",
+      "vi": "Desay SV"
+    }
+  },
+  {
+    "slug": "disco",
+    "name_en": "DISCO",
+    "ticker": "",
+    "aliases": [
+      "DISCO"
+    ],
+    "labels": {
+      "en": "DISCO",
+      "zh-hans": "DISCO",
+      "zh-hant": "DISCO",
+      "ja": "DISCO",
+      "es": "DISCO",
+      "pt": "DISCO",
+      "ru": "DISCO",
+      "tr": "DISCO",
+      "id": "DISCO",
+      "ms": "DISCO",
+      "vi": "DISCO"
+    }
+  },
+  {
+    "slug": "dong-e-e-jiao",
+    "name_en": "Dong-E-E-Jiao",
+    "ticker": "",
+    "aliases": [
+      "东阿阿胶"
+    ],
+    "labels": {
+      "en": "Dong-E-E-Jiao",
+      "zh-hans": "东阿阿胶",
+      "zh-hant": "東阿阿膠",
+      "ja": "東阿阿膠",
+      "es": "Dong-E-E-Jiao",
+      "pt": "Dong-E-E-Jiao",
+      "ru": "Dong-E-E-Jiao",
+      "tr": "Dong-E-E-Jiao",
+      "id": "Dong-E-E-Jiao",
+      "ms": "Dong-E-E-Jiao",
+      "vi": "Dong-E-E-Jiao"
+    }
+  },
+  {
+    "slug": "doordash",
+    "name_en": "DoorDash",
+    "ticker": "",
+    "aliases": [
+      "DoorDash"
+    ],
+    "labels": {
+      "en": "DoorDash",
+      "zh-hans": "DoorDash",
+      "zh-hant": "DoorDash",
+      "ja": "ドアダッシュ",
+      "es": "DoorDash",
+      "pt": "DoorDash",
+      "ru": "DoorDash",
+      "tr": "DoorDash",
+      "id": "DoorDash",
+      "ms": "DoorDash",
+      "vi": "DoorDash"
+    }
+  },
+  {
+    "slug": "dover",
+    "name_en": "Dover",
+    "ticker": "",
+    "aliases": [
+      "Dover"
+    ],
+    "labels": {
+      "en": "Dover",
+      "zh-hans": "Dover",
+      "zh-hant": "Dover",
+      "ja": "ドーバー",
+      "es": "Dover",
+      "pt": "Dover",
+      "ru": "Dover",
+      "tr": "Dover",
+      "id": "Dover",
+      "ms": "Dover",
+      "vi": "Dover"
+    }
+  },
+  {
+    "slug": "dt-midstream",
+    "name_en": "DT Midstream",
+    "ticker": "",
+    "aliases": [
+      "DT Midstream"
+    ],
+    "labels": {
+      "en": "DT Midstream",
+      "zh-hans": "DT Midstream",
+      "zh-hant": "DT Midstream",
+      "ja": "DT Midstream",
+      "es": "DT Midstream",
+      "pt": "DT Midstream",
+      "ru": "DT Midstream",
+      "tr": "DT Midstream",
+      "id": "DT Midstream",
+      "ms": "DT Midstream",
+      "vi": "DT Midstream"
+    }
+  },
+  {
+    "slug": "east-money",
+    "name_en": "East Money",
+    "ticker": "",
+    "aliases": [
+      "东方财富"
+    ],
+    "labels": {
+      "en": "East Money",
+      "zh-hans": "东方财富",
+      "zh-hant": "東方財富",
+      "ja": "東方財富",
+      "es": "East Money",
+      "pt": "East Money",
+      "ru": "East Money",
+      "tr": "East Money",
+      "id": "East Money",
+      "ms": "East Money",
+      "vi": "East Money"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/east-money"
+  },
+  {
+    "slug": "ebay",
+    "name_en": "eBay",
+    "ticker": "",
+    "aliases": [
+      "eBay"
+    ],
+    "labels": {
+      "en": "eBay",
+      "zh-hans": "eBay",
+      "zh-hant": "eBay",
+      "ja": "eBay",
+      "es": "eBay",
+      "pt": "eBay",
+      "ru": "eBay",
+      "tr": "eBay",
+      "id": "eBay",
+      "ms": "eBay",
+      "vi": "eBay"
+    }
+  },
+  {
+    "slug": "ecolab",
+    "name_en": "Ecolab",
+    "ticker": "",
+    "aliases": [
+      "Ecolab"
+    ],
+    "labels": {
+      "en": "Ecolab",
+      "zh-hans": "Ecolab",
+      "zh-hant": "Ecolab",
+      "ja": "エコラボ",
+      "es": "Ecolab",
+      "pt": "Ecolab",
+      "ru": "Ecolab",
+      "tr": "Ecolab",
+      "id": "Ecolab",
+      "ms": "Ecolab",
+      "vi": "Ecolab"
+    }
+  },
+  {
+    "slug": "eli-lilly",
+    "name_en": "Eli Lilly",
+    "ticker": "",
+    "aliases": [
+      "礼来"
+    ],
+    "labels": {
+      "en": "Eli Lilly",
+      "zh-hans": "礼来",
+      "zh-hant": "禮來",
+      "ja": "イーライリリー",
+      "es": "Eli Lilly",
+      "pt": "Eli Lilly",
+      "ru": "Eli Lilly",
+      "tr": "Eli Lilly",
+      "id": "Eli Lilly",
+      "ms": "Eli Lilly",
+      "vi": "Eli Lilly"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/eli-lilly"
+  },
+  {
+    "slug": "embraer",
+    "name_en": "Embraer",
+    "ticker": "",
+    "aliases": [
+      "巴航工业"
+    ],
+    "labels": {
+      "en": "Embraer",
+      "zh-hans": "巴航工业",
+      "zh-hant": "巴航工業",
+      "ja": "エンブラエル",
+      "es": "Embraer",
+      "pt": "Embraer",
+      "ru": "Embraer",
+      "tr": "Embraer",
+      "id": "Embraer",
+      "ms": "Embraer",
+      "vi": "Embraer"
+    }
+  },
+  {
+    "slug": "empyrean-technology",
+    "name_en": "Empyrean Technology",
+    "ticker": "",
+    "aliases": [
+      "华大九天"
+    ],
+    "labels": {
+      "en": "Empyrean Technology",
+      "zh-hans": "华大九天",
+      "zh-hant": "華大九天",
+      "ja": "華大九天",
+      "es": "Empyrean Technology",
+      "pt": "Empyrean Technology",
+      "ru": "Empyrean Technology",
+      "tr": "Empyrean Technology",
+      "id": "Empyrean Technology",
+      "ms": "Empyrean Technology",
+      "vi": "Empyrean Technology"
+    }
+  },
+  {
+    "slug": "envicool",
+    "name_en": "Envicool",
+    "ticker": "",
+    "aliases": [
+      "英维克"
+    ],
+    "labels": {
+      "en": "Envicool",
+      "zh-hans": "英维克",
+      "zh-hant": "英維克",
+      "ja": "英維克",
+      "es": "Envicool",
+      "pt": "Envicool",
+      "ru": "Envicool",
+      "tr": "Envicool",
+      "id": "Envicool",
+      "ms": "Envicool",
+      "vi": "Envicool"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/envicool"
+  },
+  {
+    "slug": "eos-energy",
+    "name_en": "Eos Energy",
+    "ticker": "",
+    "aliases": [
+      "Eos Energy"
+    ],
+    "labels": {
+      "en": "Eos Energy",
+      "zh-hans": "Eos Energy",
+      "zh-hant": "Eos Energy",
+      "ja": "Eos Energy",
+      "es": "Eos Energy",
+      "pt": "Eos Energy",
+      "ru": "Eos Energy",
+      "tr": "Eos Energy",
+      "id": "Eos Energy",
+      "ms": "Eos Energy",
+      "vi": "Eos Energy"
+    }
+  },
+  {
+    "slug": "eve-energy",
+    "name_en": "EVE Energy",
+    "ticker": "",
+    "aliases": [
+      "亿纬锂能"
+    ],
+    "labels": {
+      "en": "EVE Energy",
+      "zh-hans": "亿纬锂能",
+      "zh-hant": "億緯鋰能",
+      "ja": "EVE Energy",
+      "es": "EVE Energy",
+      "pt": "EVE Energy",
+      "ru": "EVE Energy",
+      "tr": "EVE Energy",
+      "id": "EVE Energy",
+      "ms": "EVE Energy",
+      "vi": "EVE Energy"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/eve-energy"
+  },
+  {
+    "slug": "extra-space-storage",
+    "name_en": "Extra Space Storage",
+    "ticker": "",
+    "aliases": [
+      "Extra Space Storage"
+    ],
+    "labels": {
+      "en": "Extra Space Storage",
+      "zh-hans": "Extra Space Storage",
+      "zh-hant": "Extra Space Storage",
+      "ja": "Extra Space Storage",
+      "es": "Extra Space Storage",
+      "pt": "Extra Space Storage",
+      "ru": "Extra Space Storage",
+      "tr": "Extra Space Storage",
+      "id": "Extra Space Storage",
+      "ms": "Extra Space Storage",
+      "vi": "Extra Space Storage"
+    }
+  },
+  {
+    "slug": "fanuc",
+    "name_en": "FANUC",
+    "ticker": "",
+    "aliases": [
+      "发那科"
+    ],
+    "labels": {
+      "en": "FANUC",
+      "zh-hans": "发那科",
+      "zh-hant": "發那科",
+      "ja": "ファナック",
+      "es": "FANUC",
+      "pt": "FANUC",
+      "ru": "FANUC",
+      "tr": "FANUC",
+      "id": "FANUC",
+      "ms": "FANUC",
+      "vi": "FANUC"
+    }
+  },
+  {
+    "slug": "fastprint",
+    "name_en": "Fastprint",
+    "ticker": "",
+    "aliases": [
+      "兴森科技"
+    ],
+    "labels": {
+      "en": "Fastprint",
+      "zh-hans": "兴森科技",
+      "zh-hant": "興森科技",
+      "ja": "Fastprint",
+      "es": "Fastprint",
+      "pt": "Fastprint",
+      "ru": "Fastprint",
+      "tr": "Fastprint",
+      "id": "Fastprint",
+      "ms": "Fastprint",
+      "vi": "Fastprint"
+    }
+  },
+  {
+    "slug": "figure",
+    "name_en": "Figure",
+    "ticker": "",
+    "aliases": [
+      "Figure"
+    ],
+    "labels": {
+      "en": "Figure",
+      "zh-hans": "Figure",
+      "zh-hant": "Figure",
+      "ja": "Figure",
+      "es": "Figure",
+      "pt": "Figure",
+      "ru": "Figure",
+      "tr": "Figure",
+      "id": "Figure",
+      "ms": "Figure",
+      "vi": "Figure"
+    }
+  },
+  {
+    "slug": "fiyta",
+    "name_en": "FIYTA",
+    "ticker": "",
+    "aliases": [
+      "飞亚达"
+    ],
+    "labels": {
+      "en": "FIYTA",
+      "zh-hans": "飞亚达",
+      "zh-hant": "飛亞達",
+      "ja": "FIYTA",
+      "es": "FIYTA",
+      "pt": "FIYTA",
+      "ru": "FIYTA",
+      "tr": "FIYTA",
+      "id": "FIYTA",
+      "ms": "FIYTA",
+      "vi": "FIYTA"
+    }
+  },
+  {
+    "slug": "fmx",
+    "name_en": "FMX",
+    "ticker": "",
+    "aliases": [
+      "FMX"
+    ],
+    "labels": {
+      "en": "FMX",
+      "zh-hans": "FMX",
+      "zh-hant": "FMX",
+      "ja": "FMX",
+      "es": "FMX",
+      "pt": "FMX",
+      "ru": "FMX",
+      "tr": "FMX",
+      "id": "FMX",
+      "ms": "FMX",
+      "vi": "FMX"
+    }
+  },
+  {
+    "slug": "focus-media",
+    "name_en": "Focus Media",
+    "ticker": "",
+    "aliases": [
+      "分众传媒"
+    ],
+    "labels": {
+      "en": "Focus Media",
+      "zh-hans": "分众传媒",
+      "zh-hant": "分眾傳媒",
+      "ja": "分衆伝媒",
+      "es": "Focus Media",
+      "pt": "Focus Media",
+      "ru": "Focus Media",
+      "tr": "Focus Media",
+      "id": "Focus Media",
+      "ms": "Focus Media",
+      "vi": "Focus Media"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/focus-media"
+  },
+  {
+    "slug": "ford",
+    "name_en": "Ford",
+    "ticker": "",
+    "aliases": [
+      "福特"
+    ],
+    "labels": {
+      "en": "Ford",
+      "zh-hans": "福特",
+      "zh-hant": "福特",
+      "ja": "フォード",
+      "es": "Ford",
+      "pt": "Ford",
+      "ru": "Ford",
+      "tr": "Ford",
+      "id": "Ford",
+      "ms": "Ford",
+      "vi": "Ford"
+    }
+  },
+  {
+    "slug": "fortinet",
+    "name_en": "Fortinet",
+    "ticker": "",
+    "aliases": [
+      "Fortinet"
+    ],
+    "labels": {
+      "en": "Fortinet",
+      "zh-hans": "Fortinet",
+      "zh-hant": "Fortinet",
+      "ja": "Fortinet",
+      "es": "Fortinet",
+      "pt": "Fortinet",
+      "ru": "Fortinet",
+      "tr": "Fortinet",
+      "id": "Fortinet",
+      "ms": "Fortinet",
+      "vi": "Fortinet"
+    }
+  },
+  {
+    "slug": "foster",
+    "name_en": "Foster",
+    "ticker": "",
+    "aliases": [
+      "福斯特"
+    ],
+    "labels": {
+      "en": "Foster",
+      "zh-hans": "福斯特",
+      "zh-hant": "福斯特",
+      "ja": "福斯特",
+      "es": "Foster",
+      "pt": "Foster",
+      "ru": "Foster",
+      "tr": "Foster",
+      "id": "Foster",
+      "ms": "Foster",
+      "vi": "Foster"
+    }
+  },
+  {
+    "slug": "fulin-precision",
+    "name_en": "Fulin Precision",
+    "ticker": "",
+    "aliases": [
+      "富临精工"
+    ],
+    "labels": {
+      "en": "Fulin Precision",
+      "zh-hans": "富临精工",
+      "zh-hant": "富臨精工",
+      "ja": "富臨精工",
+      "es": "Fulin Precision",
+      "pt": "Fulin Precision",
+      "ru": "Fulin Precision",
+      "tr": "Fulin Precision",
+      "id": "Fulin Precision",
+      "ms": "Fulin Precision",
+      "vi": "Fulin Precision"
+    }
+  },
+  {
+    "slug": "fuyao-glass",
+    "name_en": "Fuyao Glass",
+    "ticker": "",
+    "aliases": [
+      "福耀玻璃"
+    ],
+    "labels": {
+      "en": "Fuyao Glass",
+      "zh-hans": "福耀玻璃",
+      "zh-hant": "福耀玻璃",
+      "ja": "福耀ガラス",
+      "es": "Fuyao Glass",
+      "pt": "Fuyao Glass",
+      "ru": "Fuyao Glass",
+      "tr": "Fuyao Glass",
+      "id": "Fuyao Glass",
+      "ms": "Fuyao Glass",
+      "vi": "Fuyao Glass"
+    }
+  },
+  {
+    "slug": "g-bits",
+    "name_en": "G-bits",
+    "ticker": "",
+    "aliases": [
+      "吉比特"
+    ],
+    "labels": {
+      "en": "G-bits",
+      "zh-hans": "吉比特",
+      "zh-hant": "吉比特",
+      "ja": "G-bits",
+      "es": "G-bits",
+      "pt": "G-bits",
+      "ru": "G-bits",
+      "tr": "G-bits",
+      "id": "G-bits",
+      "ms": "G-bits",
+      "vi": "G-bits"
+    }
+  },
+  {
+    "slug": "ge-aerospace",
+    "name_en": "GE Aerospace",
+    "ticker": "",
+    "aliases": [
+      "GE Aerospace"
+    ],
+    "labels": {
+      "en": "GE Aerospace",
+      "zh-hans": "GE Aerospace",
+      "zh-hant": "GE Aerospace",
+      "ja": "GEエアロスペース",
+      "es": "GE Aerospace",
+      "pt": "GE Aerospace",
+      "ru": "GE Aerospace",
+      "tr": "GE Aerospace",
+      "id": "GE Aerospace",
+      "ms": "GE Aerospace",
+      "vi": "GE Aerospace"
+    }
+  },
+  {
+    "slug": "gem",
+    "name_en": "GEM",
+    "ticker": "",
+    "aliases": [
+      "格林美"
+    ],
+    "labels": {
+      "en": "GEM",
+      "zh-hans": "格林美",
+      "zh-hant": "格林美",
+      "ja": "GEM",
+      "es": "GEM",
+      "pt": "GEM",
+      "ru": "GEM",
+      "tr": "GEM",
+      "id": "GEM",
+      "ms": "GEM",
+      "vi": "GEM"
+    }
+  },
+  {
+    "slug": "gen-digital",
+    "name_en": "Gen Digital",
+    "ticker": "",
+    "aliases": [
+      "Gen Digital"
+    ],
+    "labels": {
+      "en": "Gen Digital",
+      "zh-hans": "Gen Digital",
+      "zh-hant": "Gen Digital",
+      "ja": "Gen Digital",
+      "es": "Gen Digital",
+      "pt": "Gen Digital",
+      "ru": "Gen Digital",
+      "tr": "Gen Digital",
+      "id": "Gen Digital",
+      "ms": "Gen Digital",
+      "vi": "Gen Digital"
+    }
+  },
+  {
+    "slug": "general-motors",
+    "name_en": "General Motors",
+    "ticker": "",
+    "aliases": [
+      "通用汽车"
+    ],
+    "labels": {
+      "en": "General Motors",
+      "zh-hans": "通用汽车",
+      "zh-hant": "通用汽車",
+      "ja": "GM",
+      "es": "General Motors",
+      "pt": "General Motors",
+      "ru": "General Motors",
+      "tr": "General Motors",
+      "id": "General Motors",
+      "ms": "General Motors",
+      "vi": "General Motors"
+    }
+  },
+  {
+    "slug": "generalist-ai",
+    "name_en": "Generalist AI",
+    "ticker": "",
+    "aliases": [
+      "Generalist AI"
+    ],
+    "labels": {
+      "en": "Generalist AI",
+      "zh-hans": "Generalist AI",
+      "zh-hant": "Generalist AI",
+      "ja": "Generalist AI",
+      "es": "Generalist AI",
+      "pt": "Generalist AI",
+      "ru": "Generalist AI",
+      "tr": "Generalist AI",
+      "id": "Generalist AI",
+      "ms": "Generalist AI",
+      "vi": "Generalist AI"
+    }
+  },
+  {
+    "slug": "genfleet",
+    "name_en": "GenFleet",
+    "ticker": "",
+    "aliases": [
+      "GenFleet"
+    ],
+    "labels": {
+      "en": "GenFleet",
+      "zh-hans": "GenFleet",
+      "zh-hant": "GenFleet",
+      "ja": "GenFleet",
+      "es": "GenFleet",
+      "pt": "GenFleet",
+      "ru": "GenFleet",
+      "tr": "GenFleet",
+      "id": "GenFleet",
+      "ms": "GenFleet",
+      "vi": "GenFleet"
+    }
+  },
+  {
+    "slug": "gigadevice",
+    "name_en": "GigaDevice",
+    "ticker": "",
+    "aliases": [
+      "兆易创新"
+    ],
+    "labels": {
+      "en": "GigaDevice",
+      "zh-hans": "兆易创新",
+      "zh-hant": "兆易創新",
+      "ja": "GigaDevice",
+      "es": "GigaDevice",
+      "pt": "GigaDevice",
+      "ru": "GigaDevice",
+      "tr": "GigaDevice",
+      "id": "GigaDevice",
+      "ms": "GigaDevice",
+      "vi": "GigaDevice"
+    }
+  },
+  {
+    "slug": "gilead-sciences",
+    "name_en": "Gilead Sciences",
+    "ticker": "",
+    "aliases": [
+      "吉利德"
+    ],
+    "labels": {
+      "en": "Gilead Sciences",
+      "zh-hans": "吉利德",
+      "zh-hant": "吉利德",
+      "ja": "ギリアド・サイエンシズ",
+      "es": "Gilead Sciences",
+      "pt": "Gilead Sciences",
+      "ru": "Gilead Sciences",
+      "tr": "Gilead Sciences",
+      "id": "Gilead Sciences",
+      "ms": "Gilead Sciences",
+      "vi": "Gilead Sciences"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/gilead-sciences"
+  },
+  {
+    "slug": "glodon",
+    "name_en": "Glodon",
+    "ticker": "",
+    "aliases": [
+      "广联达"
+    ],
+    "labels": {
+      "en": "Glodon",
+      "zh-hans": "广联达",
+      "zh-hant": "廣聯達",
+      "ja": "Glodon",
+      "es": "Glodon",
+      "pt": "Glodon",
+      "ru": "Glodon",
+      "tr": "Glodon",
+      "id": "Glodon",
+      "ms": "Glodon",
+      "vi": "Glodon"
+    }
+  },
+  {
+    "slug": "godaddy",
+    "name_en": "GoDaddy",
+    "ticker": "",
+    "aliases": [
+      "GoDaddy"
+    ],
+    "labels": {
+      "en": "GoDaddy",
+      "zh-hans": "GoDaddy",
+      "zh-hant": "GoDaddy",
+      "ja": "GoDaddy",
+      "es": "GoDaddy",
+      "pt": "GoDaddy",
+      "ru": "GoDaddy",
+      "tr": "GoDaddy",
+      "id": "GoDaddy",
+      "ms": "GoDaddy",
+      "vi": "GoDaddy"
+    }
+  },
+  {
+    "slug": "gold-fields",
+    "name_en": "Gold Fields",
+    "ticker": "",
+    "aliases": [
+      "Gold Fields"
+    ],
+    "labels": {
+      "en": "Gold Fields",
+      "zh-hans": "Gold Fields",
+      "zh-hant": "Gold Fields",
+      "ja": "Gold Fields",
+      "es": "Gold Fields",
+      "pt": "Gold Fields",
+      "ru": "Gold Fields",
+      "tr": "Gold Fields",
+      "id": "Gold Fields",
+      "ms": "Gold Fields",
+      "vi": "Gold Fields"
+    }
+  },
+  {
+    "slug": "goldwind",
+    "name_en": "Goldwind",
+    "ticker": "",
+    "aliases": [
+      "金风科技"
+    ],
+    "labels": {
+      "en": "Goldwind",
+      "zh-hans": "金风科技",
+      "zh-hant": "金風科技",
+      "ja": "金風科技",
+      "es": "Goldwind",
+      "pt": "Goldwind",
+      "ru": "Goldwind",
+      "tr": "Goldwind",
+      "id": "Goldwind",
+      "ms": "Goldwind",
+      "vi": "Goldwind"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/goldwind"
+  },
+  {
+    "slug": "graftech",
+    "name_en": "GrafTech",
+    "ticker": "",
+    "aliases": [
+      "GrafTech"
+    ],
+    "labels": {
+      "en": "GrafTech",
+      "zh-hans": "GrafTech",
+      "zh-hant": "GrafTech",
+      "ja": "GrafTech",
+      "es": "GrafTech",
+      "pt": "GrafTech",
+      "ru": "GrafTech",
+      "tr": "GrafTech",
+      "id": "GrafTech",
+      "ms": "GrafTech",
+      "vi": "GrafTech"
+    }
+  },
+  {
+    "slug": "gree-electric",
+    "name_en": "Gree Electric",
+    "ticker": "",
+    "aliases": [
+      "格力电器"
+    ],
+    "labels": {
+      "en": "Gree Electric",
+      "zh-hans": "格力电器",
+      "zh-hant": "格力電器",
+      "ja": "格力電器",
+      "es": "Gree Electric",
+      "pt": "Gree Electric",
+      "ru": "Gree Electric",
+      "tr": "Gree Electric",
+      "id": "Gree Electric",
+      "ms": "Gree Electric",
+      "vi": "Gree Electric"
+    }
+  },
+  {
+    "slug": "gsk",
+    "name_en": "GSK",
+    "ticker": "",
+    "aliases": [
+      "GSK"
+    ],
+    "labels": {
+      "en": "GSK",
+      "zh-hans": "GSK",
+      "zh-hant": "GSK",
+      "ja": "GSK",
+      "es": "GSK",
+      "pt": "GSK",
+      "ru": "GSK",
+      "tr": "GSK",
+      "id": "GSK",
+      "ms": "GSK",
+      "vi": "GSK"
+    }
+  },
+  {
+    "slug": "h-and-h-group",
+    "name_en": "H&H Group",
+    "ticker": "",
+    "aliases": [
+      "健合集团"
+    ],
+    "labels": {
+      "en": "H&H Group",
+      "zh-hans": "健合集团",
+      "zh-hant": "健合集團",
+      "ja": "H&H Group",
+      "es": "H&H Group",
+      "pt": "H&H Group",
+      "ru": "H&H Group",
+      "tr": "H&H Group",
+      "id": "H&H Group",
+      "ms": "H&H Group",
+      "vi": "H&H Group"
+    }
+  },
+  {
+    "slug": "han-s-cnc",
+    "name_en": "Han's CNC",
+    "ticker": "",
+    "aliases": [
+      "大族数控"
+    ],
+    "labels": {
+      "en": "Han's CNC",
+      "zh-hans": "大族数控",
+      "zh-hant": "大族數控",
+      "ja": "Han's CNC",
+      "es": "Han's CNC",
+      "pt": "Han's CNC",
+      "ru": "Han's CNC",
+      "tr": "Han's CNC",
+      "id": "Han's CNC",
+      "ms": "Han's CNC",
+      "vi": "Han's CNC"
+    }
+  },
+  {
+    "slug": "han-s-laser",
+    "name_en": "Han's Laser",
+    "ticker": "",
+    "aliases": [
+      "大族激光"
+    ],
+    "labels": {
+      "en": "Han's Laser",
+      "zh-hans": "大族激光",
+      "zh-hant": "大族雷射",
+      "ja": "Han's Laser",
+      "es": "Han's Laser",
+      "pt": "Han's Laser",
+      "ru": "Han's Laser",
+      "tr": "Han's Laser",
+      "id": "Han's Laser",
+      "ms": "Han's Laser",
+      "vi": "Han's Laser"
+    }
+  },
+  {
+    "slug": "hansoh-pharmaceutical",
+    "name_en": "Hansoh Pharmaceutical",
+    "ticker": "",
+    "aliases": [
+      "翰森制药"
+    ],
+    "labels": {
+      "en": "Hansoh Pharmaceutical",
+      "zh-hans": "翰森制药",
+      "zh-hant": "翰森製藥",
+      "ja": "翰森製薬",
+      "es": "Hansoh Pharmaceutical",
+      "pt": "Hansoh Pharmaceutical",
+      "ru": "Hansoh Pharmaceutical",
+      "tr": "Hansoh Pharmaceutical",
+      "id": "Hansoh Pharmaceutical",
+      "ms": "Hansoh Pharmaceutical",
+      "vi": "Hansoh Pharmaceutical"
+    }
+  },
+  {
+    "slug": "hcr",
+    "name_en": "HCR",
+    "ticker": "",
+    "aliases": [
+      "慧辰股份"
+    ],
+    "labels": {
+      "en": "HCR",
+      "zh-hans": "慧辰股份",
+      "zh-hant": "慧辰股份",
+      "ja": "慧辰股份",
+      "es": "HCR",
+      "pt": "HCR",
+      "ru": "HCR",
+      "tr": "HCR",
+      "id": "HCR",
+      "ms": "HCR",
+      "vi": "HCR"
+    }
+  },
+  {
+    "slug": "hengli-hydraulic",
+    "name_en": "Hengli Hydraulic",
+    "ticker": "",
+    "aliases": [
+      "恒立液压"
+    ],
+    "labels": {
+      "en": "Hengli Hydraulic",
+      "zh-hans": "恒立液压",
+      "zh-hant": "恆立液壓",
+      "ja": "恒立液圧",
+      "es": "Hengli Hydraulic",
+      "pt": "Hengli Hydraulic",
+      "ru": "Hengli Hydraulic",
+      "tr": "Hengli Hydraulic",
+      "id": "Hengli Hydraulic",
+      "ms": "Hengli Hydraulic",
+      "vi": "Hengli Hydraulic"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/hengli-hydraulic"
+  },
+  {
+    "slug": "hengrui-pharmaceuticals",
+    "name_en": "Hengrui Pharmaceuticals",
+    "ticker": "",
+    "aliases": [
+      "恒瑞医药"
+    ],
+    "labels": {
+      "en": "Hengrui Pharmaceuticals",
+      "zh-hans": "恒瑞医药",
+      "zh-hant": "恆瑞醫藥",
+      "ja": "恒瑞医薬",
+      "es": "Hengrui Pharmaceuticals",
+      "pt": "Hengrui Pharmaceuticals",
+      "ru": "Hengrui Pharmaceuticals",
+      "tr": "Hengrui Pharmaceuticals",
+      "id": "Hengrui Pharmaceuticals",
+      "ms": "Hengrui Pharmaceuticals",
+      "vi": "Hengrui Pharmaceuticals"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/hengrui-pharmaceuticals"
+  },
+  {
+    "slug": "hermes",
+    "name_en": "Hermès",
+    "ticker": "",
+    "aliases": [
+      "爱马仕"
+    ],
+    "labels": {
+      "en": "Hermès",
+      "zh-hans": "爱马仕",
+      "zh-hant": "愛馬仕",
+      "ja": "エルメス",
+      "es": "Hermès",
+      "pt": "Hermès",
+      "ru": "Hermès",
+      "tr": "Hermès",
+      "id": "Hermès",
+      "ms": "Hermès",
+      "vi": "Hermès"
+    }
+  },
+  {
+    "slug": "hesai",
+    "name_en": "Hesai",
+    "ticker": "",
+    "aliases": [
+      "禾赛"
+    ],
+    "labels": {
+      "en": "Hesai",
+      "zh-hans": "禾赛",
+      "zh-hant": "禾賽",
+      "ja": "Hesai",
+      "es": "Hesai",
+      "pt": "Hesai",
+      "ru": "Hesai",
+      "tr": "Hesai",
+      "id": "Hesai",
+      "ms": "Hesai",
+      "vi": "Hesai"
+    }
+  },
+  {
+    "slug": "hexin-flush",
+    "name_en": "Hexin Flush",
+    "ticker": "",
+    "aliases": [
+      "同花顺"
+    ],
+    "labels": {
+      "en": "Hexin Flush",
+      "zh-hans": "同花顺",
+      "zh-hant": "同花順",
+      "ja": "同花順",
+      "es": "Hexin Flush",
+      "pt": "Hexin Flush",
+      "ru": "Hexin Flush",
+      "tr": "Hexin Flush",
+      "id": "Hexin Flush",
+      "ms": "Hexin Flush",
+      "vi": "Hexin Flush"
+    }
+  },
+  {
+    "slug": "hisense-home-appliances",
+    "name_en": "Hisense Home Appliances",
+    "ticker": "",
+    "aliases": [
+      "海信家电"
+    ],
+    "labels": {
+      "en": "Hisense Home Appliances",
+      "zh-hans": "海信家电",
+      "zh-hant": "海信家電",
+      "ja": "海信家電",
+      "es": "Hisense Home Appliances",
+      "pt": "Hisense Home Appliances",
+      "ru": "Hisense Home Appliances",
+      "tr": "Hisense Home Appliances",
+      "id": "Hisense Home Appliances",
+      "ms": "Hisense Home Appliances",
+      "vi": "Hisense Home Appliances"
+    }
+  },
+  {
+    "slug": "hiwin",
+    "name_en": "HIWIN",
+    "ticker": "",
+    "aliases": [
+      "上银"
+    ],
+    "labels": {
+      "en": "HIWIN",
+      "zh-hans": "上银",
+      "zh-hant": "上銀",
+      "ja": "HIWIN",
+      "es": "HIWIN",
+      "pt": "HIWIN",
+      "ru": "HIWIN",
+      "tr": "HIWIN",
+      "id": "HIWIN",
+      "ms": "HIWIN",
+      "vi": "HIWIN"
+    }
+  },
+  {
+    "slug": "hon-hai",
+    "name_en": "Hon Hai",
+    "ticker": "",
+    "aliases": [
+      "鸿海"
+    ],
+    "labels": {
+      "en": "Hon Hai",
+      "zh-hans": "鸿海",
+      "zh-hant": "鴻海",
+      "ja": "鴻海",
+      "es": "Hon Hai",
+      "pt": "Hon Hai",
+      "ru": "Hon Hai",
+      "tr": "Hon Hai",
+      "id": "Hon Hai",
+      "ms": "Hon Hai",
+      "vi": "Hon Hai"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/hon-hai"
+  },
+  {
+    "slug": "hon-precision",
+    "name_en": "Hon Precision",
+    "ticker": "",
+    "aliases": [
+      "Hon Precision"
+    ],
+    "labels": {
+      "en": "Hon Precision",
+      "zh-hans": "Hon Precision",
+      "zh-hant": "Hon Precision",
+      "ja": "Hon Precision",
+      "es": "Hon Precision",
+      "pt": "Hon Precision",
+      "ru": "Hon Precision",
+      "tr": "Hon Precision",
+      "id": "Hon Precision",
+      "ms": "Hon Precision",
+      "vi": "Hon Precision"
+    }
+  },
+  {
+    "slug": "honeywell",
+    "name_en": "Honeywell",
+    "ticker": "",
+    "aliases": [
+      "霍尼韦尔"
+    ],
+    "labels": {
+      "en": "Honeywell",
+      "zh-hans": "霍尼韦尔",
+      "zh-hant": "霍尼韋爾",
+      "ja": "ハネウェル",
+      "es": "Honeywell",
+      "pt": "Honeywell",
+      "ru": "Honeywell",
+      "tr": "Honeywell",
+      "id": "Honeywell",
+      "ms": "Honeywell",
+      "vi": "Honeywell"
+    }
+  },
+  {
+    "slug": "hongfucheng",
+    "name_en": "Hongfucheng",
+    "ticker": "",
+    "aliases": [
+      "鸿富诚"
+    ],
+    "labels": {
+      "en": "Hongfucheng",
+      "zh-hans": "鸿富诚",
+      "zh-hant": "鴻富誠",
+      "ja": "鴻富誠",
+      "es": "Hongfucheng",
+      "pt": "Hongfucheng",
+      "ru": "Hongfucheng",
+      "tr": "Hongfucheng",
+      "id": "Hongfucheng",
+      "ms": "Hongfucheng",
+      "vi": "Hongfucheng"
+    }
+  },
+  {
+    "slug": "honghe-technology",
+    "name_en": "Honghe Technology",
+    "ticker": "",
+    "aliases": [
+      "宏和科技"
+    ],
+    "labels": {
+      "en": "Honghe Technology",
+      "zh-hans": "宏和科技",
+      "zh-hant": "宏和科技",
+      "ja": "宏和科技",
+      "es": "Honghe Technology",
+      "pt": "Honghe Technology",
+      "ru": "Honghe Technology",
+      "tr": "Honghe Technology",
+      "id": "Honghe Technology",
+      "ms": "Honghe Technology",
+      "vi": "Honghe Technology"
+    }
+  },
+  {
+    "slug": "horizon-robotics",
+    "name_en": "Horizon Robotics",
+    "ticker": "",
+    "aliases": [
+      "地平线"
+    ],
+    "labels": {
+      "en": "Horizon Robotics",
+      "zh-hans": "地平线",
+      "zh-hant": "地平線",
+      "ja": "Horizon Robotics",
+      "es": "Horizon Robotics",
+      "pt": "Horizon Robotics",
+      "ru": "Horizon Robotics",
+      "tr": "Horizon Robotics",
+      "id": "Horizon Robotics",
+      "ms": "Horizon Robotics",
+      "vi": "Horizon Robotics"
+    }
+  },
+  {
+    "slug": "huaming-power-equipment",
+    "name_en": "Huaming Power Equipment",
+    "ticker": "",
+    "aliases": [
+      "华明装备"
+    ],
+    "labels": {
+      "en": "Huaming Power Equipment",
+      "zh-hans": "华明装备",
+      "zh-hant": "華明裝備",
+      "ja": "華明装備",
+      "es": "Huaming Power Equipment",
+      "pt": "Huaming Power Equipment",
+      "ru": "Huaming Power Equipment",
+      "tr": "Huaming Power Equipment",
+      "id": "Huaming Power Equipment",
+      "ms": "Huaming Power Equipment",
+      "vi": "Huaming Power Equipment"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/huaming-power-equipment"
+  },
+  {
+    "slug": "huaqin-technology",
+    "name_en": "Huaqin Technology",
+    "ticker": "",
+    "aliases": [
+      "华勤技术"
+    ],
+    "labels": {
+      "en": "Huaqin Technology",
+      "zh-hans": "华勤技术",
+      "zh-hant": "華勤技術",
+      "ja": "華勤技術",
+      "es": "Huaqin Technology",
+      "pt": "Huaqin Technology",
+      "ru": "Huaqin Technology",
+      "tr": "Huaqin Technology",
+      "id": "Huaqin Technology",
+      "ms": "Huaqin Technology",
+      "vi": "Huaqin Technology"
+    }
+  },
+  {
+    "slug": "huawei",
+    "name_en": "Huawei",
+    "ticker": "",
+    "aliases": [
+      "华为"
+    ],
+    "labels": {
+      "en": "Huawei",
+      "zh-hans": "华为",
+      "zh-hant": "華為",
+      "ja": "ファーウェイ",
+      "es": "Huawei",
+      "pt": "Huawei",
+      "ru": "Huawei",
+      "tr": "Huawei",
+      "id": "Huawei",
+      "ms": "Huawei",
+      "vi": "Huawei"
+    }
+  },
+  {
+    "slug": "hubbell",
+    "name_en": "Hubbell",
+    "ticker": "",
+    "aliases": [
+      "Hubbell"
+    ],
+    "labels": {
+      "en": "Hubbell",
+      "zh-hans": "Hubbell",
+      "zh-hant": "Hubbell",
+      "ja": "Hubbell",
+      "es": "Hubbell",
+      "pt": "Hubbell",
+      "ru": "Hubbell",
+      "tr": "Hubbell",
+      "id": "Hubbell",
+      "ms": "Hubbell",
+      "vi": "Hubbell"
+    }
+  },
+  {
+    "slug": "hwatsing-technology",
+    "name_en": "Hwatsing Technology",
+    "ticker": "",
+    "aliases": [
+      "华海清科"
+    ],
+    "labels": {
+      "en": "Hwatsing Technology",
+      "zh-hans": "华海清科",
+      "zh-hant": "華海清科",
+      "ja": "華海清科",
+      "es": "Hwatsing Technology",
+      "pt": "Hwatsing Technology",
+      "ru": "Hwatsing Technology",
+      "tr": "Hwatsing Technology",
+      "id": "Hwatsing Technology",
+      "ms": "Hwatsing Technology",
+      "vi": "Hwatsing Technology"
+    }
+  },
+  {
+    "slug": "hygon-information-technology",
+    "name_en": "Hygon Information Technology",
+    "ticker": "",
+    "aliases": [
+      "海光信息"
+    ],
+    "labels": {
+      "en": "Hygon Information Technology",
+      "zh-hans": "海光信息",
+      "zh-hant": "海光資訊",
+      "ja": "海光信息",
+      "es": "Hygon Information Technology",
+      "pt": "Hygon Information Technology",
+      "ru": "Hygon Information Technology",
+      "tr": "Hygon Information Technology",
+      "id": "Hygon Information Technology",
+      "ms": "Hygon Information Technology",
+      "vi": "Hygon Information Technology"
+    }
+  },
+  {
+    "slug": "ibm",
+    "name_en": "IBM",
+    "ticker": "",
+    "aliases": [
+      "IBM"
+    ],
+    "labels": {
+      "en": "IBM",
+      "zh-hans": "IBM",
+      "zh-hant": "IBM",
+      "ja": "IBM",
+      "es": "IBM",
+      "pt": "IBM",
+      "ru": "IBM",
+      "tr": "IBM",
+      "id": "IBM",
+      "ms": "IBM",
+      "vi": "IBM"
+    }
+  },
+  {
+    "slug": "industrial-and-commercial-bank-of-china",
+    "name_en": "Industrial and Commercial Bank of China",
+    "ticker": "",
+    "aliases": [
+      "工商银行"
+    ],
+    "labels": {
+      "en": "Industrial and Commercial Bank of China",
+      "zh-hans": "工商银行",
+      "zh-hant": "工商銀行",
+      "ja": "中国工商銀行",
+      "es": "Industrial and Commercial Bank of China",
+      "pt": "Industrial and Commercial Bank of China",
+      "ru": "Industrial and Commercial Bank of China",
+      "tr": "Industrial and Commercial Bank of China",
+      "id": "Industrial and Commercial Bank of China",
+      "ms": "Industrial and Commercial Bank of China",
+      "vi": "Industrial and Commercial Bank of China"
+    }
+  },
+  {
+    "slug": "innocare-pharma",
+    "name_en": "InnoCare Pharma",
+    "ticker": "",
+    "aliases": [
+      "诺诚健华"
+    ],
+    "labels": {
+      "en": "InnoCare Pharma",
+      "zh-hans": "诺诚健华",
+      "zh-hant": "諾誠健華",
+      "ja": "InnoCare Pharma",
+      "es": "InnoCare Pharma",
+      "pt": "InnoCare Pharma",
+      "ru": "InnoCare Pharma",
+      "tr": "InnoCare Pharma",
+      "id": "InnoCare Pharma",
+      "ms": "InnoCare Pharma",
+      "vi": "InnoCare Pharma"
+    }
+  },
+  {
+    "slug": "inovance",
+    "name_en": "Inovance",
+    "ticker": "",
+    "aliases": [
+      "汇川技术"
+    ],
+    "labels": {
+      "en": "Inovance",
+      "zh-hans": "汇川技术",
+      "zh-hant": "匯川技術",
+      "ja": "汇川技術",
+      "es": "Inovance",
+      "pt": "Inovance",
+      "ru": "Inovance",
+      "tr": "Inovance",
+      "id": "Inovance",
+      "ms": "Inovance",
+      "vi": "Inovance"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/inovance"
+  },
+  {
+    "slug": "instacart",
+    "name_en": "Instacart",
+    "ticker": "",
+    "aliases": [
+      "Instacart"
+    ],
+    "labels": {
+      "en": "Instacart",
+      "zh-hans": "Instacart",
+      "zh-hant": "Instacart",
+      "ja": "インスタカート",
+      "es": "Instacart",
+      "pt": "Instacart",
+      "ru": "Instacart",
+      "tr": "Instacart",
+      "id": "Instacart",
+      "ms": "Instacart",
+      "vi": "Instacart"
+    }
+  },
+  {
+    "slug": "intel",
+    "name_en": "Intel",
+    "ticker": "",
+    "aliases": [
+      "英特尔"
+    ],
+    "labels": {
+      "en": "Intel",
+      "zh-hans": "英特尔",
+      "zh-hant": "英特爾",
+      "ja": "インテル",
+      "es": "Intel",
+      "pt": "Intel",
+      "ru": "Intel",
+      "tr": "Intel",
+      "id": "Intel",
+      "ms": "Intel",
+      "vi": "Intel"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/intel"
+  },
+  {
+    "slug": "intuitive-surgical",
+    "name_en": "Intuitive Surgical",
+    "ticker": "",
+    "aliases": [
+      "直觉外科"
+    ],
+    "labels": {
+      "en": "Intuitive Surgical",
+      "zh-hans": "直觉外科",
+      "zh-hant": "直覺外科",
+      "ja": "インテュイティブ・サージカル",
+      "es": "Intuitive Surgical",
+      "pt": "Intuitive Surgical",
+      "ru": "Intuitive Surgical",
+      "tr": "Intuitive Surgical",
+      "id": "Intuitive Surgical",
+      "ms": "Intuitive Surgical",
+      "vi": "Intuitive Surgical"
+    }
+  },
+  {
+    "slug": "iqvia",
+    "name_en": "IQVIA",
+    "ticker": "",
+    "aliases": [
+      "IQVIA"
+    ],
+    "labels": {
+      "en": "IQVIA",
+      "zh-hans": "IQVIA",
+      "zh-hant": "IQVIA",
+      "ja": "IQVIA",
+      "es": "IQVIA",
+      "pt": "IQVIA",
+      "ru": "IQVIA",
+      "tr": "IQVIA",
+      "id": "IQVIA",
+      "ms": "IQVIA",
+      "vi": "IQVIA"
+    }
+  },
+  {
+    "slug": "jcet",
+    "name_en": "JCET",
+    "ticker": "SSE 600584",
+    "aliases": [
+      "长电科技"
+    ],
+    "labels": {
+      "en": "JCET",
+      "zh-hans": "长电科技",
+      "zh-hant": "長電科技",
+      "ja": "長電科技",
+      "es": "JCET",
+      "pt": "JCET",
+      "ru": "JCET",
+      "tr": "JCET",
+      "id": "JCET",
+      "ms": "JCET",
+      "vi": "JCET"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/jcet"
+  },
+  {
+    "slug": "jereh",
+    "name_en": "Jereh",
+    "ticker": "",
+    "aliases": [
+      "杰瑞股份"
+    ],
+    "labels": {
+      "en": "Jereh",
+      "zh-hans": "杰瑞股份",
+      "zh-hant": "傑瑞股份",
+      "ja": "Jereh",
+      "es": "Jereh",
+      "pt": "Jereh",
+      "ru": "Jereh",
+      "tr": "Jereh",
+      "id": "Jereh",
+      "ms": "Jereh",
+      "vi": "Jereh"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/jereh"
+  },
+  {
+    "slug": "jianghai-capacitor",
+    "name_en": "Jianghai Capacitor",
+    "ticker": "",
+    "aliases": [
+      "江海股份"
+    ],
+    "labels": {
+      "en": "Jianghai Capacitor",
+      "zh-hans": "江海股份",
+      "zh-hant": "江海股份",
+      "ja": "江海股份",
+      "es": "Jianghai Capacitor",
+      "pt": "Jianghai Capacitor",
+      "ru": "Jianghai Capacitor",
+      "tr": "Jianghai Capacitor",
+      "id": "Jianghai Capacitor",
+      "ms": "Jianghai Capacitor",
+      "vi": "Jianghai Capacitor"
+    }
+  },
+  {
+    "slug": "jiangshun-technology",
+    "name_en": "Jiangshun Technology",
+    "ticker": "",
+    "aliases": [
+      "江顺科技"
+    ],
+    "labels": {
+      "en": "Jiangshun Technology",
+      "zh-hans": "江顺科技",
+      "zh-hant": "江順科技",
+      "ja": "江順科技",
+      "es": "Jiangshun Technology",
+      "pt": "Jiangshun Technology",
+      "ru": "Jiangshun Technology",
+      "tr": "Jiangshun Technology",
+      "id": "Jiangshun Technology",
+      "ms": "Jiangshun Technology",
+      "vi": "Jiangshun Technology"
+    }
+  },
+  {
+    "slug": "jiangsu-financial-leasing",
+    "name_en": "Jiangsu Financial Leasing",
+    "ticker": "",
+    "aliases": [
+      "江苏金租"
+    ],
+    "labels": {
+      "en": "Jiangsu Financial Leasing",
+      "zh-hans": "江苏金租",
+      "zh-hant": "江蘇金租",
+      "ja": "江蘇金租",
+      "es": "Jiangsu Financial Leasing",
+      "pt": "Jiangsu Financial Leasing",
+      "ru": "Jiangsu Financial Leasing",
+      "tr": "Jiangsu Financial Leasing",
+      "id": "Jiangsu Financial Leasing",
+      "ms": "Jiangsu Financial Leasing",
+      "vi": "Jiangsu Financial Leasing"
+    }
+  },
+  {
+    "slug": "jingyan-technology",
+    "name_en": "Jingyan Technology",
+    "ticker": "",
+    "aliases": [
+      "精研科技"
+    ],
+    "labels": {
+      "en": "Jingyan Technology",
+      "zh-hans": "精研科技",
+      "zh-hant": "精研科技",
+      "ja": "精研科技",
+      "es": "Jingyan Technology",
+      "pt": "Jingyan Technology",
+      "ru": "Jingyan Technology",
+      "tr": "Jingyan Technology",
+      "id": "Jingyan Technology",
+      "ms": "Jingyan Technology",
+      "vi": "Jingyan Technology"
+    }
+  },
+  {
+    "slug": "johnson-and-johnson",
+    "name_en": "Johnson & Johnson",
+    "ticker": "",
+    "aliases": [
+      "强生"
+    ],
+    "labels": {
+      "en": "Johnson & Johnson",
+      "zh-hans": "强生",
+      "zh-hant": "強生",
+      "ja": "ジョンソン・エンド・ジョンソン",
+      "es": "Johnson & Johnson",
+      "pt": "Johnson & Johnson",
+      "ru": "Johnson & Johnson",
+      "tr": "Johnson & Johnson",
+      "id": "Johnson & Johnson",
+      "ms": "Johnson & Johnson",
+      "vi": "Johnson & Johnson"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/johnson-and-johnson"
+  },
+  {
+    "slug": "joyoung",
+    "name_en": "Joyoung",
+    "ticker": "",
+    "aliases": [
+      "九阳"
+    ],
+    "labels": {
+      "en": "Joyoung",
+      "zh-hans": "九阳",
+      "zh-hant": "九陽",
+      "ja": "Joyoung",
+      "es": "Joyoung",
+      "pt": "Joyoung",
+      "ru": "Joyoung",
+      "tr": "Joyoung",
+      "id": "Joyoung",
+      "ms": "Joyoung",
+      "vi": "Joyoung"
+    }
+  },
+  {
+    "slug": "joyson-electronics",
+    "name_en": "Joyson Electronics",
+    "ticker": "",
+    "aliases": [
+      "均胜电子"
+    ],
+    "labels": {
+      "en": "Joyson Electronics",
+      "zh-hans": "均胜电子",
+      "zh-hant": "均勝電子",
+      "ja": "均勝電子",
+      "es": "Joyson Electronics",
+      "pt": "Joyson Electronics",
+      "ru": "Joyson Electronics",
+      "tr": "Joyson Electronics",
+      "id": "Joyson Electronics",
+      "ms": "Joyson Electronics",
+      "vi": "Joyson Electronics"
+    }
+  },
+  {
+    "slug": "junda",
+    "name_en": "Junda",
+    "ticker": "",
+    "aliases": [
+      "钧达股份"
+    ],
+    "labels": {
+      "en": "Junda",
+      "zh-hans": "钧达股份",
+      "zh-hant": "鈞達股份",
+      "ja": "鈞達股份",
+      "es": "Junda",
+      "pt": "Junda",
+      "ru": "Junda",
+      "tr": "Junda",
+      "id": "Junda",
+      "ms": "Junda",
+      "vi": "Junda"
+    }
+  },
+  {
+    "slug": "junpu-intelligent",
+    "name_en": "Junpu Intelligent",
+    "ticker": "",
+    "aliases": [
+      "均普智能"
+    ],
+    "labels": {
+      "en": "Junpu Intelligent",
+      "zh-hans": "均普智能",
+      "zh-hant": "均普智能",
+      "ja": "均普智能",
+      "es": "Junpu Intelligent",
+      "pt": "Junpu Intelligent",
+      "ru": "Junpu Intelligent",
+      "tr": "Junpu Intelligent",
+      "id": "Junpu Intelligent",
+      "ms": "Junpu Intelligent",
+      "vi": "Junpu Intelligent"
+    }
+  },
+  {
+    "slug": "kangtai-biological",
+    "name_en": "Kangtai Biological",
+    "ticker": "",
+    "aliases": [
+      "康泰生物"
+    ],
+    "labels": {
+      "en": "Kangtai Biological",
+      "zh-hans": "康泰生物",
+      "zh-hant": "康泰生物",
+      "ja": "康泰生物",
+      "es": "Kangtai Biological",
+      "pt": "Kangtai Biological",
+      "ru": "Kangtai Biological",
+      "tr": "Kangtai Biological",
+      "id": "Kangtai Biological",
+      "ms": "Kangtai Biological",
+      "vi": "Kangtai Biological"
+    }
+  },
+  {
+    "slug": "kedali",
+    "name_en": "Kedali",
+    "ticker": "",
+    "aliases": [
+      "科达利"
+    ],
+    "labels": {
+      "en": "Kedali",
+      "zh-hans": "科达利",
+      "zh-hant": "科達利",
+      "ja": "科達利",
+      "es": "Kedali",
+      "pt": "Kedali",
+      "ru": "Kedali",
+      "tr": "Kedali",
+      "id": "Kedali",
+      "ms": "Kedali",
+      "vi": "Kedali"
+    }
+  },
+  {
+    "slug": "kelun-pharmaceutical",
+    "name_en": "Kelun Pharmaceutical",
+    "ticker": "",
+    "aliases": [
+      "科伦药业"
+    ],
+    "labels": {
+      "en": "Kelun Pharmaceutical",
+      "zh-hans": "科伦药业",
+      "zh-hant": "科倫藥業",
+      "ja": "科倫薬業",
+      "es": "Kelun Pharmaceutical",
+      "pt": "Kelun Pharmaceutical",
+      "ru": "Kelun Pharmaceutical",
+      "tr": "Kelun Pharmaceutical",
+      "id": "Kelun Pharmaceutical",
+      "ms": "Kelun Pharmaceutical",
+      "vi": "Kelun Pharmaceutical"
+    }
+  },
+  {
+    "slug": "kelun-biotech",
+    "name_en": "Kelun-Biotech",
+    "ticker": "",
+    "aliases": [
+      "科伦博泰"
+    ],
+    "labels": {
+      "en": "Kelun-Biotech",
+      "zh-hans": "科伦博泰",
+      "zh-hant": "科倫博泰",
+      "ja": "Kelun-Biotech",
+      "es": "Kelun-Biotech",
+      "pt": "Kelun-Biotech",
+      "ru": "Kelun-Biotech",
+      "tr": "Kelun-Biotech",
+      "id": "Kelun-Biotech",
+      "ms": "Kelun-Biotech",
+      "vi": "Kelun-Biotech"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/kelun-biotech"
+  },
+  {
+    "slug": "kente-catalysis",
+    "name_en": "Kente Catalysis",
+    "ticker": "",
+    "aliases": [
+      "肯特催化"
+    ],
+    "labels": {
+      "en": "Kente Catalysis",
+      "zh-hans": "肯特催化",
+      "zh-hant": "肯特催化",
+      "ja": "肯特催化",
+      "es": "Kente Catalysis",
+      "pt": "Kente Catalysis",
+      "ru": "Kente Catalysis",
+      "tr": "Kente Catalysis",
+      "id": "Kente Catalysis",
+      "ms": "Kente Catalysis",
+      "vi": "Kente Catalysis"
+    }
+  },
+  {
+    "slug": "kering",
+    "name_en": "Kering",
+    "ticker": "",
+    "aliases": [
+      "开云"
+    ],
+    "labels": {
+      "en": "Kering",
+      "zh-hans": "开云",
+      "zh-hant": "開雲",
+      "ja": "ケリング",
+      "es": "Kering",
+      "pt": "Kering",
+      "ru": "Kering",
+      "tr": "Kering",
+      "id": "Kering",
+      "ms": "Kering",
+      "vi": "Kering"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/kering"
+  },
+  {
+    "slug": "keycorp",
+    "name_en": "KeyCorp",
+    "ticker": "",
+    "aliases": [
+      "KeyCorp"
+    ],
+    "labels": {
+      "en": "KeyCorp",
+      "zh-hans": "KeyCorp",
+      "zh-hant": "KeyCorp",
+      "ja": "KeyCorp",
+      "es": "KeyCorp",
+      "pt": "KeyCorp",
+      "ru": "KeyCorp",
+      "tr": "KeyCorp",
+      "id": "KeyCorp",
+      "ms": "KeyCorp",
+      "vi": "KeyCorp"
+    }
+  },
+  {
+    "slug": "kinder-morgan",
+    "name_en": "Kinder Morgan",
+    "ticker": "",
+    "aliases": [
+      "Kinder Morgan"
+    ],
+    "labels": {
+      "en": "Kinder Morgan",
+      "zh-hans": "Kinder Morgan",
+      "zh-hant": "Kinder Morgan",
+      "ja": "キンダー・モルガン",
+      "es": "Kinder Morgan",
+      "pt": "Kinder Morgan",
+      "ru": "Kinder Morgan",
+      "tr": "Kinder Morgan",
+      "id": "Kinder Morgan",
+      "ms": "Kinder Morgan",
+      "vi": "Kinder Morgan"
+    }
+  },
+  {
+    "slug": "kingdee-international",
+    "name_en": "Kingdee International",
+    "ticker": "",
+    "aliases": [
+      "金蝶国际"
+    ],
+    "labels": {
+      "en": "Kingdee International",
+      "zh-hans": "金蝶国际",
+      "zh-hant": "金蝶國際",
+      "ja": "金蝶国際",
+      "es": "Kingdee International",
+      "pt": "Kingdee International",
+      "ru": "Kingdee International",
+      "tr": "Kingdee International",
+      "id": "Kingdee International",
+      "ms": "Kingdee International",
+      "vi": "Kingdee International"
+    }
+  },
+  {
+    "slug": "kingsoft-cloud",
+    "name_en": "Kingsoft Cloud",
+    "ticker": "",
+    "aliases": [
+      "金山云"
+    ],
+    "labels": {
+      "en": "Kingsoft Cloud",
+      "zh-hans": "金山云",
+      "zh-hant": "金山雲",
+      "ja": "Kingsoft Cloud",
+      "es": "Kingsoft Cloud",
+      "pt": "Kingsoft Cloud",
+      "ru": "Kingsoft Cloud",
+      "tr": "Kingsoft Cloud",
+      "id": "Kingsoft Cloud",
+      "ms": "Kingsoft Cloud",
+      "vi": "Kingsoft Cloud"
+    }
+  },
+  {
+    "slug": "kioxia",
+    "name_en": "KIOXIA",
+    "ticker": "",
+    "aliases": [
+      "KIOXIA"
+    ],
+    "labels": {
+      "en": "KIOXIA",
+      "zh-hans": "KIOXIA",
+      "zh-hant": "KIOXIA",
+      "ja": "KIOXIA",
+      "es": "KIOXIA",
+      "pt": "KIOXIA",
+      "ru": "KIOXIA",
+      "tr": "KIOXIA",
+      "id": "KIOXIA",
+      "ms": "KIOXIA",
+      "vi": "KIOXIA"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/kioxia"
+  },
+  {
+    "slug": "kla",
+    "name_en": "KLA",
+    "ticker": "",
+    "aliases": [
+      "KLA"
+    ],
+    "labels": {
+      "en": "KLA",
+      "zh-hans": "KLA",
+      "zh-hant": "KLA",
+      "ja": "KLA",
+      "es": "KLA",
+      "pt": "KLA",
+      "ru": "KLA",
+      "tr": "KLA",
+      "id": "KLA",
+      "ms": "KLA",
+      "vi": "KLA"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/kla"
+  },
+  {
+    "slug": "kstar",
+    "name_en": "KSTAR",
+    "ticker": "",
+    "aliases": [
+      "科士达"
+    ],
+    "labels": {
+      "en": "KSTAR",
+      "zh-hans": "科士达",
+      "zh-hant": "科士達",
+      "ja": "KSTAR",
+      "es": "KSTAR",
+      "pt": "KSTAR",
+      "ru": "KSTAR",
+      "tr": "KSTAR",
+      "id": "KSTAR",
+      "ms": "KSTAR",
+      "vi": "KSTAR"
+    }
+  },
+  {
+    "slug": "lam-research",
+    "name_en": "Lam Research",
+    "ticker": "",
+    "aliases": [
+      "泛林"
+    ],
+    "labels": {
+      "en": "Lam Research",
+      "zh-hans": "泛林",
+      "zh-hant": "泛林",
+      "ja": "ラムリサーチ",
+      "es": "Lam Research",
+      "pt": "Lam Research",
+      "ru": "Lam Research",
+      "tr": "Lam Research",
+      "id": "Lam Research",
+      "ms": "Lam Research",
+      "vi": "Lam Research"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/lam-research"
+  },
+  {
+    "slug": "langdi-group",
+    "name_en": "Langdi Group",
+    "ticker": "",
+    "aliases": [
+      "朗迪集团"
+    ],
+    "labels": {
+      "en": "Langdi Group",
+      "zh-hans": "朗迪集团",
+      "zh-hant": "朗迪集團",
+      "ja": "朗迪集団",
+      "es": "Langdi Group",
+      "pt": "Langdi Group",
+      "ru": "Langdi Group",
+      "tr": "Langdi Group",
+      "id": "Langdi Group",
+      "ms": "Langdi Group",
+      "vi": "Langdi Group"
+    }
+  },
+  {
+    "slug": "lao-pu-gold",
+    "name_en": "Lao Pu Gold",
+    "ticker": "",
+    "aliases": [
+      "老铺黄金"
+    ],
+    "labels": {
+      "en": "Lao Pu Gold",
+      "zh-hans": "老铺黄金",
+      "zh-hant": "老舖黃金",
+      "ja": "老舗黄金",
+      "es": "Lao Pu Gold",
+      "pt": "Lao Pu Gold",
+      "ru": "Lao Pu Gold",
+      "tr": "Lao Pu Gold",
+      "id": "Lao Pu Gold",
+      "ms": "Lao Pu Gold",
+      "vi": "Lao Pu Gold"
+    }
+  },
+  {
+    "slug": "lbx-pharmacy",
+    "name_en": "LBX Pharmacy",
+    "ticker": "",
+    "aliases": [
+      "老百姓"
+    ],
+    "labels": {
+      "en": "LBX Pharmacy",
+      "zh-hans": "老百姓",
+      "zh-hant": "老百姓",
+      "ja": "老百姓",
+      "es": "LBX Pharmacy",
+      "pt": "LBX Pharmacy",
+      "ru": "LBX Pharmacy",
+      "tr": "LBX Pharmacy",
+      "id": "LBX Pharmacy",
+      "ms": "LBX Pharmacy",
+      "vi": "LBX Pharmacy"
+    }
+  },
+  {
+    "slug": "leadshine-technology",
+    "name_en": "Leadshine Technology",
+    "ticker": "",
+    "aliases": [
+      "雷赛智能"
+    ],
+    "labels": {
+      "en": "Leadshine Technology",
+      "zh-hans": "雷赛智能",
+      "zh-hant": "雷賽智能",
+      "ja": "雷賽智能",
+      "es": "Leadshine Technology",
+      "pt": "Leadshine Technology",
+      "ru": "Leadshine Technology",
+      "tr": "Leadshine Technology",
+      "id": "Leadshine Technology",
+      "ms": "Leadshine Technology",
+      "vi": "Leadshine Technology"
+    }
+  },
+  {
+    "slug": "lens-technology",
+    "name_en": "Lens Technology",
+    "ticker": "",
+    "aliases": [
+      "蓝思科技"
+    ],
+    "labels": {
+      "en": "Lens Technology",
+      "zh-hans": "蓝思科技",
+      "zh-hant": "藍思科技",
+      "ja": "藍思科技",
+      "es": "Lens Technology",
+      "pt": "Lens Technology",
+      "ru": "Lens Technology",
+      "tr": "Lens Technology",
+      "id": "Lens Technology",
+      "ms": "Lens Technology",
+      "vi": "Lens Technology"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/lens-technology"
+  },
+  {
+    "slug": "lepu-medical",
+    "name_en": "Lepu Medical",
+    "ticker": "",
+    "aliases": [
+      "乐普医疗"
+    ],
+    "labels": {
+      "en": "Lepu Medical",
+      "zh-hans": "乐普医疗",
+      "zh-hant": "樂普醫療",
+      "ja": "楽普医療",
+      "es": "Lepu Medical",
+      "pt": "Lepu Medical",
+      "ru": "Lepu Medical",
+      "tr": "Lepu Medical",
+      "id": "Lepu Medical",
+      "ms": "Lepu Medical",
+      "vi": "Lepu Medical"
+    }
+  },
+  {
+    "slug": "lg-energy-solution",
+    "name_en": "LG Energy Solution",
+    "ticker": "",
+    "aliases": [
+      "LG新能源"
+    ],
+    "labels": {
+      "en": "LG Energy Solution",
+      "zh-hans": "LG新能源",
+      "zh-hant": "LG新能源",
+      "ja": "LGエナジーソリューション",
+      "es": "LG Energy Solution",
+      "pt": "LG Energy Solution",
+      "ru": "LG Energy Solution",
+      "tr": "LG Energy Solution",
+      "id": "LG Energy Solution",
+      "ms": "LG Energy Solution",
+      "vi": "LG Energy Solution"
+    }
+  },
+  {
+    "slug": "li-auto",
+    "name_en": "Li Auto",
+    "ticker": "",
+    "aliases": [
+      "理想汽车"
+    ],
+    "labels": {
+      "en": "Li Auto",
+      "zh-hans": "理想汽车",
+      "zh-hant": "理想汽車",
+      "ja": "理想汽車",
+      "es": "Li Auto",
+      "pt": "Li Auto",
+      "ru": "Li Auto",
+      "tr": "Li Auto",
+      "id": "Li Auto",
+      "ms": "Li Auto",
+      "vi": "Li Auto"
+    }
+  },
+  {
+    "slug": "li-ning",
+    "name_en": "Li Ning",
+    "ticker": "",
+    "aliases": [
+      "李宁"
+    ],
+    "labels": {
+      "en": "Li Ning",
+      "zh-hans": "李宁",
+      "zh-hant": "李寧",
+      "ja": "李寧",
+      "es": "Li Ning",
+      "pt": "Li Ning",
+      "ru": "Li Ning",
+      "tr": "Li Ning",
+      "id": "Li Ning",
+      "ms": "Li Ning",
+      "vi": "Li Ning"
+    }
+  },
+  {
+    "slug": "ligent",
+    "name_en": "Ligent",
+    "ticker": "",
+    "aliases": [
+      "Ligent"
+    ],
+    "labels": {
+      "en": "Ligent",
+      "zh-hans": "Ligent",
+      "zh-hant": "Ligent",
+      "ja": "Ligent",
+      "es": "Ligent",
+      "pt": "Ligent",
+      "ru": "Ligent",
+      "tr": "Ligent",
+      "id": "Ligent",
+      "ms": "Ligent",
+      "vi": "Ligent"
+    }
+  },
+  {
+    "slug": "lineage",
+    "name_en": "Lineage",
+    "ticker": "",
+    "aliases": [
+      "Lineage"
+    ],
+    "labels": {
+      "en": "Lineage",
+      "zh-hans": "Lineage",
+      "zh-hant": "Lineage",
+      "ja": "Lineage",
+      "es": "Lineage",
+      "pt": "Lineage",
+      "ru": "Lineage",
+      "tr": "Lineage",
+      "id": "Lineage",
+      "ms": "Lineage",
+      "vi": "Lineage"
+    }
+  },
+  {
+    "slug": "lingyi-itech",
+    "name_en": "Lingyi iTech",
+    "ticker": "",
+    "aliases": [
+      "领益智造"
+    ],
+    "labels": {
+      "en": "Lingyi iTech",
+      "zh-hans": "领益智造",
+      "zh-hant": "領益智造",
+      "ja": "Lingyi iTech",
+      "es": "Lingyi iTech",
+      "pt": "Lingyi iTech",
+      "ru": "Lingyi iTech",
+      "tr": "Lingyi iTech",
+      "id": "Lingyi iTech",
+      "ms": "Lingyi iTech",
+      "vi": "Lingyi iTech"
+    }
+  },
+  {
+    "slug": "lotes",
+    "name_en": "Lotes",
+    "ticker": "",
+    "aliases": [
+      "Lotes"
+    ],
+    "labels": {
+      "en": "Lotes",
+      "zh-hans": "Lotes",
+      "zh-hant": "Lotes",
+      "ja": "Lotes",
+      "es": "Lotes",
+      "pt": "Lotes",
+      "ru": "Lotes",
+      "tr": "Lotes",
+      "id": "Lotes",
+      "ms": "Lotes",
+      "vi": "Lotes"
+    }
+  },
+  {
+    "slug": "lumentum",
+    "name_en": "Lumentum",
+    "ticker": "",
+    "aliases": [
+      "Lumentum"
+    ],
+    "labels": {
+      "en": "Lumentum",
+      "zh-hans": "Lumentum",
+      "zh-hant": "Lumentum",
+      "ja": "Lumentum",
+      "es": "Lumentum",
+      "pt": "Lumentum",
+      "ru": "Lumentum",
+      "tr": "Lumentum",
+      "id": "Lumentum",
+      "ms": "Lumentum",
+      "vi": "Lumentum"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/lumentum"
+  },
+  {
+    "slug": "lushan-new-materials",
+    "name_en": "Lushan New Materials",
+    "ticker": "",
+    "aliases": [
+      "鹿山新材"
+    ],
+    "labels": {
+      "en": "Lushan New Materials",
+      "zh-hans": "鹿山新材",
+      "zh-hant": "鹿山新材",
+      "ja": "鹿山新材",
+      "es": "Lushan New Materials",
+      "pt": "Lushan New Materials",
+      "ru": "Lushan New Materials",
+      "tr": "Lushan New Materials",
+      "id": "Lushan New Materials",
+      "ms": "Lushan New Materials",
+      "vi": "Lushan New Materials"
+    }
+  },
+  {
+    "slug": "makemytrip",
+    "name_en": "MakeMyTrip",
+    "ticker": "",
+    "aliases": [
+      "MakeMyTrip"
+    ],
+    "labels": {
+      "en": "MakeMyTrip",
+      "zh-hans": "MakeMyTrip",
+      "zh-hant": "MakeMyTrip",
+      "ja": "MakeMyTrip",
+      "es": "MakeMyTrip",
+      "pt": "MakeMyTrip",
+      "ru": "MakeMyTrip",
+      "tr": "MakeMyTrip",
+      "id": "MakeMyTrip",
+      "ms": "MakeMyTrip",
+      "vi": "MakeMyTrip"
+    }
+  },
+  {
+    "slug": "mediatek",
+    "name_en": "MediaTek",
+    "ticker": "",
+    "aliases": [
+      "联发科"
+    ],
+    "labels": {
+      "en": "MediaTek",
+      "zh-hans": "联发科",
+      "zh-hant": "聯發科",
+      "ja": "メディアテック",
+      "es": "MediaTek",
+      "pt": "MediaTek",
+      "ru": "MediaTek",
+      "tr": "MediaTek",
+      "id": "MediaTek",
+      "ms": "MediaTek",
+      "vi": "MediaTek"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/mediatek"
+  },
+  {
+    "slug": "meituan",
+    "name_en": "Meituan",
+    "ticker": "",
+    "aliases": [
+      "美团"
+    ],
+    "labels": {
+      "en": "Meituan",
+      "zh-hans": "美团",
+      "zh-hant": "美團",
+      "ja": "美団",
+      "es": "Meituan",
+      "pt": "Meituan",
+      "ru": "Meituan",
+      "tr": "Meituan",
+      "id": "Meituan",
+      "ms": "Meituan",
+      "vi": "Meituan"
+    }
+  },
+  {
+    "slug": "melco-resorts-and-entertainment",
+    "name_en": "Melco Resorts & Entertainment",
+    "ticker": "",
+    "aliases": [
+      "新濠博亚"
+    ],
+    "labels": {
+      "en": "Melco Resorts & Entertainment",
+      "zh-hans": "新濠博亚",
+      "zh-hant": "新濠博亞",
+      "ja": "メルコ・リゾーツ＆エンターテインメント",
+      "es": "Melco Resorts & Entertainment",
+      "pt": "Melco Resorts & Entertainment",
+      "ru": "Melco Resorts & Entertainment",
+      "tr": "Melco Resorts & Entertainment",
+      "id": "Melco Resorts & Entertainment",
+      "ms": "Melco Resorts & Entertainment",
+      "vi": "Melco Resorts & Entertainment"
+    }
+  },
+  {
+    "slug": "merck-and-co",
+    "name_en": "Merck & Co.",
+    "ticker": "",
+    "aliases": [
+      "默沙东"
+    ],
+    "labels": {
+      "en": "Merck & Co.",
+      "zh-hans": "默沙东",
+      "zh-hant": "默沙東",
+      "ja": "メルク",
+      "es": "Merck & Co.",
+      "pt": "Merck & Co.",
+      "ru": "Merck & Co.",
+      "tr": "Merck & Co.",
+      "id": "Merck & Co.",
+      "ms": "Merck & Co.",
+      "vi": "Merck & Co."
+    },
+    "hub_url_en": "https://unhidea.com/en/company/merck-and-co"
+  },
+  {
+    "slug": "meta",
+    "name_en": "Meta",
+    "ticker": "",
+    "aliases": [
+      "Meta"
+    ],
+    "labels": {
+      "en": "Meta",
+      "zh-hans": "Meta",
+      "zh-hant": "Meta",
+      "ja": "メタ",
+      "es": "Meta",
+      "pt": "Meta",
+      "ru": "Meta",
+      "tr": "Meta",
+      "id": "Meta",
+      "ms": "Meta",
+      "vi": "Meta"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/meta"
+  },
+  {
+    "slug": "michelin",
+    "name_en": "Michelin",
+    "ticker": "",
+    "aliases": [
+      "米其林"
+    ],
+    "labels": {
+      "en": "Michelin",
+      "zh-hans": "米其林",
+      "zh-hant": "米其林",
+      "ja": "ミシュラン",
+      "es": "Michelin",
+      "pt": "Michelin",
+      "ru": "Michelin",
+      "tr": "Michelin",
+      "id": "Michelin",
+      "ms": "Michelin",
+      "vi": "Michelin"
+    }
+  },
+  {
+    "slug": "micron",
+    "name_en": "Micron",
+    "ticker": "",
+    "aliases": [
+      "美光"
+    ],
+    "labels": {
+      "en": "Micron",
+      "zh-hans": "美光",
+      "zh-hant": "美光",
+      "ja": "マイクロン",
+      "es": "Micron",
+      "pt": "Micron",
+      "ru": "Micron",
+      "tr": "Micron",
+      "id": "Micron",
+      "ms": "Micron",
+      "vi": "Micron"
+    }
+  },
+  {
+    "slug": "microport",
+    "name_en": "MicroPort",
+    "ticker": "",
+    "aliases": [
+      "微创医疗"
+    ],
+    "labels": {
+      "en": "MicroPort",
+      "zh-hans": "微创医疗",
+      "zh-hant": "微創醫療",
+      "ja": "微創医療",
+      "es": "MicroPort",
+      "pt": "MicroPort",
+      "ru": "MicroPort",
+      "tr": "MicroPort",
+      "id": "MicroPort",
+      "ms": "MicroPort",
+      "vi": "MicroPort"
+    }
+  },
+  {
+    "slug": "microsoft",
+    "name_en": "Microsoft",
+    "ticker": "",
+    "aliases": [
+      "微软"
+    ],
+    "labels": {
+      "en": "Microsoft",
+      "zh-hans": "微软",
+      "zh-hant": "微軟",
+      "ja": "マイクロソフト",
+      "es": "Microsoft",
+      "pt": "Microsoft",
+      "ru": "Microsoft",
+      "tr": "Microsoft",
+      "id": "Microsoft",
+      "ms": "Microsoft",
+      "vi": "Microsoft"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/microsoft"
+  },
+  {
+    "slug": "milkyway",
+    "name_en": "Milkyway",
+    "ticker": "",
+    "aliases": [
+      "密尔克卫"
+    ],
+    "labels": {
+      "en": "Milkyway",
+      "zh-hans": "密尔克卫",
+      "zh-hant": "密爾克衛",
+      "ja": "密爾克衛",
+      "es": "Milkyway",
+      "pt": "Milkyway",
+      "ru": "Milkyway",
+      "tr": "Milkyway",
+      "id": "Milkyway",
+      "ms": "Milkyway",
+      "vi": "Milkyway"
+    }
+  },
+  {
+    "slug": "minimax",
+    "name_en": "MiniMax",
+    "ticker": "",
+    "aliases": [
+      "MiniMax"
+    ],
+    "labels": {
+      "en": "MiniMax",
+      "zh-hans": "MiniMax",
+      "zh-hant": "MiniMax",
+      "ja": "MiniMax",
+      "es": "MiniMax",
+      "pt": "MiniMax",
+      "ru": "MiniMax",
+      "tr": "MiniMax",
+      "id": "MiniMax",
+      "ms": "MiniMax",
+      "vi": "MiniMax"
+    }
+  },
+  {
+    "slug": "minth-group",
+    "name_en": "Minth Group",
+    "ticker": "",
+    "aliases": [
+      "敏实集团"
+    ],
+    "labels": {
+      "en": "Minth Group",
+      "zh-hans": "敏实集团",
+      "zh-hant": "敏實集團",
+      "ja": "Minth Group",
+      "es": "Minth Group",
+      "pt": "Minth Group",
+      "ru": "Minth Group",
+      "tr": "Minth Group",
+      "id": "Minth Group",
+      "ms": "Minth Group",
+      "vi": "Minth Group"
+    }
+  },
+  {
+    "slug": "moderna",
+    "name_en": "Moderna",
+    "ticker": "",
+    "aliases": [
+      "Moderna"
+    ],
+    "labels": {
+      "en": "Moderna",
+      "zh-hans": "Moderna",
+      "zh-hant": "Moderna",
+      "ja": "モデルナ",
+      "es": "Moderna",
+      "pt": "Moderna",
+      "ru": "Moderna",
+      "tr": "Moderna",
+      "id": "Moderna",
+      "ms": "Moderna",
+      "vi": "Moderna"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/moderna"
+  },
+  {
+    "slug": "molina-healthcare",
+    "name_en": "Molina Healthcare",
+    "ticker": "",
+    "aliases": [
+      "Molina Healthcare"
+    ],
+    "labels": {
+      "en": "Molina Healthcare",
+      "zh-hans": "Molina Healthcare",
+      "zh-hant": "Molina Healthcare",
+      "ja": "Molina Healthcare",
+      "es": "Molina Healthcare",
+      "pt": "Molina Healthcare",
+      "ru": "Molina Healthcare",
+      "tr": "Molina Healthcare",
+      "id": "Molina Healthcare",
+      "ms": "Molina Healthcare",
+      "vi": "Molina Healthcare"
+    }
+  },
+  {
+    "slug": "montage-technology",
+    "name_en": "Montage Technology",
+    "ticker": "",
+    "aliases": [
+      "澜起科技"
+    ],
+    "labels": {
+      "en": "Montage Technology",
+      "zh-hans": "澜起科技",
+      "zh-hant": "瀾起科技",
+      "ja": "Montage Technology",
+      "es": "Montage Technology",
+      "pt": "Montage Technology",
+      "ru": "Montage Technology",
+      "tr": "Montage Technology",
+      "id": "Montage Technology",
+      "ms": "Montage Technology",
+      "vi": "Montage Technology"
+    }
+  },
+  {
+    "slug": "moody-s",
+    "name_en": "Moody's",
+    "ticker": "",
+    "aliases": [
+      "穆迪"
+    ],
+    "labels": {
+      "en": "Moody's",
+      "zh-hans": "穆迪",
+      "zh-hant": "穆迪",
+      "ja": "ムーディーズ",
+      "es": "Moody's",
+      "pt": "Moody's",
+      "ru": "Moody's",
+      "tr": "Moody's",
+      "id": "Moody's",
+      "ms": "Moody's",
+      "vi": "Moody's"
+    }
+  },
+  {
+    "slug": "mpi",
+    "name_en": "MPI",
+    "ticker": "",
+    "aliases": [
+      "MPI"
+    ],
+    "labels": {
+      "en": "MPI",
+      "zh-hans": "MPI",
+      "zh-hant": "MPI",
+      "ja": "MPI",
+      "es": "MPI",
+      "pt": "MPI",
+      "ru": "MPI",
+      "tr": "MPI",
+      "id": "MPI",
+      "ms": "MPI",
+      "vi": "MPI"
+    }
+  },
+  {
+    "slug": "msci",
+    "name_en": "MSCI",
+    "ticker": "",
+    "aliases": [
+      "MSCI"
+    ],
+    "labels": {
+      "en": "MSCI",
+      "zh-hans": "MSCI",
+      "zh-hant": "MSCI",
+      "ja": "MSCI",
+      "es": "MSCI",
+      "pt": "MSCI",
+      "ru": "MSCI",
+      "tr": "MSCI",
+      "id": "MSCI",
+      "ms": "MSCI",
+      "vi": "MSCI"
+    }
+  },
+  {
+    "slug": "muyuan-foods",
+    "name_en": "Muyuan Foods",
+    "ticker": "",
+    "aliases": [
+      "牧原股份"
+    ],
+    "labels": {
+      "en": "Muyuan Foods",
+      "zh-hans": "牧原股份",
+      "zh-hant": "牧原股份",
+      "ja": "牧原股份",
+      "es": "Muyuan Foods",
+      "pt": "Muyuan Foods",
+      "ru": "Muyuan Foods",
+      "tr": "Muyuan Foods",
+      "id": "Muyuan Foods",
+      "ms": "Muyuan Foods",
+      "vi": "Muyuan Foods"
+    }
+  },
+  {
+    "slug": "nasdaq",
+    "name_en": "Nasdaq",
+    "ticker": "",
+    "aliases": [
+      "纳斯达克"
+    ],
+    "labels": {
+      "en": "Nasdaq",
+      "zh-hans": "纳斯达克",
+      "zh-hant": "納斯達克",
+      "ja": "ナスダック",
+      "es": "Nasdaq",
+      "pt": "Nasdaq",
+      "ru": "Nasdaq",
+      "tr": "Nasdaq",
+      "id": "Nasdaq",
+      "ms": "Nasdaq",
+      "vi": "Nasdaq"
+    }
+  },
+  {
+    "slug": "neptune-holdings",
+    "name_en": "Neptune Holdings",
+    "ticker": "",
+    "aliases": [
+      "Neptune Holdings"
+    ],
+    "labels": {
+      "en": "Neptune Holdings",
+      "zh-hans": "Neptune Holdings",
+      "zh-hant": "Neptune Holdings",
+      "ja": "Neptune Holdings",
+      "es": "Neptune Holdings",
+      "pt": "Neptune Holdings",
+      "ru": "Neptune Holdings",
+      "tr": "Neptune Holdings",
+      "id": "Neptune Holdings",
+      "ms": "Neptune Holdings",
+      "vi": "Neptune Holdings"
+    }
+  },
+  {
+    "slug": "netease",
+    "name_en": "NetEase",
+    "ticker": "",
+    "aliases": [
+      "网易"
+    ],
+    "labels": {
+      "en": "NetEase",
+      "zh-hans": "网易",
+      "zh-hant": "網易",
+      "ja": "ネットイース",
+      "es": "NetEase",
+      "pt": "NetEase",
+      "ru": "NetEase",
+      "tr": "NetEase",
+      "id": "NetEase",
+      "ms": "NetEase",
+      "vi": "NetEase"
+    }
+  },
+  {
+    "slug": "netflix",
+    "name_en": "Netflix",
+    "ticker": "",
+    "aliases": [
+      "Netflix"
+    ],
+    "labels": {
+      "en": "Netflix",
+      "zh-hans": "Netflix",
+      "zh-hant": "Netflix",
+      "ja": "ネットフリックス",
+      "es": "Netflix",
+      "pt": "Netflix",
+      "ru": "Netflix",
+      "tr": "Netflix",
+      "id": "Netflix",
+      "ms": "Netflix",
+      "vi": "Netflix"
+    }
+  },
+  {
+    "slug": "newell-brands",
+    "name_en": "Newell Brands",
+    "ticker": "",
+    "aliases": [
+      "Newell Brands"
+    ],
+    "labels": {
+      "en": "Newell Brands",
+      "zh-hans": "Newell Brands",
+      "zh-hant": "Newell Brands",
+      "ja": "Newell Brands",
+      "es": "Newell Brands",
+      "pt": "Newell Brands",
+      "ru": "Newell Brands",
+      "tr": "Newell Brands",
+      "id": "Newell Brands",
+      "ms": "Newell Brands",
+      "vi": "Newell Brands"
+    }
+  },
+  {
+    "slug": "newmont",
+    "name_en": "Newmont",
+    "ticker": "",
+    "aliases": [
+      "纽蒙特"
+    ],
+    "labels": {
+      "en": "Newmont",
+      "zh-hans": "纽蒙特",
+      "zh-hant": "紐蒙特",
+      "ja": "ニューモント",
+      "es": "Newmont",
+      "pt": "Newmont",
+      "ru": "Newmont",
+      "tr": "Newmont",
+      "id": "Newmont",
+      "ms": "Newmont",
+      "vi": "Newmont"
+    }
+  },
+  {
+    "slug": "nexchip",
+    "name_en": "Nexchip",
+    "ticker": "",
+    "aliases": [
+      "Nexchip"
+    ],
+    "labels": {
+      "en": "Nexchip",
+      "zh-hans": "Nexchip",
+      "zh-hant": "Nexchip",
+      "ja": "Nexchip",
+      "es": "Nexchip",
+      "pt": "Nexchip",
+      "ru": "Nexchip",
+      "tr": "Nexchip",
+      "id": "Nexchip",
+      "ms": "Nexchip",
+      "vi": "Nexchip"
+    }
+  },
+  {
+    "slug": "nextera-energy",
+    "name_en": "NextEra Energy",
+    "ticker": "",
+    "aliases": [
+      "NextEra Energy"
+    ],
+    "labels": {
+      "en": "NextEra Energy",
+      "zh-hans": "NextEra Energy",
+      "zh-hant": "NextEra Energy",
+      "ja": "NextEra Energy",
+      "es": "NextEra Energy",
+      "pt": "NextEra Energy",
+      "ru": "NextEra Energy",
+      "tr": "NextEra Energy",
+      "id": "NextEra Energy",
+      "ms": "NextEra Energy",
+      "vi": "NextEra Energy"
+    }
+  },
+  {
+    "slug": "nike",
+    "name_en": "Nike",
+    "ticker": "",
+    "aliases": [
+      "耐克"
+    ],
+    "labels": {
+      "en": "Nike",
+      "zh-hans": "耐克",
+      "zh-hant": "耐吉",
+      "ja": "ナイキ",
+      "es": "Nike",
+      "pt": "Nike",
+      "ru": "Nike",
+      "tr": "Nike",
+      "id": "Nike",
+      "ms": "Nike",
+      "vi": "Nike"
+    }
+  },
+  {
+    "slug": "ninebot",
+    "name_en": "Ninebot",
+    "ticker": "",
+    "aliases": [
+      "九号公司"
+    ],
+    "labels": {
+      "en": "Ninebot",
+      "zh-hans": "九号公司",
+      "zh-hant": "九號公司",
+      "ja": "Ninebot",
+      "es": "Ninebot",
+      "pt": "Ninebot",
+      "ru": "Ninebot",
+      "tr": "Ninebot",
+      "id": "Ninebot",
+      "ms": "Ninebot",
+      "vi": "Ninebot"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/ninebot"
+  },
+  {
+    "slug": "noble",
+    "name_en": "Noble",
+    "ticker": "",
+    "aliases": [
+      "Noble"
+    ],
+    "labels": {
+      "en": "Noble",
+      "zh-hans": "Noble",
+      "zh-hant": "Noble",
+      "ja": "Noble",
+      "es": "Noble",
+      "pt": "Noble",
+      "ru": "Noble",
+      "tr": "Noble",
+      "id": "Noble",
+      "ms": "Noble",
+      "vi": "Noble"
+    }
+  },
+  {
+    "slug": "nokia",
+    "name_en": "Nokia",
+    "ticker": "",
+    "aliases": [
+      "诺基亚"
+    ],
+    "labels": {
+      "en": "Nokia",
+      "zh-hans": "诺基亚",
+      "zh-hant": "諾基亞",
+      "ja": "ノキア",
+      "es": "Nokia",
+      "pt": "Nokia",
+      "ru": "Nokia",
+      "tr": "Nokia",
+      "id": "Nokia",
+      "ms": "Nokia",
+      "vi": "Nokia"
+    }
+  },
+  {
+    "slug": "norfolk-southern",
+    "name_en": "Norfolk Southern",
+    "ticker": "",
+    "aliases": [
+      "Norfolk Southern"
+    ],
+    "labels": {
+      "en": "Norfolk Southern",
+      "zh-hans": "Norfolk Southern",
+      "zh-hant": "Norfolk Southern",
+      "ja": "ノーフォーク・サザン",
+      "es": "Norfolk Southern",
+      "pt": "Norfolk Southern",
+      "ru": "Norfolk Southern",
+      "tr": "Norfolk Southern",
+      "id": "Norfolk Southern",
+      "ms": "Norfolk Southern",
+      "vi": "Norfolk Southern"
+    }
+  },
+  {
+    "slug": "northrop-grumman",
+    "name_en": "Northrop Grumman",
+    "ticker": "",
+    "aliases": [
+      "诺斯罗普格鲁曼"
+    ],
+    "labels": {
+      "en": "Northrop Grumman",
+      "zh-hans": "诺斯罗普格鲁曼",
+      "zh-hant": "諾斯洛普·格魯曼",
+      "ja": "ノースロップ・グラマン",
+      "es": "Northrop Grumman",
+      "pt": "Northrop Grumman",
+      "ru": "Northrop Grumman",
+      "tr": "Northrop Grumman",
+      "id": "Northrop Grumman",
+      "ms": "Northrop Grumman",
+      "vi": "Northrop Grumman"
+    }
+  },
+  {
+    "slug": "novartis",
+    "name_en": "Novartis",
+    "ticker": "",
+    "aliases": [
+      "诺华"
+    ],
+    "labels": {
+      "en": "Novartis",
+      "zh-hans": "诺华",
+      "zh-hant": "諾華",
+      "ja": "ノバルティス",
+      "es": "Novartis",
+      "pt": "Novartis",
+      "ru": "Novartis",
+      "tr": "Novartis",
+      "id": "Novartis",
+      "ms": "Novartis",
+      "vi": "Novartis"
+    }
+  },
+  {
+    "slug": "nubank",
+    "name_en": "Nubank",
+    "ticker": "",
+    "aliases": [
+      "Nubank"
+    ],
+    "labels": {
+      "en": "Nubank",
+      "zh-hans": "Nubank",
+      "zh-hant": "Nubank",
+      "ja": "Nubank",
+      "es": "Nubank",
+      "pt": "Nubank",
+      "ru": "Nubank",
+      "tr": "Nubank",
+      "id": "Nubank",
+      "ms": "Nubank",
+      "vi": "Nubank"
+    }
+  },
+  {
+    "slug": "nucor",
+    "name_en": "Nucor",
+    "ticker": "",
+    "aliases": [
+      "Nucor"
+    ],
+    "labels": {
+      "en": "Nucor",
+      "zh-hans": "Nucor",
+      "zh-hant": "Nucor",
+      "ja": "Nucor",
+      "es": "Nucor",
+      "pt": "Nucor",
+      "ru": "Nucor",
+      "tr": "Nucor",
+      "id": "Nucor",
+      "ms": "Nucor",
+      "vi": "Nucor"
+    }
+  },
+  {
+    "slug": "nvent",
+    "name_en": "nVent",
+    "ticker": "",
+    "aliases": [
+      "nVent"
+    ],
+    "labels": {
+      "en": "nVent",
+      "zh-hans": "nVent",
+      "zh-hant": "nVent",
+      "ja": "nVent",
+      "es": "nVent",
+      "pt": "nVent",
+      "ru": "nVent",
+      "tr": "nVent",
+      "id": "nVent",
+      "ms": "nVent",
+      "vi": "nVent"
+    }
+  },
+  {
+    "slug": "nvidia",
+    "name_en": "NVIDIA",
+    "ticker": "",
+    "aliases": [
+      "英伟达"
+    ],
+    "labels": {
+      "en": "NVIDIA",
+      "zh-hans": "英伟达",
+      "zh-hant": "輝達",
+      "ja": "エヌビディア",
+      "es": "NVIDIA",
+      "pt": "NVIDIA",
+      "ru": "NVIDIA",
+      "tr": "NVIDIA",
+      "id": "NVIDIA",
+      "ms": "NVIDIA",
+      "vi": "NVIDIA"
+    }
+  },
+  {
+    "slug": "nxp-semiconductors",
+    "name_en": "NXP Semiconductors",
+    "ticker": "",
+    "aliases": [
+      "恩智浦"
+    ],
+    "labels": {
+      "en": "NXP Semiconductors",
+      "zh-hans": "恩智浦",
+      "zh-hant": "恩智浦",
+      "ja": "NXPセミコンダクターズ",
+      "es": "NXP Semiconductors",
+      "pt": "NXP Semiconductors",
+      "ru": "NXP Semiconductors",
+      "tr": "NXP Semiconductors",
+      "id": "NXP Semiconductors",
+      "ms": "NXP Semiconductors",
+      "vi": "NXP Semiconductors"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/nxp-semiconductors"
+  },
+  {
+    "slug": "olx",
+    "name_en": "OLX",
+    "ticker": "",
+    "aliases": [
+      "OLX"
+    ],
+    "labels": {
+      "en": "OLX",
+      "zh-hans": "OLX",
+      "zh-hant": "OLX",
+      "ja": "OLX",
+      "es": "OLX",
+      "pt": "OLX",
+      "ru": "OLX",
+      "tr": "OLX",
+      "id": "OLX",
+      "ms": "OLX",
+      "vi": "OLX"
+    }
+  },
+  {
+    "slug": "omnicom",
+    "name_en": "Omnicom",
+    "ticker": "",
+    "aliases": [
+      "Omnicom"
+    ],
+    "labels": {
+      "en": "Omnicom",
+      "zh-hans": "Omnicom",
+      "zh-hant": "Omnicom",
+      "ja": "Omnicom",
+      "es": "Omnicom",
+      "pt": "Omnicom",
+      "ru": "Omnicom",
+      "tr": "Omnicom",
+      "id": "Omnicom",
+      "ms": "Omnicom",
+      "vi": "Omnicom"
+    }
+  },
+  {
+    "slug": "openai",
+    "name_en": "OpenAI",
+    "ticker": "",
+    "aliases": [
+      "OpenAI"
+    ],
+    "labels": {
+      "en": "OpenAI",
+      "zh-hans": "OpenAI",
+      "zh-hant": "OpenAI",
+      "ja": "OpenAI",
+      "es": "OpenAI",
+      "pt": "OpenAI",
+      "ru": "OpenAI",
+      "tr": "OpenAI",
+      "id": "OpenAI",
+      "ms": "OpenAI",
+      "vi": "OpenAI"
+    }
+  },
+  {
+    "slug": "opt-machine-vision",
+    "name_en": "OPT Machine Vision",
+    "ticker": "",
+    "aliases": [
+      "奥普特"
+    ],
+    "labels": {
+      "en": "OPT Machine Vision",
+      "zh-hans": "奥普特",
+      "zh-hant": "奧普特",
+      "ja": "奥普特",
+      "es": "OPT Machine Vision",
+      "pt": "OPT Machine Vision",
+      "ru": "OPT Machine Vision",
+      "tr": "OPT Machine Vision",
+      "id": "OPT Machine Vision",
+      "ms": "OPT Machine Vision",
+      "vi": "OPT Machine Vision"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/opt-machine-vision"
+  },
+  {
+    "slug": "oracle",
+    "name_en": "Oracle",
+    "ticker": "",
+    "aliases": [
+      "甲骨文"
+    ],
+    "labels": {
+      "en": "Oracle",
+      "zh-hans": "甲骨文",
+      "zh-hant": "甲骨文",
+      "ja": "オラクル",
+      "es": "Oracle",
+      "pt": "Oracle",
+      "ru": "Oracle",
+      "tr": "Oracle",
+      "id": "Oracle",
+      "ms": "Oracle",
+      "vi": "Oracle"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/oracle"
+  },
+  {
+    "slug": "oriental-yuhong",
+    "name_en": "Oriental Yuhong",
+    "ticker": "",
+    "aliases": [
+      "东方雨虹"
+    ],
+    "labels": {
+      "en": "Oriental Yuhong",
+      "zh-hans": "东方雨虹",
+      "zh-hant": "東方雨虹",
+      "ja": "東方雨虹",
+      "es": "Oriental Yuhong",
+      "pt": "Oriental Yuhong",
+      "ru": "Oriental Yuhong",
+      "tr": "Oriental Yuhong",
+      "id": "Oriental Yuhong",
+      "ms": "Oriental Yuhong",
+      "vi": "Oriental Yuhong"
+    }
+  },
+  {
+    "slug": "palantir",
+    "name_en": "Palantir",
+    "ticker": "",
+    "aliases": [
+      "Palantir"
+    ],
+    "labels": {
+      "en": "Palantir",
+      "zh-hans": "Palantir",
+      "zh-hant": "Palantir",
+      "ja": "パランティア",
+      "es": "Palantir",
+      "pt": "Palantir",
+      "ru": "Palantir",
+      "tr": "Palantir",
+      "id": "Palantir",
+      "ms": "Palantir",
+      "vi": "Palantir"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/palantir"
+  },
+  {
+    "slug": "paypal",
+    "name_en": "PayPal",
+    "ticker": "",
+    "aliases": [
+      "PayPal"
+    ],
+    "labels": {
+      "en": "PayPal",
+      "zh-hans": "PayPal",
+      "zh-hant": "PayPal",
+      "ja": "ペイパル",
+      "es": "PayPal",
+      "pt": "PayPal",
+      "ru": "PayPal",
+      "tr": "PayPal",
+      "id": "PayPal",
+      "ms": "PayPal",
+      "vi": "PayPal"
+    }
+  },
+  {
+    "slug": "peloton",
+    "name_en": "Peloton",
+    "ticker": "",
+    "aliases": [
+      "Peloton"
+    ],
+    "labels": {
+      "en": "Peloton",
+      "zh-hans": "Peloton",
+      "zh-hant": "Peloton",
+      "ja": "ペロトン",
+      "es": "Peloton",
+      "pt": "Peloton",
+      "ru": "Peloton",
+      "tr": "Peloton",
+      "id": "Peloton",
+      "ms": "Peloton",
+      "vi": "Peloton"
+    }
+  },
+  {
+    "slug": "pfizer",
+    "name_en": "Pfizer",
+    "ticker": "",
+    "aliases": [
+      "辉瑞"
+    ],
+    "labels": {
+      "en": "Pfizer",
+      "zh-hans": "辉瑞",
+      "zh-hant": "輝瑞",
+      "ja": "ファイザー",
+      "es": "Pfizer",
+      "pt": "Pfizer",
+      "ru": "Pfizer",
+      "tr": "Pfizer",
+      "id": "Pfizer",
+      "ms": "Pfizer",
+      "vi": "Pfizer"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/pfizer"
+  },
+  {
+    "slug": "pg-and-e",
+    "name_en": "PG&E",
+    "ticker": "",
+    "aliases": [
+      "PG&E"
+    ],
+    "labels": {
+      "en": "PG&E",
+      "zh-hans": "PG&E",
+      "zh-hant": "PG&E",
+      "ja": "PG&E",
+      "es": "PG&E",
+      "pt": "PG&E",
+      "ru": "PG&E",
+      "tr": "PG&E",
+      "id": "PG&E",
+      "ms": "PG&E",
+      "vi": "PG&E"
+    }
+  },
+  {
+    "slug": "pharmaron",
+    "name_en": "Pharmaron",
+    "ticker": "",
+    "aliases": [
+      "康龙化成"
+    ],
+    "labels": {
+      "en": "Pharmaron",
+      "zh-hans": "康龙化成",
+      "zh-hant": "康龍化成",
+      "ja": "Pharmaron",
+      "es": "Pharmaron",
+      "pt": "Pharmaron",
+      "ru": "Pharmaron",
+      "tr": "Pharmaron",
+      "id": "Pharmaron",
+      "ms": "Pharmaron",
+      "vi": "Pharmaron"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/pharmaron"
+  },
+  {
+    "slug": "philip-morris-international",
+    "name_en": "Philip Morris International",
+    "ticker": "",
+    "aliases": [
+      "菲利普莫里斯"
+    ],
+    "labels": {
+      "en": "Philip Morris International",
+      "zh-hans": "菲利普莫里斯",
+      "zh-hant": "菲利普莫里斯",
+      "ja": "フィリップ・モリス・インターナショナル",
+      "es": "Philip Morris International",
+      "pt": "Philip Morris International",
+      "ru": "Philip Morris International",
+      "tr": "Philip Morris International",
+      "id": "Philip Morris International",
+      "ms": "Philip Morris International",
+      "vi": "Philip Morris International"
+    }
+  },
+  {
+    "slug": "ping-an-bank",
+    "name_en": "Ping An Bank",
+    "ticker": "",
+    "aliases": [
+      "平安银行"
+    ],
+    "labels": {
+      "en": "Ping An Bank",
+      "zh-hans": "平安银行",
+      "zh-hant": "平安銀行",
+      "ja": "平安銀行",
+      "es": "Ping An Bank",
+      "pt": "Ping An Bank",
+      "ru": "Ping An Bank",
+      "tr": "Ping An Bank",
+      "id": "Ping An Bank",
+      "ms": "Ping An Bank",
+      "vi": "Ping An Bank"
+    }
+  },
+  {
+    "slug": "pinggao-electric",
+    "name_en": "Pinggao Electric",
+    "ticker": "",
+    "aliases": [
+      "平高电气"
+    ],
+    "labels": {
+      "en": "Pinggao Electric",
+      "zh-hans": "平高电气",
+      "zh-hant": "平高電氣",
+      "ja": "平高電気",
+      "es": "Pinggao Electric",
+      "pt": "Pinggao Electric",
+      "ru": "Pinggao Electric",
+      "tr": "Pinggao Electric",
+      "id": "Pinggao Electric",
+      "ms": "Pinggao Electric",
+      "vi": "Pinggao Electric"
+    }
+  },
+  {
+    "slug": "piramal-finance",
+    "name_en": "Piramal Finance",
+    "ticker": "",
+    "aliases": [
+      "Piramal Finance"
+    ],
+    "labels": {
+      "en": "Piramal Finance",
+      "zh-hans": "Piramal Finance",
+      "zh-hant": "Piramal Finance",
+      "ja": "Piramal Finance",
+      "es": "Piramal Finance",
+      "pt": "Piramal Finance",
+      "ru": "Piramal Finance",
+      "tr": "Piramal Finance",
+      "id": "Piramal Finance",
+      "ms": "Piramal Finance",
+      "vi": "Piramal Finance"
+    }
+  },
+  {
+    "slug": "pop-mart",
+    "name_en": "POP MART",
+    "ticker": "HKEX 9992",
+    "aliases": [
+      "泡泡玛特"
+    ],
+    "labels": {
+      "en": "POP MART",
+      "zh-hans": "泡泡玛特",
+      "zh-hant": "泡泡瑪特",
+      "ja": "POP MART",
+      "es": "POP MART",
+      "pt": "POP MART",
+      "ru": "POP MART",
+      "tr": "POP MART",
+      "id": "POP MART",
+      "ms": "POP MART",
+      "vi": "POP MART"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/pop-mart"
+  },
+  {
+    "slug": "powerchip-semiconductor-manufacturing-corporation",
+    "name_en": "Powerchip Semiconductor Manufacturing Corporation",
+    "ticker": "",
+    "aliases": [
+      "力积电"
+    ],
+    "labels": {
+      "en": "Powerchip Semiconductor Manufacturing Corporation",
+      "zh-hans": "力积电",
+      "zh-hant": "力積電",
+      "ja": "力積電",
+      "es": "Powerchip Semiconductor Manufacturing Corporation",
+      "pt": "Powerchip Semiconductor Manufacturing Corporation",
+      "ru": "Powerchip Semiconductor Manufacturing Corporation",
+      "tr": "Powerchip Semiconductor Manufacturing Corporation",
+      "id": "Powerchip Semiconductor Manufacturing Corporation",
+      "ms": "Powerchip Semiconductor Manufacturing Corporation",
+      "vi": "Powerchip Semiconductor Manufacturing Corporation"
+    }
+  },
+  {
+    "slug": "prada",
+    "name_en": "Prada",
+    "ticker": "",
+    "aliases": [
+      "Prada"
+    ],
+    "labels": {
+      "en": "Prada",
+      "zh-hans": "Prada",
+      "zh-hant": "Prada",
+      "ja": "プラダ",
+      "es": "Prada",
+      "pt": "Prada",
+      "ru": "Prada",
+      "tr": "Prada",
+      "id": "Prada",
+      "ms": "Prada",
+      "vi": "Prada"
+    }
+  },
+  {
+    "slug": "procter-and-gamble",
+    "name_en": "Procter & Gamble",
+    "ticker": "",
+    "aliases": [
+      "宝洁"
+    ],
+    "labels": {
+      "en": "Procter & Gamble",
+      "zh-hans": "宝洁",
+      "zh-hant": "寶潔",
+      "ja": "P&G",
+      "es": "Procter & Gamble",
+      "pt": "Procter & Gamble",
+      "ru": "Procter & Gamble",
+      "tr": "Procter & Gamble",
+      "id": "Procter & Gamble",
+      "ms": "Procter & Gamble",
+      "vi": "Procter & Gamble"
+    }
+  },
+  {
+    "slug": "prosus",
+    "name_en": "Prosus",
+    "ticker": "",
+    "aliases": [
+      "Prosus"
+    ],
+    "labels": {
+      "en": "Prosus",
+      "zh-hans": "Prosus",
+      "zh-hant": "Prosus",
+      "ja": "Prosus",
+      "es": "Prosus",
+      "pt": "Prosus",
+      "ru": "Prosus",
+      "tr": "Prosus",
+      "id": "Prosus",
+      "ms": "Prosus",
+      "vi": "Prosus"
+    }
+  },
+  {
+    "slug": "prudential",
+    "name_en": "Prudential",
+    "ticker": "",
+    "aliases": [
+      "保诚"
+    ],
+    "labels": {
+      "en": "Prudential",
+      "zh-hans": "保诚",
+      "zh-hant": "保誠",
+      "ja": "プルデンシャル",
+      "es": "Prudential",
+      "pt": "Prudential",
+      "ru": "Prudential",
+      "tr": "Prudential",
+      "id": "Prudential",
+      "ms": "Prudential",
+      "vi": "Prudential"
+    }
+  },
+  {
+    "slug": "putailai",
+    "name_en": "Putailai",
+    "ticker": "",
+    "aliases": [
+      "璞泰来"
+    ],
+    "labels": {
+      "en": "Putailai",
+      "zh-hans": "璞泰来",
+      "zh-hant": "璞泰來",
+      "ja": "璞泰来",
+      "es": "Putailai",
+      "pt": "Putailai",
+      "ru": "Putailai",
+      "tr": "Putailai",
+      "id": "Putailai",
+      "ms": "Putailai",
+      "vi": "Putailai"
+    }
+  },
+  {
+    "slug": "qiangyi",
+    "name_en": "Qiangyi",
+    "ticker": "",
+    "aliases": [
+      "强一股份"
+    ],
+    "labels": {
+      "en": "Qiangyi",
+      "zh-hans": "强一股份",
+      "zh-hant": "強一股份",
+      "ja": "強一股份",
+      "es": "Qiangyi",
+      "pt": "Qiangyi",
+      "ru": "Qiangyi",
+      "tr": "Qiangyi",
+      "id": "Qiangyi",
+      "ms": "Qiangyi",
+      "vi": "Qiangyi"
+    }
+  },
+  {
+    "slug": "qiaoyin-city-management",
+    "name_en": "Qiaoyin City Management",
+    "ticker": "",
+    "aliases": [
+      "侨银股份"
+    ],
+    "labels": {
+      "en": "Qiaoyin City Management",
+      "zh-hans": "侨银股份",
+      "zh-hant": "僑銀股份",
+      "ja": "僑銀股份",
+      "es": "Qiaoyin City Management",
+      "pt": "Qiaoyin City Management",
+      "ru": "Qiaoyin City Management",
+      "tr": "Qiaoyin City Management",
+      "id": "Qiaoyin City Management",
+      "ms": "Qiaoyin City Management",
+      "vi": "Qiaoyin City Management"
+    }
+  },
+  {
+    "slug": "qiaqia-food",
+    "name_en": "Qiaqia Food",
+    "ticker": "",
+    "aliases": [
+      "洽洽食品"
+    ],
+    "labels": {
+      "en": "Qiaqia Food",
+      "zh-hans": "洽洽食品",
+      "zh-hant": "洽洽食品",
+      "ja": "Qiaqia Food",
+      "es": "Qiaqia Food",
+      "pt": "Qiaqia Food",
+      "ru": "Qiaqia Food",
+      "tr": "Qiaqia Food",
+      "id": "Qiaqia Food",
+      "ms": "Qiaqia Food",
+      "vi": "Qiaqia Food"
+    }
+  },
+  {
+    "slug": "quantumscape",
+    "name_en": "QuantumScape",
+    "ticker": "",
+    "aliases": [
+      "QuantumScape"
+    ],
+    "labels": {
+      "en": "QuantumScape",
+      "zh-hans": "QuantumScape",
+      "zh-hant": "QuantumScape",
+      "ja": "QuantumScape",
+      "es": "QuantumScape",
+      "pt": "QuantumScape",
+      "ru": "QuantumScape",
+      "tr": "QuantumScape",
+      "id": "QuantumScape",
+      "ms": "QuantumScape",
+      "vi": "QuantumScape"
+    }
+  },
+  {
+    "slug": "raycus",
+    "name_en": "Raycus",
+    "ticker": "",
+    "aliases": [
+      "锐科激光"
+    ],
+    "labels": {
+      "en": "Raycus",
+      "zh-hans": "锐科激光",
+      "zh-hant": "銳科雷射",
+      "ja": "鋭科激光",
+      "es": "Raycus",
+      "pt": "Raycus",
+      "ru": "Raycus",
+      "tr": "Raycus",
+      "id": "Raycus",
+      "ms": "Raycus",
+      "vi": "Raycus"
+    }
+  },
+  {
+    "slug": "remegen",
+    "name_en": "RemeGen",
+    "ticker": "",
+    "aliases": [
+      "荣昌生物"
+    ],
+    "labels": {
+      "en": "RemeGen",
+      "zh-hans": "荣昌生物",
+      "zh-hant": "榮昌生物",
+      "ja": "RemeGen",
+      "es": "RemeGen",
+      "pt": "RemeGen",
+      "ru": "RemeGen",
+      "tr": "RemeGen",
+      "id": "RemeGen",
+      "ms": "RemeGen",
+      "vi": "RemeGen"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/remegen"
+  },
+  {
+    "slug": "ringcentral",
+    "name_en": "RingCentral",
+    "ticker": "",
+    "aliases": [
+      "RingCentral"
+    ],
+    "labels": {
+      "en": "RingCentral",
+      "zh-hans": "RingCentral",
+      "zh-hant": "RingCentral",
+      "ja": "RingCentral",
+      "es": "RingCentral",
+      "pt": "RingCentral",
+      "ru": "RingCentral",
+      "tr": "RingCentral",
+      "id": "RingCentral",
+      "ms": "RingCentral",
+      "vi": "RingCentral"
+    }
+  },
+  {
+    "slug": "robinhood",
+    "name_en": "Robinhood",
+    "ticker": "",
+    "aliases": [
+      "Robinhood"
+    ],
+    "labels": {
+      "en": "Robinhood",
+      "zh-hans": "Robinhood",
+      "zh-hant": "Robinhood",
+      "ja": "ロビンフッド",
+      "es": "Robinhood",
+      "pt": "Robinhood",
+      "ru": "Robinhood",
+      "tr": "Robinhood",
+      "id": "Robinhood",
+      "ms": "Robinhood",
+      "vi": "Robinhood"
+    }
+  },
+  {
+    "slug": "rollins",
+    "name_en": "Rollins",
+    "ticker": "",
+    "aliases": [
+      "Rollins"
+    ],
+    "labels": {
+      "en": "Rollins",
+      "zh-hans": "Rollins",
+      "zh-hant": "Rollins",
+      "ja": "Rollins",
+      "es": "Rollins",
+      "pt": "Rollins",
+      "ru": "Rollins",
+      "tr": "Rollins",
+      "id": "Rollins",
+      "ms": "Rollins",
+      "vi": "Rollins"
+    }
+  },
+  {
+    "slug": "rongsheng-petrochemical",
+    "name_en": "Rongsheng Petrochemical",
+    "ticker": "",
+    "aliases": [
+      "荣盛石化"
+    ],
+    "labels": {
+      "en": "Rongsheng Petrochemical",
+      "zh-hans": "荣盛石化",
+      "zh-hant": "榮盛石化",
+      "ja": "栄盛石化",
+      "es": "Rongsheng Petrochemical",
+      "pt": "Rongsheng Petrochemical",
+      "ru": "Rongsheng Petrochemical",
+      "tr": "Rongsheng Petrochemical",
+      "id": "Rongsheng Petrochemical",
+      "ms": "Rongsheng Petrochemical",
+      "vi": "Rongsheng Petrochemical"
+    }
+  },
+  {
+    "slug": "rtx",
+    "name_en": "RTX",
+    "ticker": "",
+    "aliases": [
+      "RTX"
+    ],
+    "labels": {
+      "en": "RTX",
+      "zh-hans": "RTX",
+      "zh-hant": "RTX",
+      "ja": "RTX",
+      "es": "RTX",
+      "pt": "RTX",
+      "ru": "RTX",
+      "tr": "RTX",
+      "id": "RTX",
+      "ms": "RTX",
+      "vi": "RTX"
+    }
+  },
+  {
+    "slug": "ruijie-networks",
+    "name_en": "Ruijie Networks",
+    "ticker": "",
+    "aliases": [
+      "锐捷网络"
+    ],
+    "labels": {
+      "en": "Ruijie Networks",
+      "zh-hans": "锐捷网络",
+      "zh-hant": "銳捷網絡",
+      "ja": "鋭捷網絡",
+      "es": "Ruijie Networks",
+      "pt": "Ruijie Networks",
+      "ru": "Ruijie Networks",
+      "tr": "Ruijie Networks",
+      "id": "Ruijie Networks",
+      "ms": "Ruijie Networks",
+      "vi": "Ruijie Networks"
+    }
+  },
+  {
+    "slug": "runze-technology",
+    "name_en": "Runze Technology",
+    "ticker": "",
+    "aliases": [
+      "润泽科技"
+    ],
+    "labels": {
+      "en": "Runze Technology",
+      "zh-hans": "润泽科技",
+      "zh-hant": "潤澤科技",
+      "ja": "潤沢科技",
+      "es": "Runze Technology",
+      "pt": "Runze Technology",
+      "ru": "Runze Technology",
+      "tr": "Runze Technology",
+      "id": "Runze Technology",
+      "ms": "Runze Technology",
+      "vi": "Runze Technology"
+    }
+  },
+  {
+    "slug": "s-and-p-global",
+    "name_en": "S&P Global",
+    "ticker": "",
+    "aliases": [
+      "S&P Global"
+    ],
+    "labels": {
+      "en": "S&P Global",
+      "zh-hans": "S&P Global",
+      "zh-hant": "S&P Global",
+      "ja": "S&P Global",
+      "es": "S&P Global",
+      "pt": "S&P Global",
+      "ru": "S&P Global",
+      "tr": "S&P Global",
+      "id": "S&P Global",
+      "ms": "S&P Global",
+      "vi": "S&P Global"
+    }
+  },
+  {
+    "slug": "safehold",
+    "name_en": "Safehold",
+    "ticker": "",
+    "aliases": [
+      "Safehold"
+    ],
+    "labels": {
+      "en": "Safehold",
+      "zh-hans": "Safehold",
+      "zh-hant": "Safehold",
+      "ja": "Safehold",
+      "es": "Safehold",
+      "pt": "Safehold",
+      "ru": "Safehold",
+      "tr": "Safehold",
+      "id": "Safehold",
+      "ms": "Safehold",
+      "vi": "Safehold"
+    }
+  },
+  {
+    "slug": "saic-motor",
+    "name_en": "SAIC Motor",
+    "ticker": "",
+    "aliases": [
+      "上汽集团"
+    ],
+    "labels": {
+      "en": "SAIC Motor",
+      "zh-hans": "上汽集团",
+      "zh-hant": "上汽集團",
+      "ja": "上汽集団",
+      "es": "SAIC Motor",
+      "pt": "SAIC Motor",
+      "ru": "SAIC Motor",
+      "tr": "SAIC Motor",
+      "id": "SAIC Motor",
+      "ms": "SAIC Motor",
+      "vi": "SAIC Motor"
+    }
+  },
+  {
+    "slug": "saiyi-information",
+    "name_en": "Saiyi Information",
+    "ticker": "",
+    "aliases": [
+      "赛意信息"
+    ],
+    "labels": {
+      "en": "Saiyi Information",
+      "zh-hans": "赛意信息",
+      "zh-hant": "賽意資訊",
+      "ja": "賽意信息",
+      "es": "Saiyi Information",
+      "pt": "Saiyi Information",
+      "ru": "Saiyi Information",
+      "tr": "Saiyi Information",
+      "id": "Saiyi Information",
+      "ms": "Saiyi Information",
+      "vi": "Saiyi Information"
+    }
+  },
+  {
+    "slug": "salesforce",
+    "name_en": "Salesforce",
+    "ticker": "",
+    "aliases": [
+      "Salesforce"
+    ],
+    "labels": {
+      "en": "Salesforce",
+      "zh-hans": "Salesforce",
+      "zh-hant": "Salesforce",
+      "ja": "Salesforce",
+      "es": "Salesforce",
+      "pt": "Salesforce",
+      "ru": "Salesforce",
+      "tr": "Salesforce",
+      "id": "Salesforce",
+      "ms": "Salesforce",
+      "vi": "Salesforce"
+    }
+  },
+  {
+    "slug": "samsara",
+    "name_en": "Samsara",
+    "ticker": "",
+    "aliases": [
+      "Samsara"
+    ],
+    "labels": {
+      "en": "Samsara",
+      "zh-hans": "Samsara",
+      "zh-hant": "Samsara",
+      "ja": "Samsara",
+      "es": "Samsara",
+      "pt": "Samsara",
+      "ru": "Samsara",
+      "tr": "Samsara",
+      "id": "Samsara",
+      "ms": "Samsara",
+      "vi": "Samsara"
+    }
+  },
+  {
+    "slug": "samsung-electronics",
+    "name_en": "Samsung Electronics",
+    "ticker": "",
+    "aliases": [
+      "三星电子"
+    ],
+    "labels": {
+      "en": "Samsung Electronics",
+      "zh-hans": "三星电子",
+      "zh-hant": "三星電子",
+      "ja": "サムスン電子",
+      "es": "Samsung Electronics",
+      "pt": "Samsung Electronics",
+      "ru": "Samsung Electronics",
+      "tr": "Samsung Electronics",
+      "id": "Samsung Electronics",
+      "ms": "Samsung Electronics",
+      "vi": "Samsung Electronics"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/samsung-electronics"
+  },
+  {
+    "slug": "samsung-sdi",
+    "name_en": "Samsung SDI",
+    "ticker": "",
+    "aliases": [
+      "三星SDI"
+    ],
+    "labels": {
+      "en": "Samsung SDI",
+      "zh-hans": "三星SDI",
+      "zh-hant": "三星 SDI",
+      "ja": "サムスンSDI",
+      "es": "Samsung SDI",
+      "pt": "Samsung SDI",
+      "ru": "Samsung SDI",
+      "tr": "Samsung SDI",
+      "id": "Samsung SDI",
+      "ms": "Samsung SDI",
+      "vi": "Samsung SDI"
+    }
+  },
+  {
+    "slug": "sands-china",
+    "name_en": "Sands China",
+    "ticker": "",
+    "aliases": [
+      "金沙中国"
+    ],
+    "labels": {
+      "en": "Sands China",
+      "zh-hans": "金沙中国",
+      "zh-hant": "金沙中國",
+      "ja": "サンズ・チャイナ",
+      "es": "Sands China",
+      "pt": "Sands China",
+      "ru": "Sands China",
+      "tr": "Sands China",
+      "id": "Sands China",
+      "ms": "Sands China",
+      "vi": "Sands China"
+    }
+  },
+  {
+    "slug": "sdic-intelligence",
+    "name_en": "SDIC Intelligence",
+    "ticker": "",
+    "aliases": [
+      "国投智能"
+    ],
+    "labels": {
+      "en": "SDIC Intelligence",
+      "zh-hans": "国投智能",
+      "zh-hant": "國投智能",
+      "ja": "国投智能",
+      "es": "SDIC Intelligence",
+      "pt": "SDIC Intelligence",
+      "ru": "SDIC Intelligence",
+      "tr": "SDIC Intelligence",
+      "id": "SDIC Intelligence",
+      "ms": "SDIC Intelligence",
+      "vi": "SDIC Intelligence"
+    }
+  },
+  {
+    "slug": "seagate",
+    "name_en": "Seagate",
+    "ticker": "",
+    "aliases": [
+      "希捷"
+    ],
+    "labels": {
+      "en": "Seagate",
+      "zh-hans": "希捷",
+      "zh-hant": "希捷",
+      "ja": "シーゲイト",
+      "es": "Seagate",
+      "pt": "Seagate",
+      "ru": "Seagate",
+      "tr": "Seagate",
+      "id": "Seagate",
+      "ms": "Seagate",
+      "vi": "Seagate"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/seagate"
+  },
+  {
+    "slug": "semcorp",
+    "name_en": "SEMCORP",
+    "ticker": "",
+    "aliases": [
+      "恩捷股份"
+    ],
+    "labels": {
+      "en": "SEMCORP",
+      "zh-hans": "恩捷股份",
+      "zh-hant": "恩捷股份",
+      "ja": "SEMCORP",
+      "es": "SEMCORP",
+      "pt": "SEMCORP",
+      "ru": "SEMCORP",
+      "tr": "SEMCORP",
+      "id": "SEMCORP",
+      "ms": "SEMCORP",
+      "vi": "SEMCORP"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/semcorp"
+  },
+  {
+    "slug": "servicenow",
+    "name_en": "ServiceNow",
+    "ticker": "",
+    "aliases": [
+      "ServiceNow"
+    ],
+    "labels": {
+      "en": "ServiceNow",
+      "zh-hans": "ServiceNow",
+      "zh-hant": "ServiceNow",
+      "ja": "ServiceNow",
+      "es": "ServiceNow",
+      "pt": "ServiceNow",
+      "ru": "ServiceNow",
+      "tr": "ServiceNow",
+      "id": "ServiceNow",
+      "ms": "ServiceNow",
+      "vi": "ServiceNow"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/servicenow"
+  },
+  {
+    "slug": "shanghai-jahwa",
+    "name_en": "Shanghai Jahwa",
+    "ticker": "",
+    "aliases": [
+      "上海家化"
+    ],
+    "labels": {
+      "en": "Shanghai Jahwa",
+      "zh-hans": "上海家化",
+      "zh-hant": "上海家化",
+      "ja": "上海家化",
+      "es": "Shanghai Jahwa",
+      "pt": "Shanghai Jahwa",
+      "ru": "Shanghai Jahwa",
+      "tr": "Shanghai Jahwa",
+      "id": "Shanghai Jahwa",
+      "ms": "Shanghai Jahwa",
+      "vi": "Shanghai Jahwa"
+    }
+  },
+  {
+    "slug": "shangtai-technology",
+    "name_en": "Shangtai Technology",
+    "ticker": "",
+    "aliases": [
+      "尚太科技"
+    ],
+    "labels": {
+      "en": "Shangtai Technology",
+      "zh-hans": "尚太科技",
+      "zh-hant": "尚太科技",
+      "ja": "尚太科技",
+      "es": "Shangtai Technology",
+      "pt": "Shangtai Technology",
+      "ru": "Shangtai Technology",
+      "tr": "Shangtai Technology",
+      "id": "Shangtai Technology",
+      "ms": "Shangtai Technology",
+      "vi": "Shangtai Technology"
+    }
+  },
+  {
+    "slug": "shennan-circuits",
+    "name_en": "Shennan Circuits",
+    "ticker": "",
+    "aliases": [
+      "深南电路"
+    ],
+    "labels": {
+      "en": "Shennan Circuits",
+      "zh-hans": "深南电路",
+      "zh-hant": "深南電路",
+      "ja": "深南電路",
+      "es": "Shennan Circuits",
+      "pt": "Shennan Circuits",
+      "ru": "Shennan Circuits",
+      "tr": "Shennan Circuits",
+      "id": "Shennan Circuits",
+      "ms": "Shennan Circuits",
+      "vi": "Shennan Circuits"
+    }
+  },
+  {
+    "slug": "shouyao-holdings",
+    "name_en": "Shouyao Holdings",
+    "ticker": "",
+    "aliases": [
+      "首药控股"
+    ],
+    "labels": {
+      "en": "Shouyao Holdings",
+      "zh-hans": "首药控股",
+      "zh-hant": "首藥控股",
+      "ja": "首薬控股",
+      "es": "Shouyao Holdings",
+      "pt": "Shouyao Holdings",
+      "ru": "Shouyao Holdings",
+      "tr": "Shouyao Holdings",
+      "id": "Shouyao Holdings",
+      "ms": "Shouyao Holdings",
+      "vi": "Shouyao Holdings"
+    }
+  },
+  {
+    "slug": "shuanghuan-driveline",
+    "name_en": "Shuanghuan Driveline",
+    "ticker": "",
+    "aliases": [
+      "双环传动"
+    ],
+    "labels": {
+      "en": "Shuanghuan Driveline",
+      "zh-hans": "双环传动",
+      "zh-hant": "雙環傳動",
+      "ja": "双環伝動",
+      "es": "Shuanghuan Driveline",
+      "pt": "Shuanghuan Driveline",
+      "ru": "Shuanghuan Driveline",
+      "tr": "Shuanghuan Driveline",
+      "id": "Shuanghuan Driveline",
+      "ms": "Shuanghuan Driveline",
+      "vi": "Shuanghuan Driveline"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/shuanghuan-driveline"
+  },
+  {
+    "slug": "shuanghui-development",
+    "name_en": "Shuanghui Development",
+    "ticker": "",
+    "aliases": [
+      "双汇发展"
+    ],
+    "labels": {
+      "en": "Shuanghui Development",
+      "zh-hans": "双汇发展",
+      "zh-hant": "雙匯發展",
+      "ja": "双匯発展",
+      "es": "Shuanghui Development",
+      "pt": "Shuanghui Development",
+      "ru": "Shuanghui Development",
+      "tr": "Shuanghui Development",
+      "id": "Shuanghui Development",
+      "ms": "Shuanghui Development",
+      "vi": "Shuanghui Development"
+    }
+  },
+  {
+    "slug": "shuanglin",
+    "name_en": "Shuanglin",
+    "ticker": "",
+    "aliases": [
+      "双林股份"
+    ],
+    "labels": {
+      "en": "Shuanglin",
+      "zh-hans": "双林股份",
+      "zh-hant": "雙林股份",
+      "ja": "双林股份",
+      "es": "Shuanglin",
+      "pt": "Shuanglin",
+      "ru": "Shuanglin",
+      "tr": "Shuanglin",
+      "id": "Shuanglin",
+      "ms": "Shuanglin",
+      "vi": "Shuanglin"
+    }
+  },
+  {
+    "slug": "sicc",
+    "name_en": "SICC",
+    "ticker": "",
+    "aliases": [
+      "SICC"
+    ],
+    "labels": {
+      "en": "SICC",
+      "zh-hans": "SICC",
+      "zh-hant": "SICC",
+      "ja": "SICC",
+      "es": "SICC",
+      "pt": "SICC",
+      "ru": "SICC",
+      "tr": "SICC",
+      "id": "SICC",
+      "ms": "SICC",
+      "vi": "SICC"
+    }
+  },
+  {
+    "slug": "siemens-energy",
+    "name_en": "Siemens Energy",
+    "ticker": "",
+    "aliases": [
+      "西门子能源"
+    ],
+    "labels": {
+      "en": "Siemens Energy",
+      "zh-hans": "西门子能源",
+      "zh-hant": "西門子能源",
+      "ja": "シーメンス・エナジー",
+      "es": "Siemens Energy",
+      "pt": "Siemens Energy",
+      "ru": "Siemens Energy",
+      "tr": "Siemens Energy",
+      "id": "Siemens Energy",
+      "ms": "Siemens Energy",
+      "vi": "Siemens Energy"
+    }
+  },
+  {
+    "slug": "sien",
+    "name_en": "SiEn",
+    "ticker": "",
+    "aliases": [
+      "芯联集成"
+    ],
+    "labels": {
+      "en": "SiEn",
+      "zh-hans": "芯联集成",
+      "zh-hant": "芯聯集成",
+      "ja": "芯聯集成",
+      "es": "SiEn",
+      "pt": "SiEn",
+      "ru": "SiEn",
+      "tr": "SiEn",
+      "id": "SiEn",
+      "ms": "SiEn",
+      "vi": "SiEn"
+    }
+  },
+  {
+    "slug": "sieyuan-electric",
+    "name_en": "Sieyuan Electric",
+    "ticker": "",
+    "aliases": [
+      "思源电气"
+    ],
+    "labels": {
+      "en": "Sieyuan Electric",
+      "zh-hans": "思源电气",
+      "zh-hant": "思源電氣",
+      "ja": "思源電気",
+      "es": "Sieyuan Electric",
+      "pt": "Sieyuan Electric",
+      "ru": "Sieyuan Electric",
+      "tr": "Sieyuan Electric",
+      "id": "Sieyuan Electric",
+      "ms": "Sieyuan Electric",
+      "vi": "Sieyuan Electric"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/sieyuan-electric"
+  },
+  {
+    "slug": "sinbon",
+    "name_en": "Sinbon",
+    "ticker": "",
+    "aliases": [
+      "Sinbon"
+    ],
+    "labels": {
+      "en": "Sinbon",
+      "zh-hans": "Sinbon",
+      "zh-hant": "Sinbon",
+      "ja": "Sinbon",
+      "es": "Sinbon",
+      "pt": "Sinbon",
+      "ru": "Sinbon",
+      "tr": "Sinbon",
+      "id": "Sinbon",
+      "ms": "Sinbon",
+      "vi": "Sinbon"
+    }
+  },
+  {
+    "slug": "sinoma-science-and-technology",
+    "name_en": "Sinoma Science & Technology",
+    "ticker": "",
+    "aliases": [
+      "中材科技"
+    ],
+    "labels": {
+      "en": "Sinoma Science & Technology",
+      "zh-hans": "中材科技",
+      "zh-hant": "中材科技",
+      "ja": "中材科技",
+      "es": "Sinoma Science & Technology",
+      "pt": "Sinoma Science & Technology",
+      "ru": "Sinoma Science & Technology",
+      "tr": "Sinoma Science & Technology",
+      "id": "Sinoma Science & Technology",
+      "ms": "Sinoma Science & Technology",
+      "vi": "Sinoma Science & Technology"
+    }
+  },
+  {
+    "slug": "sinopec",
+    "name_en": "Sinopec",
+    "ticker": "",
+    "aliases": [
+      "中石化"
+    ],
+    "labels": {
+      "en": "Sinopec",
+      "zh-hans": "中石化",
+      "zh-hant": "中石化",
+      "ja": "シノペック",
+      "es": "Sinopec",
+      "pt": "Sinopec",
+      "ru": "Sinopec",
+      "tr": "Sinopec",
+      "id": "Sinopec",
+      "ms": "Sinopec",
+      "vi": "Sinopec"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/sinopec"
+  },
+  {
+    "slug": "sinopharm-group",
+    "name_en": "Sinopharm Group",
+    "ticker": "",
+    "aliases": [
+      "国药控股"
+    ],
+    "labels": {
+      "en": "Sinopharm Group",
+      "zh-hans": "国药控股",
+      "zh-hant": "國藥控股",
+      "ja": "国薬控股",
+      "es": "Sinopharm Group",
+      "pt": "Sinopharm Group",
+      "ru": "Sinopharm Group",
+      "tr": "Sinopharm Group",
+      "id": "Sinopharm Group",
+      "ms": "Sinopharm Group",
+      "vi": "Sinopharm Group"
+    }
+  },
+  {
+    "slug": "sk-hynix",
+    "name_en": "SK hynix",
+    "ticker": "",
+    "aliases": [
+      "SK海力士"
+    ],
+    "labels": {
+      "en": "SK hynix",
+      "zh-hans": "SK海力士",
+      "zh-hant": "SK海力士",
+      "ja": "SKハイニックス",
+      "es": "SK hynix",
+      "pt": "SK hynix",
+      "ru": "SK hynix",
+      "tr": "SK hynix",
+      "id": "SK hynix",
+      "ms": "SK hynix",
+      "vi": "SK hynix"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/sk-hynix"
+  },
+  {
+    "slug": "slb",
+    "name_en": "SLB",
+    "ticker": "",
+    "aliases": [
+      "SLB"
+    ],
+    "labels": {
+      "en": "SLB",
+      "zh-hans": "SLB",
+      "zh-hant": "SLB",
+      "ja": "SLB",
+      "es": "SLB",
+      "pt": "SLB",
+      "ru": "SLB",
+      "tr": "SLB",
+      "id": "SLB",
+      "ms": "SLB",
+      "vi": "SLB"
+    }
+  },
+  {
+    "slug": "smic",
+    "name_en": "SMIC",
+    "ticker": "",
+    "aliases": [
+      "中芯国际"
+    ],
+    "labels": {
+      "en": "SMIC",
+      "zh-hans": "中芯国际",
+      "zh-hant": "中芯國際",
+      "ja": "SMIC",
+      "es": "SMIC",
+      "pt": "SMIC",
+      "ru": "SMIC",
+      "tr": "SMIC",
+      "id": "SMIC",
+      "ms": "SMIC",
+      "vi": "SMIC"
+    }
+  },
+  {
+    "slug": "sofi",
+    "name_en": "SoFi",
+    "ticker": "",
+    "aliases": [
+      "SoFi"
+    ],
+    "labels": {
+      "en": "SoFi",
+      "zh-hans": "SoFi",
+      "zh-hant": "SoFi",
+      "ja": "SoFi",
+      "es": "SoFi",
+      "pt": "SoFi",
+      "ru": "SoFi",
+      "tr": "SoFi",
+      "id": "SoFi",
+      "ms": "SoFi",
+      "vi": "SoFi"
+    }
+  },
+  {
+    "slug": "softbank-group",
+    "name_en": "SoftBank Group",
+    "ticker": "",
+    "aliases": [
+      "软银集团"
+    ],
+    "labels": {
+      "en": "SoftBank Group",
+      "zh-hans": "软银集团",
+      "zh-hant": "軟銀集團",
+      "ja": "ソフトバンクグループ",
+      "es": "SoftBank Group",
+      "pt": "SoftBank Group",
+      "ru": "SoftBank Group",
+      "tr": "SoftBank Group",
+      "id": "SoftBank Group",
+      "ms": "SoftBank Group",
+      "vi": "SoftBank Group"
+    }
+  },
+  {
+    "slug": "songfa",
+    "name_en": "Songfa",
+    "ticker": "",
+    "aliases": [
+      "松发股份"
+    ],
+    "labels": {
+      "en": "Songfa",
+      "zh-hans": "松发股份",
+      "zh-hant": "松發股份",
+      "ja": "松発股份",
+      "es": "Songfa",
+      "pt": "Songfa",
+      "ru": "Songfa",
+      "tr": "Songfa",
+      "id": "Songfa",
+      "ms": "Songfa",
+      "vi": "Songfa"
+    }
+  },
+  {
+    "slug": "spacex",
+    "name_en": "SpaceX",
+    "ticker": "",
+    "aliases": [
+      "SpaceX"
+    ],
+    "labels": {
+      "en": "SpaceX",
+      "zh-hans": "SpaceX",
+      "zh-hant": "SpaceX",
+      "ja": "スペースX",
+      "es": "SpaceX",
+      "pt": "SpaceX",
+      "ru": "SpaceX",
+      "tr": "SpaceX",
+      "id": "SpaceX",
+      "ms": "SpaceX",
+      "vi": "SpaceX"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/spacex"
+  },
+  {
+    "slug": "spotify",
+    "name_en": "Spotify",
+    "ticker": "",
+    "aliases": [
+      "Spotify"
+    ],
+    "labels": {
+      "en": "Spotify",
+      "zh-hans": "Spotify",
+      "zh-hant": "Spotify",
+      "ja": "Spotify",
+      "es": "Spotify",
+      "pt": "Spotify",
+      "ru": "Spotify",
+      "tr": "Spotify",
+      "id": "Spotify",
+      "ms": "Spotify",
+      "vi": "Spotify"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/spotify"
+  },
+  {
+    "slug": "stmicroelectronics",
+    "name_en": "STMicroelectronics",
+    "ticker": "",
+    "aliases": [
+      "意法半导体"
+    ],
+    "labels": {
+      "en": "STMicroelectronics",
+      "zh-hans": "意法半导体",
+      "zh-hant": "意法半導體",
+      "ja": "STマイクロエレクトロニクス",
+      "es": "STMicroelectronics",
+      "pt": "STMicroelectronics",
+      "ru": "STMicroelectronics",
+      "tr": "STMicroelectronics",
+      "id": "STMicroelectronics",
+      "ms": "STMicroelectronics",
+      "vi": "STMicroelectronics"
+    }
+  },
+  {
+    "slug": "strategy",
+    "name_en": "Strategy",
+    "ticker": "",
+    "aliases": [
+      "Strategy"
+    ],
+    "labels": {
+      "en": "Strategy",
+      "zh-hans": "Strategy",
+      "zh-hant": "Strategy",
+      "ja": "Strategy",
+      "es": "Strategy",
+      "pt": "Strategy",
+      "ru": "Strategy",
+      "tr": "Strategy",
+      "id": "Strategy",
+      "ms": "Strategy",
+      "vi": "Strategy"
+    }
+  },
+  {
+    "slug": "sumitomo-bakelite",
+    "name_en": "Sumitomo Bakelite",
+    "ticker": "",
+    "aliases": [
+      "住友电木"
+    ],
+    "labels": {
+      "en": "Sumitomo Bakelite",
+      "zh-hans": "住友电木",
+      "zh-hant": "住友電木",
+      "ja": "住友ベークライト",
+      "es": "Sumitomo Bakelite",
+      "pt": "Sumitomo Bakelite",
+      "ru": "Sumitomo Bakelite",
+      "tr": "Sumitomo Bakelite",
+      "id": "Sumitomo Bakelite",
+      "ms": "Sumitomo Bakelite",
+      "vi": "Sumitomo Bakelite"
+    }
+  },
+  {
+    "slug": "sun-communities",
+    "name_en": "Sun Communities",
+    "ticker": "",
+    "aliases": [
+      "Sun Communities"
+    ],
+    "labels": {
+      "en": "Sun Communities",
+      "zh-hans": "Sun Communities",
+      "zh-hant": "Sun Communities",
+      "ja": "Sun Communities",
+      "es": "Sun Communities",
+      "pt": "Sun Communities",
+      "ru": "Sun Communities",
+      "tr": "Sun Communities",
+      "id": "Sun Communities",
+      "ms": "Sun Communities",
+      "vi": "Sun Communities"
+    }
+  },
+  {
+    "slug": "supermicro",
+    "name_en": "Supermicro",
+    "ticker": "",
+    "aliases": [
+      "超微电脑"
+    ],
+    "labels": {
+      "en": "Supermicro",
+      "zh-hans": "超微电脑",
+      "zh-hant": "超微電腦",
+      "ja": "スーパー・マイクロ",
+      "es": "Supermicro",
+      "pt": "Supermicro",
+      "ru": "Supermicro",
+      "tr": "Supermicro",
+      "id": "Supermicro",
+      "ms": "Supermicro",
+      "vi": "Supermicro"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/supermicro"
+  },
+  {
+    "slug": "supor",
+    "name_en": "Supor",
+    "ticker": "",
+    "aliases": [
+      "苏泊尔"
+    ],
+    "labels": {
+      "en": "Supor",
+      "zh-hans": "苏泊尔",
+      "zh-hant": "蘇泊爾",
+      "ja": "Supor",
+      "es": "Supor",
+      "pt": "Supor",
+      "ru": "Supor",
+      "tr": "Supor",
+      "id": "Supor",
+      "ms": "Supor",
+      "vi": "Supor"
+    }
+  },
+  {
+    "slug": "swiggy",
+    "name_en": "Swiggy",
+    "ticker": "",
+    "aliases": [
+      "Swiggy"
+    ],
+    "labels": {
+      "en": "Swiggy",
+      "zh-hans": "Swiggy",
+      "zh-hant": "Swiggy",
+      "ja": "Swiggy",
+      "es": "Swiggy",
+      "pt": "Swiggy",
+      "ru": "Swiggy",
+      "tr": "Swiggy",
+      "id": "Swiggy",
+      "ms": "Swiggy",
+      "vi": "Swiggy"
+    }
+  },
+  {
+    "slug": "swire-properties",
+    "name_en": "Swire Properties",
+    "ticker": "",
+    "aliases": [
+      "太古地产"
+    ],
+    "labels": {
+      "en": "Swire Properties",
+      "zh-hans": "太古地产",
+      "zh-hant": "太古地產",
+      "ja": "太古地産",
+      "es": "Swire Properties",
+      "pt": "Swire Properties",
+      "ru": "Swire Properties",
+      "tr": "Swire Properties",
+      "id": "Swire Properties",
+      "ms": "Swire Properties",
+      "vi": "Swire Properties"
+    }
+  },
+  {
+    "slug": "synchrony-financial",
+    "name_en": "Synchrony Financial",
+    "ticker": "",
+    "aliases": [
+      "Synchrony Financial"
+    ],
+    "labels": {
+      "en": "Synchrony Financial",
+      "zh-hans": "Synchrony Financial",
+      "zh-hant": "Synchrony Financial",
+      "ja": "Synchrony Financial",
+      "es": "Synchrony Financial",
+      "pt": "Synchrony Financial",
+      "ru": "Synchrony Financial",
+      "tr": "Synchrony Financial",
+      "id": "Synchrony Financial",
+      "ms": "Synchrony Financial",
+      "vi": "Synchrony Financial"
+    }
+  },
+  {
+    "slug": "te-connectivity",
+    "name_en": "TE Connectivity",
+    "ticker": "",
+    "aliases": [
+      "TE Connectivity"
+    ],
+    "labels": {
+      "en": "TE Connectivity",
+      "zh-hans": "TE Connectivity",
+      "zh-hant": "TE Connectivity",
+      "ja": "TE Connectivity",
+      "es": "TE Connectivity",
+      "pt": "TE Connectivity",
+      "ru": "TE Connectivity",
+      "tr": "TE Connectivity",
+      "id": "TE Connectivity",
+      "ms": "TE Connectivity",
+      "vi": "TE Connectivity"
+    }
+  },
+  {
+    "slug": "teledyne-technologies",
+    "name_en": "Teledyne Technologies",
+    "ticker": "",
+    "aliases": [
+      "Teledyne Technologies"
+    ],
+    "labels": {
+      "en": "Teledyne Technologies",
+      "zh-hans": "Teledyne Technologies",
+      "zh-hant": "Teledyne Technologies",
+      "ja": "Teledyne Technologies",
+      "es": "Teledyne Technologies",
+      "pt": "Teledyne Technologies",
+      "ru": "Teledyne Technologies",
+      "tr": "Teledyne Technologies",
+      "id": "Teledyne Technologies",
+      "ms": "Teledyne Technologies",
+      "vi": "Teledyne Technologies"
+    }
+  },
+  {
+    "slug": "tencent",
+    "name_en": "Tencent",
+    "ticker": "",
+    "aliases": [
+      "腾讯"
+    ],
+    "labels": {
+      "en": "Tencent",
+      "zh-hans": "腾讯",
+      "zh-hant": "騰訊",
+      "ja": "テンセント",
+      "es": "Tencent",
+      "pt": "Tencent",
+      "ru": "Tencent",
+      "tr": "Tencent",
+      "id": "Tencent",
+      "ms": "Tencent",
+      "vi": "Tencent"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/tencent"
+  },
+  {
+    "slug": "tencent-music",
+    "name_en": "Tencent Music",
+    "ticker": "",
+    "aliases": [
+      "腾讯音乐"
+    ],
+    "labels": {
+      "en": "Tencent Music",
+      "zh-hans": "腾讯音乐",
+      "zh-hant": "騰訊音樂",
+      "ja": "テンセント・ミュージック",
+      "es": "Tencent Music",
+      "pt": "Tencent Music",
+      "ru": "Tencent Music",
+      "tr": "Tencent Music",
+      "id": "Tencent Music",
+      "ms": "Tencent Music",
+      "vi": "Tencent Music"
+    }
+  },
+  {
+    "slug": "tengxin-precision",
+    "name_en": "Tengxin Precision",
+    "ticker": "",
+    "aliases": [
+      "腾信精密"
+    ],
+    "labels": {
+      "en": "Tengxin Precision",
+      "zh-hans": "腾信精密",
+      "zh-hant": "騰信精密",
+      "ja": "騰信精密",
+      "es": "Tengxin Precision",
+      "pt": "Tengxin Precision",
+      "ru": "Tengxin Precision",
+      "tr": "Tengxin Precision",
+      "id": "Tengxin Precision",
+      "ms": "Tengxin Precision",
+      "vi": "Tengxin Precision"
+    }
+  },
+  {
+    "slug": "tesla",
+    "name_en": "Tesla",
+    "ticker": "",
+    "aliases": [
+      "特斯拉"
+    ],
+    "labels": {
+      "en": "Tesla",
+      "zh-hans": "特斯拉",
+      "zh-hant": "特斯拉",
+      "ja": "テスラ",
+      "es": "Tesla",
+      "pt": "Tesla",
+      "ru": "Tesla",
+      "tr": "Tesla",
+      "id": "Tesla",
+      "ms": "Tesla",
+      "vi": "Tesla"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/tesla"
+  },
+  {
+    "slug": "texas-instruments",
+    "name_en": "Texas Instruments",
+    "ticker": "",
+    "aliases": [
+      "德州仪器"
+    ],
+    "labels": {
+      "en": "Texas Instruments",
+      "zh-hans": "德州仪器",
+      "zh-hant": "德州儀器",
+      "ja": "テキサス・インスツルメンツ",
+      "es": "Texas Instruments",
+      "pt": "Texas Instruments",
+      "ru": "Texas Instruments",
+      "tr": "Texas Instruments",
+      "id": "Texas Instruments",
+      "ms": "Texas Instruments",
+      "vi": "Texas Instruments"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/texas-instruments"
+  },
+  {
+    "slug": "tfc",
+    "name_en": "TFC",
+    "ticker": "",
+    "aliases": [
+      "天孚通信"
+    ],
+    "labels": {
+      "en": "TFC",
+      "zh-hans": "天孚通信",
+      "zh-hant": "天孚通信",
+      "ja": "TFC",
+      "es": "TFC",
+      "pt": "TFC",
+      "ru": "TFC",
+      "tr": "TFC",
+      "id": "TFC",
+      "ms": "TFC",
+      "vi": "TFC"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/tfc"
+  },
+  {
+    "slug": "tgood",
+    "name_en": "TGOOD",
+    "ticker": "",
+    "aliases": [
+      "特锐德"
+    ],
+    "labels": {
+      "en": "TGOOD",
+      "zh-hans": "特锐德",
+      "zh-hant": "特銳德",
+      "ja": "特鋭徳",
+      "es": "TGOOD",
+      "pt": "TGOOD",
+      "ru": "TGOOD",
+      "tr": "TGOOD",
+      "id": "TGOOD",
+      "ms": "TGOOD",
+      "vi": "TGOOD"
+    }
+  },
+  {
+    "slug": "thermo-fisher-scientific",
+    "name_en": "Thermo Fisher Scientific",
+    "ticker": "",
+    "aliases": [
+      "赛默飞"
+    ],
+    "labels": {
+      "en": "Thermo Fisher Scientific",
+      "zh-hans": "赛默飞",
+      "zh-hant": "賽默飛",
+      "ja": "サーモフィッシャーサイエンティフィック",
+      "es": "Thermo Fisher Scientific",
+      "pt": "Thermo Fisher Scientific",
+      "ru": "Thermo Fisher Scientific",
+      "tr": "Thermo Fisher Scientific",
+      "id": "Thermo Fisher Scientific",
+      "ms": "Thermo Fisher Scientific",
+      "vi": "Thermo Fisher Scientific"
+    }
+  },
+  {
+    "slug": "three-circle-group",
+    "name_en": "Three-Circle Group",
+    "ticker": "",
+    "aliases": [
+      "三环集团"
+    ],
+    "labels": {
+      "en": "Three-Circle Group",
+      "zh-hans": "三环集团",
+      "zh-hant": "三環集團",
+      "ja": "三環集団",
+      "es": "Three-Circle Group",
+      "pt": "Three-Circle Group",
+      "ru": "Three-Circle Group",
+      "tr": "Three-Circle Group",
+      "id": "Three-Circle Group",
+      "ms": "Three-Circle Group",
+      "vi": "Three-Circle Group"
+    }
+  },
+  {
+    "slug": "tianqi-lithium",
+    "name_en": "Tianqi Lithium",
+    "ticker": "",
+    "aliases": [
+      "天齐锂业"
+    ],
+    "labels": {
+      "en": "Tianqi Lithium",
+      "zh-hans": "天齐锂业",
+      "zh-hant": "天齊鋰業",
+      "ja": "天斉リチウム",
+      "es": "Tianqi Lithium",
+      "pt": "Tianqi Lithium",
+      "ru": "Tianqi Lithium",
+      "tr": "Tianqi Lithium",
+      "id": "Tianqi Lithium",
+      "ms": "Tianqi Lithium",
+      "vi": "Tianqi Lithium"
+    }
+  },
+  {
+    "slug": "toll-brothers",
+    "name_en": "Toll Brothers",
+    "ticker": "",
+    "aliases": [
+      "Toll Brothers"
+    ],
+    "labels": {
+      "en": "Toll Brothers",
+      "zh-hans": "Toll Brothers",
+      "zh-hant": "Toll Brothers",
+      "ja": "Toll Brothers",
+      "es": "Toll Brothers",
+      "pt": "Toll Brothers",
+      "ru": "Toll Brothers",
+      "tr": "Toll Brothers",
+      "id": "Toll Brothers",
+      "ms": "Toll Brothers",
+      "vi": "Toll Brothers"
+    }
+  },
+  {
+    "slug": "tsmc",
+    "name_en": "TSMC",
+    "ticker": "",
+    "aliases": [
+      "台积电"
+    ],
+    "labels": {
+      "en": "TSMC",
+      "zh-hans": "台积电",
+      "zh-hant": "台積電",
+      "ja": "TSMC",
+      "es": "TSMC",
+      "pt": "TSMC",
+      "ru": "TSMC",
+      "tr": "TSMC",
+      "id": "TSMC",
+      "ms": "TSMC",
+      "vi": "TSMC"
+    }
+  },
+  {
+    "slug": "tyler-technologies",
+    "name_en": "Tyler Technologies",
+    "ticker": "",
+    "aliases": [
+      "Tyler Technologies"
+    ],
+    "labels": {
+      "en": "Tyler Technologies",
+      "zh-hans": "Tyler Technologies",
+      "zh-hant": "Tyler Technologies",
+      "ja": "Tyler Technologies",
+      "es": "Tyler Technologies",
+      "pt": "Tyler Technologies",
+      "ru": "Tyler Technologies",
+      "tr": "Tyler Technologies",
+      "id": "Tyler Technologies",
+      "ms": "Tyler Technologies",
+      "vi": "Tyler Technologies"
+    }
+  },
+  {
+    "slug": "tyson-foods",
+    "name_en": "Tyson Foods",
+    "ticker": "",
+    "aliases": [
+      "泰森食品"
+    ],
+    "labels": {
+      "en": "Tyson Foods",
+      "zh-hans": "泰森食品",
+      "zh-hant": "泰森食品",
+      "ja": "タイソン・フーズ",
+      "es": "Tyson Foods",
+      "pt": "Tyson Foods",
+      "ru": "Tyson Foods",
+      "tr": "Tyson Foods",
+      "id": "Tyson Foods",
+      "ms": "Tyson Foods",
+      "vi": "Tyson Foods"
+    }
+  },
+  {
+    "slug": "uber",
+    "name_en": "Uber",
+    "ticker": "",
+    "aliases": [
+      "Uber"
+    ],
+    "labels": {
+      "en": "Uber",
+      "zh-hans": "Uber",
+      "zh-hant": "Uber",
+      "ja": "Uber",
+      "es": "Uber",
+      "pt": "Uber",
+      "ru": "Uber",
+      "tr": "Uber",
+      "id": "Uber",
+      "ms": "Uber",
+      "vi": "Uber"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/uber"
+  },
+  {
+    "slug": "unimicron",
+    "name_en": "Unimicron",
+    "ticker": "",
+    "aliases": [
+      "欣兴"
+    ],
+    "labels": {
+      "en": "Unimicron",
+      "zh-hans": "欣兴",
+      "zh-hant": "欣興",
+      "ja": "欣興",
+      "es": "Unimicron",
+      "pt": "Unimicron",
+      "ru": "Unimicron",
+      "tr": "Unimicron",
+      "id": "Unimicron",
+      "ms": "Unimicron",
+      "vi": "Unimicron"
+    }
+  },
+  {
+    "slug": "union-pacific",
+    "name_en": "Union Pacific",
+    "ticker": "",
+    "aliases": [
+      "联合太平洋"
+    ],
+    "labels": {
+      "en": "Union Pacific",
+      "zh-hans": "联合太平洋",
+      "zh-hant": "聯合太平洋",
+      "ja": "ユニオン・パシフィック",
+      "es": "Union Pacific",
+      "pt": "Union Pacific",
+      "ru": "Union Pacific",
+      "tr": "Union Pacific",
+      "id": "Union Pacific",
+      "ms": "Union Pacific",
+      "vi": "Union Pacific"
+    }
+  },
+  {
+    "slug": "united-rentals",
+    "name_en": "United Rentals",
+    "ticker": "",
+    "aliases": [
+      "United Rentals"
+    ],
+    "labels": {
+      "en": "United Rentals",
+      "zh-hans": "United Rentals",
+      "zh-hant": "United Rentals",
+      "ja": "United Rentals",
+      "es": "United Rentals",
+      "pt": "United Rentals",
+      "ru": "United Rentals",
+      "tr": "United Rentals",
+      "id": "United Rentals",
+      "ms": "United Rentals",
+      "vi": "United Rentals"
+    }
+  },
+  {
+    "slug": "unitree-robotics",
+    "name_en": "Unitree Robotics",
+    "ticker": "",
+    "aliases": [
+      "宇树科技"
+    ],
+    "labels": {
+      "en": "Unitree Robotics",
+      "zh-hans": "宇树科技",
+      "zh-hant": "宇樹科技",
+      "ja": "Unitree Robotics",
+      "es": "Unitree Robotics",
+      "pt": "Unitree Robotics",
+      "ru": "Unitree Robotics",
+      "tr": "Unitree Robotics",
+      "id": "Unitree Robotics",
+      "ms": "Unitree Robotics",
+      "vi": "Unitree Robotics"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/unitree-robotics"
+  },
+  {
+    "slug": "veichi-electric",
+    "name_en": "Veichi Electric",
+    "ticker": "",
+    "aliases": [
+      "伟创电气"
+    ],
+    "labels": {
+      "en": "Veichi Electric",
+      "zh-hans": "伟创电气",
+      "zh-hant": "偉創電氣",
+      "ja": "Veichi Electric",
+      "es": "Veichi Electric",
+      "pt": "Veichi Electric",
+      "ru": "Veichi Electric",
+      "tr": "Veichi Electric",
+      "id": "Veichi Electric",
+      "ms": "Veichi Electric",
+      "vi": "Veichi Electric"
+    }
+  },
+  {
+    "slug": "verizon",
+    "name_en": "Verizon",
+    "ticker": "",
+    "aliases": [
+      "Verizon"
+    ],
+    "labels": {
+      "en": "Verizon",
+      "zh-hans": "Verizon",
+      "zh-hant": "Verizon",
+      "ja": "ベライゾン",
+      "es": "Verizon",
+      "pt": "Verizon",
+      "ru": "Verizon",
+      "tr": "Verizon",
+      "id": "Verizon",
+      "ms": "Verizon",
+      "vi": "Verizon"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/verizon"
+  },
+  {
+    "slug": "vertex-pharmaceuticals",
+    "name_en": "Vertex Pharmaceuticals",
+    "ticker": "",
+    "aliases": [
+      "Vertex Pharmaceuticals"
+    ],
+    "labels": {
+      "en": "Vertex Pharmaceuticals",
+      "zh-hans": "Vertex Pharmaceuticals",
+      "zh-hant": "Vertex Pharmaceuticals",
+      "ja": "バーテックス・ファーマシューティカルズ",
+      "es": "Vertex Pharmaceuticals",
+      "pt": "Vertex Pharmaceuticals",
+      "ru": "Vertex Pharmaceuticals",
+      "tr": "Vertex Pharmaceuticals",
+      "id": "Vertex Pharmaceuticals",
+      "ms": "Vertex Pharmaceuticals",
+      "vi": "Vertex Pharmaceuticals"
+    }
+  },
+  {
+    "slug": "vertiv",
+    "name_en": "Vertiv",
+    "ticker": "",
+    "aliases": [
+      "Vertiv"
+    ],
+    "labels": {
+      "en": "Vertiv",
+      "zh-hans": "Vertiv",
+      "zh-hant": "Vertiv",
+      "ja": "バーティブ",
+      "es": "Vertiv",
+      "pt": "Vertiv",
+      "ru": "Vertiv",
+      "tr": "Vertiv",
+      "id": "Vertiv",
+      "ms": "Vertiv",
+      "vi": "Vertiv"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/vertiv"
+  },
+  {
+    "slug": "viatris",
+    "name_en": "Viatris",
+    "ticker": "",
+    "aliases": [
+      "Viatris"
+    ],
+    "labels": {
+      "en": "Viatris",
+      "zh-hans": "Viatris",
+      "zh-hant": "Viatris",
+      "ja": "ヴィアトリス",
+      "es": "Viatris",
+      "pt": "Viatris",
+      "ru": "Viatris",
+      "tr": "Viatris",
+      "id": "Viatris",
+      "ms": "Viatris",
+      "vi": "Viatris"
+    }
+  },
+  {
+    "slug": "visteon",
+    "name_en": "Visteon",
+    "ticker": "",
+    "aliases": [
+      "Visteon"
+    ],
+    "labels": {
+      "en": "Visteon",
+      "zh-hans": "Visteon",
+      "zh-hant": "Visteon",
+      "ja": "Visteon",
+      "es": "Visteon",
+      "pt": "Visteon",
+      "ru": "Visteon",
+      "tr": "Visteon",
+      "id": "Visteon",
+      "ms": "Visteon",
+      "vi": "Visteon"
+    }
+  },
+  {
+    "slug": "vita-coco",
+    "name_en": "Vita Coco",
+    "ticker": "",
+    "aliases": [
+      "Vita Coco"
+    ],
+    "labels": {
+      "en": "Vita Coco",
+      "zh-hans": "Vita Coco",
+      "zh-hant": "Vita Coco",
+      "ja": "Vita Coco",
+      "es": "Vita Coco",
+      "pt": "Vita Coco",
+      "ru": "Vita Coco",
+      "tr": "Vita Coco",
+      "id": "Vita Coco",
+      "ms": "Vita Coco",
+      "vi": "Vita Coco"
+    }
+  },
+  {
+    "slug": "vivmark-residential",
+    "name_en": "Vivmark Residential",
+    "ticker": "",
+    "aliases": [
+      "Vivmark Residential"
+    ],
+    "labels": {
+      "en": "Vivmark Residential",
+      "zh-hans": "Vivmark Residential",
+      "zh-hant": "Vivmark Residential",
+      "ja": "Vivmark Residential",
+      "es": "Vivmark Residential",
+      "pt": "Vivmark Residential",
+      "ru": "Vivmark Residential",
+      "tr": "Vivmark Residential",
+      "id": "Vivmark Residential",
+      "ms": "Vivmark Residential",
+      "vi": "Vivmark Residential"
+    }
+  },
+  {
+    "slug": "volaris",
+    "name_en": "Volaris",
+    "ticker": "",
+    "aliases": [
+      "Volaris"
+    ],
+    "labels": {
+      "en": "Volaris",
+      "zh-hans": "Volaris",
+      "zh-hant": "Volaris",
+      "ja": "Volaris",
+      "es": "Volaris",
+      "pt": "Volaris",
+      "ru": "Volaris",
+      "tr": "Volaris",
+      "id": "Volaris",
+      "ms": "Volaris",
+      "vi": "Volaris"
+    }
+  },
+  {
+    "slug": "walmart",
+    "name_en": "Walmart",
+    "ticker": "",
+    "aliases": [
+      "沃尔玛"
+    ],
+    "labels": {
+      "en": "Walmart",
+      "zh-hans": "沃尔玛",
+      "zh-hant": "沃爾瑪",
+      "ja": "ウォルマート",
+      "es": "Walmart",
+      "pt": "Walmart",
+      "ru": "Walmart",
+      "tr": "Walmart",
+      "id": "Walmart",
+      "ms": "Walmart",
+      "vi": "Walmart"
+    }
+  },
+  {
+    "slug": "wanhua-chemical",
+    "name_en": "Wanhua Chemical",
+    "ticker": "",
+    "aliases": [
+      "万华化学"
+    ],
+    "labels": {
+      "en": "Wanhua Chemical",
+      "zh-hans": "万华化学",
+      "zh-hant": "萬華化學",
+      "ja": "万華化学",
+      "es": "Wanhua Chemical",
+      "pt": "Wanhua Chemical",
+      "ru": "Wanhua Chemical",
+      "tr": "Wanhua Chemical",
+      "id": "Wanhua Chemical",
+      "ms": "Wanhua Chemical",
+      "vi": "Wanhua Chemical"
+    }
+  },
+  {
+    "slug": "wanxiang-qianchao",
+    "name_en": "Wanxiang Qianchao",
+    "ticker": "",
+    "aliases": [
+      "万向钱潮"
+    ],
+    "labels": {
+      "en": "Wanxiang Qianchao",
+      "zh-hans": "万向钱潮",
+      "zh-hant": "萬向錢潮",
+      "ja": "万向銭潮",
+      "es": "Wanxiang Qianchao",
+      "pt": "Wanxiang Qianchao",
+      "ru": "Wanxiang Qianchao",
+      "tr": "Wanxiang Qianchao",
+      "id": "Wanxiang Qianchao",
+      "ms": "Wanxiang Qianchao",
+      "vi": "Wanxiang Qianchao"
+    }
+  },
+  {
+    "slug": "waste-connections",
+    "name_en": "Waste Connections",
+    "ticker": "",
+    "aliases": [
+      "Waste Connections"
+    ],
+    "labels": {
+      "en": "Waste Connections",
+      "zh-hans": "Waste Connections",
+      "zh-hant": "Waste Connections",
+      "ja": "Waste Connections",
+      "es": "Waste Connections",
+      "pt": "Waste Connections",
+      "ru": "Waste Connections",
+      "tr": "Waste Connections",
+      "id": "Waste Connections",
+      "ms": "Waste Connections",
+      "vi": "Waste Connections"
+    }
+  },
+  {
+    "slug": "weichai-power",
+    "name_en": "Weichai Power",
+    "ticker": "",
+    "aliases": [
+      "潍柴动力"
+    ],
+    "labels": {
+      "en": "Weichai Power",
+      "zh-hans": "潍柴动力",
+      "zh-hant": "濰柴動力",
+      "ja": "濰柴動力",
+      "es": "Weichai Power",
+      "pt": "Weichai Power",
+      "ru": "Weichai Power",
+      "tr": "Weichai Power",
+      "id": "Weichai Power",
+      "ms": "Weichai Power",
+      "vi": "Weichai Power"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/weichai-power"
+  },
+  {
+    "slug": "wergain",
+    "name_en": "Wergain",
+    "ticker": "",
+    "aliases": [
+      "威尔高"
+    ],
+    "labels": {
+      "en": "Wergain",
+      "zh-hans": "威尔高",
+      "zh-hant": "威爾高",
+      "ja": "威爾高",
+      "es": "Wergain",
+      "pt": "Wergain",
+      "ru": "Wergain",
+      "tr": "Wergain",
+      "id": "Wergain",
+      "ms": "Wergain",
+      "vi": "Wergain"
+    }
+  },
+  {
+    "slug": "werner-enterprises",
+    "name_en": "Werner Enterprises",
+    "ticker": "",
+    "aliases": [
+      "Werner Enterprises"
+    ],
+    "labels": {
+      "en": "Werner Enterprises",
+      "zh-hans": "Werner Enterprises",
+      "zh-hant": "Werner Enterprises",
+      "ja": "Werner Enterprises",
+      "es": "Werner Enterprises",
+      "pt": "Werner Enterprises",
+      "ru": "Werner Enterprises",
+      "tr": "Werner Enterprises",
+      "id": "Werner Enterprises",
+      "ms": "Werner Enterprises",
+      "vi": "Werner Enterprises"
+    }
+  },
+  {
+    "slug": "western-digital",
+    "name_en": "Western Digital",
+    "ticker": "",
+    "aliases": [
+      "西部数据"
+    ],
+    "labels": {
+      "en": "Western Digital",
+      "zh-hans": "西部数据",
+      "zh-hant": "西部數據",
+      "ja": "ウエスタンデジタル",
+      "es": "Western Digital",
+      "pt": "Western Digital",
+      "ru": "Western Digital",
+      "tr": "Western Digital",
+      "id": "Western Digital",
+      "ms": "Western Digital",
+      "vi": "Western Digital"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/western-digital"
+  },
+  {
+    "slug": "winway",
+    "name_en": "WinWay",
+    "ticker": "",
+    "aliases": [
+      "WinWay"
+    ],
+    "labels": {
+      "en": "WinWay",
+      "zh-hans": "WinWay",
+      "zh-hant": "WinWay",
+      "ja": "WinWay",
+      "es": "WinWay",
+      "pt": "WinWay",
+      "ru": "WinWay",
+      "tr": "WinWay",
+      "id": "WinWay",
+      "ms": "WinWay",
+      "vi": "WinWay"
+    }
+  },
+  {
+    "slug": "wistron",
+    "name_en": "Wistron",
+    "ticker": "",
+    "aliases": [
+      "纬创"
+    ],
+    "labels": {
+      "en": "Wistron",
+      "zh-hans": "纬创",
+      "zh-hant": "緯創",
+      "ja": "ウィストロン",
+      "es": "Wistron",
+      "pt": "Wistron",
+      "ru": "Wistron",
+      "tr": "Wistron",
+      "id": "Wistron",
+      "ms": "Wistron",
+      "vi": "Wistron"
+    }
+  },
+  {
+    "slug": "wiwynn",
+    "name_en": "Wiwynn",
+    "ticker": "",
+    "aliases": [
+      "纬颖"
+    ],
+    "labels": {
+      "en": "Wiwynn",
+      "zh-hans": "纬颖",
+      "zh-hant": "緯穎",
+      "ja": "Wiwynn",
+      "es": "Wiwynn",
+      "pt": "Wiwynn",
+      "ru": "Wiwynn",
+      "tr": "Wiwynn",
+      "id": "Wiwynn",
+      "ms": "Wiwynn",
+      "vi": "Wiwynn"
+    }
+  },
+  {
+    "slug": "wuliangye",
+    "name_en": "Wuliangye",
+    "ticker": "",
+    "aliases": [
+      "五粮液"
+    ],
+    "labels": {
+      "en": "Wuliangye",
+      "zh-hans": "五粮液",
+      "zh-hant": "五糧液",
+      "ja": "五糧液",
+      "es": "Wuliangye",
+      "pt": "Wuliangye",
+      "ru": "Wuliangye",
+      "tr": "Wuliangye",
+      "id": "Wuliangye",
+      "ms": "Wuliangye",
+      "vi": "Wuliangye"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/wuliangye"
+  },
+  {
+    "slug": "wuxi-apptec",
+    "name_en": "WuXi AppTec",
+    "ticker": "",
+    "aliases": [
+      "药明康德"
+    ],
+    "labels": {
+      "en": "WuXi AppTec",
+      "zh-hans": "药明康德",
+      "zh-hant": "藥明康德",
+      "ja": "WuXi AppTec",
+      "es": "WuXi AppTec",
+      "pt": "WuXi AppTec",
+      "ru": "WuXi AppTec",
+      "tr": "WuXi AppTec",
+      "id": "WuXi AppTec",
+      "ms": "WuXi AppTec",
+      "vi": "WuXi AppTec"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/wuxi-apptec"
+  },
+  {
+    "slug": "xcmg-machinery",
+    "name_en": "XCMG Machinery",
+    "ticker": "",
+    "aliases": [
+      "徐工机械"
+    ],
+    "labels": {
+      "en": "XCMG Machinery",
+      "zh-hans": "徐工机械",
+      "zh-hant": "徐工機械",
+      "ja": "徐工機械",
+      "es": "XCMG Machinery",
+      "pt": "XCMG Machinery",
+      "ru": "XCMG Machinery",
+      "tr": "XCMG Machinery",
+      "id": "XCMG Machinery",
+      "ms": "XCMG Machinery",
+      "vi": "XCMG Machinery"
+    }
+  },
+  {
+    "slug": "xgimi",
+    "name_en": "XGIMI",
+    "ticker": "",
+    "aliases": [
+      "极米科技"
+    ],
+    "labels": {
+      "en": "XGIMI",
+      "zh-hans": "极米科技",
+      "zh-hant": "極米科技",
+      "ja": "極米科技",
+      "es": "XGIMI",
+      "pt": "XGIMI",
+      "ru": "XGIMI",
+      "tr": "XGIMI",
+      "id": "XGIMI",
+      "ms": "XGIMI",
+      "vi": "XGIMI"
+    }
+  },
+  {
+    "slug": "xinji-energy",
+    "name_en": "Xinji Energy",
+    "ticker": "",
+    "aliases": [
+      "新集能源"
+    ],
+    "labels": {
+      "en": "Xinji Energy",
+      "zh-hans": "新集能源",
+      "zh-hant": "新集能源",
+      "ja": "新集能源",
+      "es": "Xinji Energy",
+      "pt": "Xinji Energy",
+      "ru": "Xinji Energy",
+      "tr": "Xinji Energy",
+      "id": "Xinji Energy",
+      "ms": "Xinji Energy",
+      "vi": "Xinji Energy"
+    }
+  },
+  {
+    "slug": "xinyichang",
+    "name_en": "Xinyichang",
+    "ticker": "",
+    "aliases": [
+      "新益昌"
+    ],
+    "labels": {
+      "en": "Xinyichang",
+      "zh-hans": "新益昌",
+      "zh-hant": "新益昌",
+      "ja": "新益昌",
+      "es": "Xinyichang",
+      "pt": "Xinyichang",
+      "ru": "Xinyichang",
+      "tr": "Xinyichang",
+      "id": "Xinyichang",
+      "ms": "Xinyichang",
+      "vi": "Xinyichang"
+    }
+  },
+  {
+    "slug": "yageo",
+    "name_en": "Yageo",
+    "ticker": "",
+    "aliases": [
+      "国巨"
+    ],
+    "labels": {
+      "en": "Yageo",
+      "zh-hans": "国巨",
+      "zh-hant": "國巨",
+      "ja": "Yageo",
+      "es": "Yageo",
+      "pt": "Yageo",
+      "ru": "Yageo",
+      "tr": "Yageo",
+      "id": "Yageo",
+      "ms": "Yageo",
+      "vi": "Yageo"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/yageo"
+  },
+  {
+    "slug": "yamaha-motor",
+    "name_en": "Yamaha Motor",
+    "ticker": "",
+    "aliases": [
+      "雅马哈发动机"
+    ],
+    "labels": {
+      "en": "Yamaha Motor",
+      "zh-hans": "雅马哈发动机",
+      "zh-hant": "雅馬哈發動機",
+      "ja": "ヤマハ発動機",
+      "es": "Yamaha Motor",
+      "pt": "Yamaha Motor",
+      "ru": "Yamaha Motor",
+      "tr": "Yamaha Motor",
+      "id": "Yamaha Motor",
+      "ms": "Yamaha Motor",
+      "vi": "Yamaha Motor"
+    }
+  },
+  {
+    "slug": "yanjin-food",
+    "name_en": "Yanjin Food",
+    "ticker": "",
+    "aliases": [
+      "盐津铺子"
+    ],
+    "labels": {
+      "en": "Yanjin Food",
+      "zh-hans": "盐津铺子",
+      "zh-hant": "鹽津鋪子",
+      "ja": "塩津舗子",
+      "es": "Yanjin Food",
+      "pt": "Yanjin Food",
+      "ru": "Yanjin Food",
+      "tr": "Yanjin Food",
+      "id": "Yanjin Food",
+      "ms": "Yanjin Food",
+      "vi": "Yanjin Food"
+    }
+  },
+  {
+    "slug": "yihe-da",
+    "name_en": "Yihe Da",
+    "ticker": "",
+    "aliases": [
+      "怡合达"
+    ],
+    "labels": {
+      "en": "Yihe Da",
+      "zh-hans": "怡合达",
+      "zh-hant": "怡合達",
+      "ja": "怡合達",
+      "es": "Yihe Da",
+      "pt": "Yihe Da",
+      "ru": "Yihe Da",
+      "tr": "Yihe Da",
+      "id": "Yihe Da",
+      "ms": "Yihe Da",
+      "vi": "Yihe Da"
+    }
+  },
+  {
+    "slug": "yto-express",
+    "name_en": "YTO Express",
+    "ticker": "",
+    "aliases": [
+      "圆通速递"
+    ],
+    "labels": {
+      "en": "YTO Express",
+      "zh-hans": "圆通速递",
+      "zh-hant": "圓通速遞",
+      "ja": "YTO Express",
+      "es": "YTO Express",
+      "pt": "YTO Express",
+      "ru": "YTO Express",
+      "tr": "YTO Express",
+      "id": "YTO Express",
+      "ms": "YTO Express",
+      "vi": "YTO Express"
+    }
+  },
+  {
+    "slug": "yue-yuen-group",
+    "name_en": "Yue Yuen Group",
+    "ticker": "",
+    "aliases": [
+      "裕元集团"
+    ],
+    "labels": {
+      "en": "Yue Yuen Group",
+      "zh-hans": "裕元集团",
+      "zh-hant": "裕元集團",
+      "ja": "Yue Yuen Group",
+      "es": "Yue Yuen Group",
+      "pt": "Yue Yuen Group",
+      "ru": "Yue Yuen Group",
+      "tr": "Yue Yuen Group",
+      "id": "Yue Yuen Group",
+      "ms": "Yue Yuen Group",
+      "vi": "Yue Yuen Group"
+    }
+  },
+  {
+    "slug": "z-ai",
+    "name_en": "Z.AI",
+    "ticker": "",
+    "aliases": [
+      "Z.AI"
+    ],
+    "labels": {
+      "en": "Z.AI",
+      "zh-hans": "Z.AI",
+      "zh-hant": "Z.AI",
+      "ja": "Z.AI",
+      "es": "Z.AI",
+      "pt": "Z.AI",
+      "ru": "Z.AI",
+      "tr": "Z.AI",
+      "id": "Z.AI",
+      "ms": "Z.AI",
+      "vi": "Z.AI"
+    }
+  },
+  {
+    "slug": "zhejiang-dingli",
+    "name_en": "Zhejiang Dingli",
+    "ticker": "",
+    "aliases": [
+      "浙江鼎力"
+    ],
+    "labels": {
+      "en": "Zhejiang Dingli",
+      "zh-hans": "浙江鼎力",
+      "zh-hant": "浙江鼎力",
+      "ja": "浙江鼎力",
+      "es": "Zhejiang Dingli",
+      "pt": "Zhejiang Dingli",
+      "ru": "Zhejiang Dingli",
+      "tr": "Zhejiang Dingli",
+      "id": "Zhejiang Dingli",
+      "ms": "Zhejiang Dingli",
+      "vi": "Zhejiang Dingli"
+    }
+  },
+  {
+    "slug": "zhifei-biological",
+    "name_en": "Zhifei Biological",
+    "ticker": "",
+    "aliases": [
+      "智飞生物"
+    ],
+    "labels": {
+      "en": "Zhifei Biological",
+      "zh-hans": "智飞生物",
+      "zh-hant": "智飛生物",
+      "ja": "智飛生物",
+      "es": "Zhifei Biological",
+      "pt": "Zhifei Biological",
+      "ru": "Zhifei Biological",
+      "tr": "Zhifei Biological",
+      "id": "Zhifei Biological",
+      "ms": "Zhifei Biological",
+      "vi": "Zhifei Biological"
+    }
+  },
+  {
+    "slug": "zijin-gold-international",
+    "name_en": "Zijin Gold International",
+    "ticker": "",
+    "aliases": [
+      "紫金黄金国际"
+    ],
+    "labels": {
+      "en": "Zijin Gold International",
+      "zh-hans": "紫金黄金国际",
+      "zh-hant": "紫金黃金國際",
+      "ja": "紫金黄金国際",
+      "es": "Zijin Gold International",
+      "pt": "Zijin Gold International",
+      "ru": "Zijin Gold International",
+      "tr": "Zijin Gold International",
+      "id": "Zijin Gold International",
+      "ms": "Zijin Gold International",
+      "vi": "Zijin Gold International"
+    }
+  },
+  {
+    "slug": "zijin-mining",
+    "name_en": "Zijin Mining",
+    "ticker": "",
+    "aliases": [
+      "紫金矿业"
+    ],
+    "labels": {
+      "en": "Zijin Mining",
+      "zh-hans": "紫金矿业",
+      "zh-hant": "紫金礦業",
+      "ja": "紫金鉱業",
+      "es": "Zijin Mining",
+      "pt": "Zijin Mining",
+      "ru": "Zijin Mining",
+      "tr": "Zijin Mining",
+      "id": "Zijin Mining",
+      "ms": "Zijin Mining",
+      "vi": "Zijin Mining"
+    },
+    "hub_url_en": "https://unhidea.com/en/company/zijin-mining"
+  },
+  {
+    "slug": "zte",
+    "name_en": "ZTE",
+    "ticker": "",
+    "aliases": [
+      "中兴通讯"
+    ],
+    "labels": {
+      "en": "ZTE",
+      "zh-hans": "中兴通讯",
+      "zh-hant": "中興通訊",
+      "ja": "ZTE",
+      "es": "ZTE",
+      "pt": "ZTE",
+      "ru": "ZTE",
+      "tr": "ZTE",
+      "id": "ZTE",
+      "ms": "ZTE",
+      "vi": "ZTE"
+    }
+  }
+]
