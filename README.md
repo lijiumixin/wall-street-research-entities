@@ -81,6 +81,7 @@ Browse live structured research summaries mapped to these entities on UnHideA:
 
 - **All Companies:** https://unhidea.com/en/companies (e.g. [Apple](https://unhidea.com/en/company/apple), [Microsoft](https://unhidea.com/en/company/microsoft), [Amazon](https://unhidea.com/en/company/amazon), [Meta](https://unhidea.com/en/company/meta), [Tesla](https://unhidea.com/en/company/tesla), [AMD](https://unhidea.com/en/company/amd))
 - **All Institutions:** https://unhidea.com/en/institutions (e.g. [Goldman Sachs](https://unhidea.com/en/institution/goldman-sachs), [J.P. Morgan](https://unhidea.com/en/institution/j-p-morgan), [Morgan Stanley](https://unhidea.com/en/institution/morgan-stanley), [Citi](https://unhidea.com/en/institution/citi), [Bernstein](https://unhidea.com/en/institution/bernstein))
+- **Live Wall Street Research MCP Server (14 tools, Streamable HTTP + OAuth):** https://unhidea.com/en/mcp ([GitHub](https://github.com/lijiumixin/unhidea-research-mcp) · Official MCP Registry `io.github.lijiumixin/unhidea-research-mcp`)
 - **Updates on X:** https://x.com/UnHideA
 
 ## License
